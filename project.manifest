@@ -1,10 +1,10 @@
 {
-    "packageUrl": "http://35.201.171.109/mobile/",
+    "packageUrl": "http://35.201.168.142/mobile/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "http://35.201.171.109/mobile/version.manifest",
+    "remoteVersionUrl": "http://35.201.168.142/mobile/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.16",
-    "remoteManifestUrl": "http://35.201.171.109/mobile/project.manifest"
+    "remoteManifestUrl": "http://35.201.168.142/mobile/project.manifest"
 }
