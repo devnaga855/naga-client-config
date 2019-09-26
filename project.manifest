@@ -1,10 +1,10 @@
 {
-    "packageUrl": "http://35.201.168.142/mobile/",
+    "packageUrl": "http://nagavip.club/m/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "http://35.201.168.142/mobile/version.manifest",
+    "remoteVersionUrl": "http://nagavip.club/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.16",
-    "remoteManifestUrl": "http://35.201.168.142/mobile/project.manifest"
+    "remoteManifestUrl": "http://nagavip.club/m/project.manifest"
 }
