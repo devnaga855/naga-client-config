@@ -1,10 +1,10 @@
 {
-    "packageUrl": "https://naga.casino/m/",
+    "packageUrl": "http://naga.casino/m/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "https://naga.casino/m/version.manifest",
+    "remoteVersionUrl": "http://naga.casino/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.16",
-    "remoteManifestUrl": "https://naga.casino/m/project.manifest"
+    "remoteManifestUrl": "http://naga.casino/m/project.manifest"
 }
