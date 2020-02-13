@@ -1,0 +1,17 @@
+/frameworks
+/src/resource.js
+/src/WebResource.js
+/.idea
+Temp.txt
+/simulator/
+/frameworks2/
+/publish/
+/*.DS_Store
+*.DS_Store
+/keystore
+*.zip
+/node_modules
+/.vs
+/dist
+Test.js
+package-lock.json
