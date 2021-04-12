@@ -1,9 +1,9 @@
 {
-    "packageUrl": "http://nagatop.club/m/",
+    "packageUrl": "http://kimnguyenbao.org/m/",
     "searchPaths": [],
     "assets": {},
-    "remoteVersionUrl": "http://nagatop.club/m/version.manifest",
+    "remoteVersionUrl": "http://kimnguyenbao.org/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.16",
-    "remoteManifestUrl": "http://nagatop.club/m/project.manifest"
+    "remoteManifestUrl": "http://kimnguyenbao.org/m/project.manifest"
 }
