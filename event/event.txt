@@ -1,4 +1,65 @@
 [
+    {
+      "idgame":27,
+      "name":"Săn code 50K",
+      "title":"Săn code 50K",
+      "time":"Hàng ngày",
+      "content":"- Để nhận được CODE 50k đến từ NPH, bạn chỉ cần hoàn thành 2 tiêu chí \nsau:\n+ Tiêu chí 1: Nạp tối thiểu 5.000.000 LỘC( kể từ lúc event này ra mắt lúc \n00:00 ngày 22/5)\n+ Tiêu chí 2: Có mức cược tối thiểu là 50M( kể từ lúc event này ra mắt lúc \n00:00 ngày 22/5 )",
+      "giaithuong":"- Code 50k sẽ được gửi về hòm thư trong game sau khi bạn hoàn thành điều\n kiện.",
+      "luuy":"- Phải đạt đủ cả 2 tiêu chí trên mới nhận được code 50k.\n- Nếu bạn chỉ đạt 1 trong 2 tiêu chí thì cũng sẽ không được tính",
+      "doituong":"Áp dụng cho tất cả thành viên của Lộc Club"
+   },
+    {
+      "idgame":24,
+      "name":"Ứng Lộc",
+      "title":"Ứng Lộc",
+      "time":"Khi người chơi đạt đủ điều kiện tín nhiệm, người chơi sẽ được có quyền \nứng Lộc từ Nhà Phát Hành.",
+      "content":"Số lộc của người chơi trong tài khoản( tính cả lộc trong KS hay trong game\nTC ) phải dưới 1000\nĐạt đủ điểm tín nhiệm mà NPH đề ra",
+      "giaithuong":"Điểm tín nhiệm 0: không được ứng\nĐiểm tín nhiệm 1: 10k\nĐiểm tín nhiệm 2: 20k\nĐiểm tín nhiệm 3: 50k\nĐiểm tín nhiệm 4:100k\nĐiểm tín nhiệm 5:200k\nĐiểm tín nhiệm 6: 500k",
+      "luuy":"Khi người chơi nạp Lộc hoặc số dư gấp 1.5 lần số Lộc đã được ứng, hệ /nthống tự động thu hồi số Lộc ứng trước đó",
+      "doituong":"Khi người chơi ứng Lộc từ hệ thống, chức năng chuyển khoản, mua thẻ \nsẽ bị khóa và không thể chơi game bài.\nChỉ được chơi minigame, slot, lô số\nKhi người chơi trả hết số Lộc ứng thì người chơi sẽ có quyền được ứng tiếp"
+   },
+   {
+      "idgame":25,
+      "name":"Điểm danh",
+      "title":"Điềm danh mỗi ngày",
+      "time":"Hàng ngày",
+      "content":"- Đăng nhập vào Lộc Club mỗi ngày và hệ thống sẽ tự động tích lũy số ngày \nđăng nhập cho bạn.\n\n- Chơi Lộc: Hệ thống Lộc sẽ tích lũy lại những phiên đặt cược thành công \ncủa bạn\n\n- Nếu bạn hoàn thành đủ 2 điều kiện kể trên thì tới các ngày 7,15,30 hệ \nthống sẽ tự động cộng thưởng với số Lộc tương ứng vào tài khoản của bạn\n\n- Các tính điểm danh phải đạt đủ 2 điều kiện:\n1. Nạp tối thiểu trong ngày: 500.000 Lộc\n2. Tiền cược tối thiểu trong ngày: 20.000.000 Lộc",
+      "giaithuong":"- Điểm danh 7 ngày liên tục: 100.000 Lộc\n- Điểm danh 15 ngày liên tục: 200.000 Lộc\n- Điểm danh 30 ngày liên tục: 300.000 Lộc",
+      "luuy":"- Bạn phải hoàn thành nhiệm vụ điểm danh này liên tiếp lần lượt là 7 ngày, \n15 ngày và 30 ngày thì hệ thống mới trao tặng mức thưởng tương ứng cho \nbạn. Nếu thiếu 1 ngày trong chuỗi liên tiếp đó thì cũng sẽ không được tính.",
+      "doituong":"Áp dụng cho tất cả thành viên của Lộc Club"
+   },
+   {
+      "idgame":26,
+      "name":"X3 nạp",
+      "title":"X3 nạp",
+      "time":"Hàng ngày",
+      "content":"- Nhận thưởng 200% tiền nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 Lộc\n-Áp dụng cho tất cá các hình thức nạp: Nạp thẻ, nạp qua đại lý,nạp qua \nngân hàng trong lần đầu ",
+      "giaithuong":"- Nhận thưởng 200% tiền nạp lần đầu",
+      "luuy":"- Tiền thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận\nthưởng\n\n- Tiến trình nhận thưởng được thực hiện khi chơi game tại Lộc Club không \ntính các game Trùm Cá, Thần Biển, Lô số, Bầu cua, Game bài\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng \nhay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt tiền thưởng,nếu tiến trình nhận \nthưởng không hoàn thành 100% thì toàn bộ số tiền thưởng sẽ bị hủy",
+      "doituong":"Khuyến mại cho tất cả các thành viên mới đăng kí"
+   },
+
+	{
+      "idgame":28,
+      "name":"Đua top vippoint",
+      "title":"Đua top vippoint",
+      "time":"Theo dõi trên Fanpage",
+      "content":"- Các thành viên tham gia sự kiện sẽ được tính điểm dự trên số Vippoint\n phát sinh trong thời gian diễn ra sự kiện\n- Điểm vippoint sẽ được cập nhật liên tục trên Game.\n- Điểm VipPoint sẽ tăng mỗi khi chơi game.\n Để đạt TOP 1 người chơi cần ít nhất 8.000 VIP Point trở lên.\n- Các trường hợp sử dụng nick clone hoặc nhiều nick để cân cửa tài xỉu\nnhằm gian lận điểm VIP Point, nếu bị phát hiện sẽ hủy kết quả Event và\nkhóa tài khoản vĩnh viễn",
+      "giaithuong":"- Top 1: Mazda 3 Sport 1.5L Luxury – trị giá 799m\n- Top 2: Honda SH300i 2020 – 270m\n- Top 3: MacBook Pro - 80m\n- Top 4: NVX 155 ABS - 50m\n- Top 5: Samsung Z Flip – 35m\n- Top 6: 20m Lộc\n- Top 7: 10m Lộc\n- Top 8: 8 Lộc\n- Top 9: 6m Lộc\n- Top 10: 4m Lộc\n- Top 11-15: 3m Lộc\n- Top 16-20: 2m Lộc\n- Top 21-50: 1m Lộc\n- Top 51-100: 500k Lộc",
+      "luuy":"- THỜI GIAN TRẢ THƯỞNG\n+ Giải thưởng vật lý sẽ trao trong vòng 7-10 ngày kể từ khi kết thúc sự kiện\n+ Giải thưởng Lộc sẽ được trao tặng trong vòng 48h kể từ khi kết thúc\nsự kiện",
+      "doituong":"Áp dụng cho tất cả thành viên của Lộc Club"
+   },
+    {
+      "idgame":23,
+      "name":"Thánh nhọ",
+      "title":"THÁNH NHỌ",
+      "time":"Theo dõi trên Fanpage",
+      "content":"- Nhằm tri ân những khách hàng đã đồng hành cùng LỘC thời gian qua \nnhưng không gặp nhiều may mắn. LỘC sẽ trao thưởng 5 phần quà giá \ntrị cho 5 khách hàng có số LỘC thua nhiều nhất của game TÀI XỈU\ntrong thời gian diễn ra sự kiện.",
+      "giaithuong":"- TOP 1: 20.000.000 LỘC\n- TOP 2: 7.000.000 LỘC\n- TOP 3: 3.000.000 LỘC\n- TOP 4: 2.000.000 LỘC\n- TOP 5: 1.000.000 LỘC",
+      "luuy":"- THỜI GIAN TRẢ THƯỞNG\n+ Giải thưởng vật lý sẽ trao trong vòng 7-10 ngày kể từ khi kết thúc sự kiện\n+ Giải thưởng Lộc sẽ được trao tặng trong vòng 48h kể từ khi kết thúc\nsự kiện",
+      "doituong":"Tất cả các khách hàng tham gia chơi TÀI XỈU trên cổng game loc.club"
+   },
    {
       "idgame":14,
       "name":"Tài Xỉu",
@@ -138,65 +199,5 @@
       "giaithuong":" Bàn 100: 10 hũ x2.\n Bàn 1.000: 1 hũ ",
       "luuy":"Hũ được tính x2 tại thời điểm ăn hũ.\nVí Dụ: Lúc thời điểm bạn nổ hũ vàng đang là 800.000\n thì bạn sẽ nhận được 800.000 x 2 = 1.600.000.",
       "doituong":"Người chơi Nữ Chiến Thần bằng Lộc"
-   },
-	{
-      "idgame":24,
-      "name":"Ứng Lộc",
-      "title":"Ứng Lộc",
-      "time":"Khi người chơi đạt đủ điều kiện tín nhiệm, người chơi sẽ được có quyền \nứng Lộc từ Nhà Phát Hành.",
-      "content":"Số lộc của người chơi trong tài khoản( tính cả lộc trong KS hay trong game\nTC ) phải dưới 1000\nĐạt đủ điểm tín nhiệm mà NPH đề ra",
-      "giaithuong":"Điểm tín nhiệm 0: không được ứng\nĐiểm tín nhiệm 1: 10k\nĐiểm tín nhiệm 2: 20k\nĐiểm tín nhiệm 3: 50k\nĐiểm tín nhiệm 4:100k\nĐiểm tín nhiệm 5:200k\nĐiểm tín nhiệm 6: 500k",
-      "luuy":"Khi người chơi nạp Lộc hoặc số dư gấp 1.5 lần số Lộc đã được ứng, hệ /nthống tự động thu hồi số Lộc ứng trước đó",
-      "doituong":"Khi người chơi ứng Lộc từ hệ thống, chức năng chuyển khoản, mua thẻ \nsẽ bị khóa và không thể chơi game bài.\nChỉ được chơi minigame, slot, lô số\nKhi người chơi trả hết số Lộc ứng thì người chơi sẽ có quyền được ứng tiếp"
-   },
-   {
-      "idgame":25,
-      "name":"Điểm danh",
-      "title":"Điềm danh mỗi ngày",
-      "time":"Hàng ngày",
-      "content":"- Đăng nhập vào Lộc Club mỗi ngày và hệ thống sẽ tự động tích lũy số ngày \nđăng nhập cho bạn.\n\n- Chơi Lộc: Hệ thống Lộc sẽ tích lũy lại những phiên đặt cược thành công \ncủa bạn\n\n- Nếu bạn hoàn thành đủ 2 điều kiện kể trên thì tới các ngày 7,15,30 hệ \nthống sẽ tự động cộng thưởng với số Lộc tương ứng vào tài khoản của bạn\n\n- Các tính điểm danh phải đạt đủ 2 điều kiện:\n1. Nạp tối thiểu trong ngày: 500.000 Lộc\n2. Tiền cược tối thiểu trong ngày: 20.000.000 Lộc",
-      "giaithuong":"- Điểm danh 7 ngày liên tục: 100.000 Lộc\n- Điểm danh 15 ngày liên tục: 200.000 Lộc\n- Điểm danh 30 ngày liên tục: 300.000 Lộc",
-      "luuy":"- Bạn phải hoàn thành nhiệm vụ điểm danh này liên tiếp lần lượt là 7 ngày, \n15 ngày và 30 ngày thì hệ thống mới trao tặng mức thưởng tương ứng cho \nbạn. Nếu thiếu 1 ngày trong chuỗi liên tiếp đó thì cũng sẽ không được tính.",
-      "doituong":"Áp dụng cho tất cả thành viên của Lộc Club"
-   },
-   {
-      "idgame":26,
-      "name":"X3 nạp",
-      "title":"X3 nạp",
-      "time":"Hàng ngày",
-      "content":"- Nhận thưởng 200% tiền nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 Lộc\n-Áp dụng cho tất cá các hình thức nạp: Nạp thẻ, nạp qua đại lý,nạp qua \nngân hàng trong lần đầu ",
-      "giaithuong":"- Nhận thưởng 200% tiền nạp lần đầu",
-      "luuy":"- Tiền thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận\nthưởng\n\n- Tiến trình nhận thưởng được thực hiện khi chơi game tại Lộc Club không \ntính các game Trùm Cá, Thần Biển, Lô số, Bầu cua, Game bài\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng \nhay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt tiền thưởng,nếu tiến trình nhận \nthưởng không hoàn thành 100% thì toàn bộ số tiền thưởng sẽ bị hủy",
-      "doituong":"Khuyến mại cho tất cả các thành viên mới đăng kí"
-   },
-   {
-      "idgame":27,
-      "name":"Săn code 50K",
-      "title":"Săn code 50K",
-      "time":"Hàng ngày",
-      "content":"- Để nhận được CODE 50k đến từ NPH, bạn chỉ cần hoàn thành 2 tiêu chí \nsau:\n+ Tiêu chí 1: Nạp tối thiểu 5.000.000 LỘC( kể từ lúc event này ra mắt lúc \n00:00 ngày 22/5)\n+ Tiêu chí 2: Có mức cược tối thiểu là 50M( kể từ lúc event này ra mắt lúc \n00:00 ngày 22/5 )",
-      "giaithuong":"- Code 50k sẽ được gửi về hòm thư trong game sau khi bạn hoàn thành điều\n kiện.",
-      "luuy":"- Phải đạt đủ cả 2 tiêu chí trên mới nhận được code 50k.\n- Nếu bạn chỉ đạt 1 trong 2 tiêu chí thì cũng sẽ không được tính",
-      "doituong":"Áp dụng cho tất cả thành viên của Lộc Club"
-   },
-	{
-      "idgame":28,
-      "name":"Đua top vippoint",
-      "title":"Đua top vippoint",
-      "time":"Theo dõi trên Fanpage",
-      "content":"- Các thành viên tham gia sự kiện sẽ được tính điểm dự trên số Vippoint\n phát sinh trong thời gian diễn ra sự kiện\n- Điểm vippoint sẽ được cập nhật liên tục trên Game.\n- Điểm VipPoint sẽ tăng mỗi khi chơi game.\n Để đạt TOP 1 người chơi cần ít nhất 8.000 VIP Point trở lên.\n- Các trường hợp sử dụng nick clone hoặc nhiều nick để cân cửa tài xỉu\nnhằm gian lận điểm VIP Point, nếu bị phát hiện sẽ hủy kết quả Event và\nkhóa tài khoản vĩnh viễn",
-      "giaithuong":"- Top 1: Mazda 3 Sport 1.5L Luxury – trị giá 799m\n- Top 2: Honda SH300i 2020 – 270m\n- Top 3: MacBook Pro - 80m\n- Top 4: NVX 155 ABS - 50m\n- Top 5: Samsung Z Flip – 35m\n- Top 6: 20m Lộc\n- Top 7: 10m Lộc\n- Top 8: 8 Lộc\n- Top 9: 6m Lộc\n- Top 10: 4m Lộc\n- Top 11-15: 3m Lộc\n- Top 16-20: 2m Lộc\n- Top 21-50: 1m Lộc\n- Top 51-100: 500k Lộc",
-      "luuy":"- THỜI GIAN TRẢ THƯỞNG\n+ Giải thưởng vật lý sẽ trao trong vòng 7-10 ngày kể từ khi kết thúc sự kiện\n+ Giải thưởng Lộc sẽ được trao tặng trong vòng 48h kể từ khi kết thúc\nsự kiện",
-      "doituong":"Áp dụng cho tất cả thành viên của Lộc Club"
-   },
-{
-      "idgame":23,
-      "name":"Thánh nhọ",
-      "title":"THÁNH NHỌ",
-      "time":"Theo dõi trên Fanpage",
-      "content":"- Nhằm tri ân những khách hàng đã đồng hành cùng LỘC thời gian qua \nnhưng không gặp nhiều may mắn. LỘC sẽ trao thưởng 5 phần quà giá \ntrị cho 5 khách hàng có số LỘC thua nhiều nhất của game TÀI XỈU\ntrong thời gian diễn ra sự kiện.",
-      "giaithuong":"- TOP 1: 20.000.000 LỘC\n- TOP 2: 7.000.000 LỘC\n- TOP 3: 3.000.000 LỘC\n- TOP 4: 2.000.000 LỘC\n- TOP 5: 1.000.000 LỘC",
-      "luuy":"- THỜI GIAN TRẢ THƯỞNG\n+ Giải thưởng vật lý sẽ trao trong vòng 7-10 ngày kể từ khi kết thúc sự kiện\n+ Giải thưởng Lộc sẽ được trao tặng trong vòng 48h kể từ khi kết thúc\nsự kiện",
-      "doituong":"Tất cả các khách hàng tham gia chơi TÀI XỈU trên cổng game loc.club"
    }
 ]
