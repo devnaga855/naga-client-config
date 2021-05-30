@@ -24,7 +24,7 @@
       "name":"Điểm danh",
       "title":"Điềm danh mỗi ngày",
       "time":"Hàng ngày",
-      "content":"- Đăng nhập vào Lộc Club mỗi ngày và hệ thống sẽ tự động tích lũy số ngày \nđăng nhập cho bạn.\n\n- Chơi Lộc: Hệ thống Lộc sẽ tích lũy lại những phiên đặt cược thành công \ncủa bạn\n\n- Nếu bạn hoàn thành đủ 2 điều kiện kể trên thì tới các ngày 7,15,30 hệ \nthống sẽ tự động cộng thưởng với số Lộc tương ứng vào tài khoản của bạn\n\n- Các tính điểm danh phải đạt đủ 2 điều kiện:\n1. Nạp tối thiểu trong ngày: 500.000 Lộc\n2. Tiền cược tối thiểu trong ngày: 20.000.000 Lộc",
+      "content":"- Đăng nhập vào Lộc Club mỗi ngày và hệ thống sẽ tự động tích lũy số ngày \nđăng nhập cho bạn.\n\n- Chơi Lộc: Hệ thống Lộc sẽ tích lũy lại những phiên đặt cược thành công \ncủa bạn\n\n- Nếu bạn hoàn thành đủ 2 điều kiện kể trên thì tới các ngày 7,15,30 hệ \nthống sẽ tự động cộng thưởng với số Lộc tương ứng vào tài khoản của bạn\n\n- Các tính điểm danh phải đạt đủ 2 điều kiện:\n1. Nạp tối thiểu trong ngày: 500.000 Lộc\n2. Tiền cược tối thiểu trong ngày: 10.000.000 Lộc",
       "giaithuong":"- Điểm danh 7 ngày liên tục: 100.000 Lộc\n- Điểm danh 15 ngày liên tục: 200.000 Lộc\n- Điểm danh 30 ngày liên tục: 300.000 Lộc",
       "luuy":"- Bạn phải hoàn thành nhiệm vụ điểm danh này liên tiếp lần lượt là 7 ngày, \n15 ngày và 30 ngày thì hệ thống mới trao tặng mức thưởng tương ứng cho \nbạn. Nếu thiếu 1 ngày trong chuỗi liên tiếp đó thì cũng sẽ không được tính.",
       "doituong":"Áp dụng cho tất cả thành viên của Lộc Club"
