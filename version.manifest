@@ -1,9 +1,9 @@
 {
-    "packageUrl": "http://kimnguyenbao.org/m/",
+    "packageUrl": "http://na-world.club/m/",
     "searchPaths": [],
     "assets": {},
-    "remoteVersionUrl": "http://kimnguyenbao.org/m/version.manifest",
+    "remoteVersionUrl": "http://na-world.club/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.16",
-    "remoteManifestUrl": "http://kimnguyenbao.org/m/project.manifest"
+    "remoteManifestUrl": "http://na-world.club/m/project.manifest"
 }
