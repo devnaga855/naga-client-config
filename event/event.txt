@@ -1,5 +1,15 @@
 [
     {
+      "idgame":30,
+      "name":"Quà tân thủ",
+      "title":"QUÀ TÂN THỦ",
+      "time":"Bắt đầu từ ngày 9/6/2021",
+      "content":"- Tiền thưởng sẽ được cộng vào số dư của bạn",
+      "giaithuong":"- 10 tiến trình, mỗi tiến trình 10.000 Lộc. ( tổng 10 tiến trình là 100.000)",
+      "luuy":"- Tài khoản phải đăng ký bảo mật SĐT\n- Nạp tiền tối thiểu 50k\n- Tiền thưởng nhận được khi người chơi hoàn thành 10 tiến trình nhận\nthưởng, mỗi tiến trình nhận 10.000 Lộc.\n- Mỗi tiến trình sẽ dựa theo số tiền cược khi chơi các game tại cổng game\nLoc.Club\n- Tiến trình sẽ được chia như sau:\n+ Tiến trình 1: Tối thiểu chơi 200,000\n+ Tiến trình 2: 500k\n+ Tiến trình 3: 1tr\n+ Tiến trình 4: 2tr\n+ Tiến trình 5: 3tr\n+ Tiến trình 6: 4tr\n + Tiến trình 7: 5tr\n+ Tiến trình 8: 6tr\n+ Tiến trình 9: 8tr\n+ Tiến trình 10: 10tr\n\n- Hoàn thành tiến trình trước và nhận thưởng tiến trình tương ứng sẽ reset\ntổng tiền đặt cược về 0 để tính cho tiến trình tiếp theo, số tiền sẽ được cập\nnhật ngay trên tài khoản chính.\n- Tiến trình nhận thưởng được thực hiện khi chơi tất cả các thể loại game\ntrên cổng game Lộc Club.\n- Tiến trình nhận thưởng được cập nhật liên tục trên game.\n- Một tài khoản chỉ được thực hiện 10 tiến trình 1 lần",
+      "doituong":"Tất cả các khách hàng tham gia chơi Lộc trên cổng game loc.club"
+   },
+    {
       "idgame":27,
       "name":"Săn code 50K",
       "title":"Săn code 50K",
@@ -70,16 +80,7 @@
       "luuy":"- Số lần RUNG CÂY sẽ bị reset lại khi qua mốc 00h:00 ngày hôm sau nếu\nkhông sử dụng hết. Số tiền tích nạp sẽ chỉ được tính trong ngày để tính ra\n số lần RUNG CÂY. Qua 00h: 00 cũng sẽ reset trở lại về 0.\n- Số Lộc nạp của khách hàng trong 1 ngày sẽ được quy đổi ra số lần RUNG\nCÂY theo điều kiện sau:\n+ Tích nạp Lộc: 1.000K Số lần rung cây: 2\n+ Tích nạp Lộc: 2.000K Số lần rung cây: 2\n+ Tích nạp Lộc: 5.000K Số lần rung cây: 3\n+ Tích nạp Lộc: 10.000K Số lần rung cây: 4",
       "doituong":"Tất cả các khách hàng tham gia chơi Lộc trên cổng game loc.club"
    },
-{
-      "idgame":30,
-      "name":"Quà tân thủ",
-      "title":"QUÀ TÂN THỦ",
-      "time":"Bắt đầu từ ngày 9/6/2021",
-      "content":"- Tiền thưởng sẽ được cộng vào số dư của bạn",
-      "giaithuong":"- 10 tiến trình, mỗi tiến trình 10.000 Lộc. ( tổng 10 tiến trình là 100.000)",
-      "luuy":"- Tài khoản phải đăng ký bảo mật SĐT\n- Nạp tiền tối thiểu 50k\n- Tiền thưởng nhận được khi người chơi hoàn thành 10 tiến trình nhận\nthưởng, mỗi tiến trình nhận 10.000 Lộc.\n- Mỗi tiến trình sẽ dựa theo số tiền cược khi chơi các game tại cổng game\nLoc.Club\n- Tiến trình sẽ được chia như sau:\n+ Tiến trình 1: Tối thiểu chơi 200,000\n+ Tiến trình 2: 500k\n+ Tiến trình 3: 1tr\n+ Tiến trình 4: 2tr\n+ Tiến trình 5: 3tr\n+ Tiến trình 6: 4tr\n + Tiến trình 7: 5tr\n+ Tiến trình 8: 6tr\n+ Tiến trình 9: 8tr\n+ Tiến trình 10: 10tr\n\n- Hoàn thành tiến trình trước và nhận thưởng tiến trình tương ứng sẽ reset\ntổng tiền đặt cược về 0 để tính cho tiến trình tiếp theo, số tiền sẽ được cập\nnhật ngay trên tài khoản chính.\n- Tiến trình nhận thưởng được thực hiện khi chơi tất cả các thể loại game\ntrên cổng game Lộc Club.\n- Tiến trình nhận thưởng được cập nhật liên tục trên game.\n- Một tài khoản chỉ được thực hiện 10 tiến trình 1 lần",
-      "doituong":"Tất cả các khách hàng tham gia chơi Lộc trên cổng game loc.club"
-   },
+
    {
       "idgame":14,
       "name":"Tài Xỉu",
