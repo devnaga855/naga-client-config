@@ -1,9 +1,9 @@
 {
-    "packageUrl": "http://loc89.fun/m/",
+    "packageUrl": "http://loc89.club/m/",
     "searchPaths": [],
     "assets": {},
-    "remoteVersionUrl": "http://loc89.fun/m/version.manifest",
+    "remoteVersionUrl": "http://loc89.club/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.16",
-    "remoteManifestUrl": "http://loc89.fun/m/project.manifest"
+    "remoteManifestUrl": "http://loc89.club/m/project.manifest"
 }
