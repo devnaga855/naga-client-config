@@ -94,9 +94,9 @@
       "title":"Vua tài xỉu",
       "onoff":"is_vua_tai_xiu",
       "time":"Từ 00h00 ngày 27/06/2021 đến 23h59 ngày 03/07/2021",
-      "content":"- Để tăng phần hấp dẫn cho người chơi cũng như tri ân toàn thể\nkhách hàng đã ủng hộ loc.club trong thời gian vừa qua,\nNPH Lộc chính thức ra mắt sự kiện đua top tài xỉu (VUA TÀI XỈU)\n hàng ngày cùng những giải thưởng vô cùng giá trị.",
+      "content":"- Để tăng phần hấp dẫn cho người chơi cũng như tri ân toàn thể khách hàng\nđã ủng hộ loc.club trong thời gian vừa qua, NPH Lộc chính thức ra mắt\nsự kiện đua top tài xỉu (VUA TÀI XỈU) hàng ngày cùng những giải thưởng vô cùng giá trị.",
       "giaithuong":"- Top 1: 5.000.000 Lộc\n- Top 2: 3.000.000 Lộc\n- Top 3: 2.000.000 Lộc\n- Top 4: 1.000.000 Lộc\n- Top 5: 500.000 Lộc",
-      "luuy":"- Xuyên suốt thời gian diễn ra sự kiện, hàng ngày sẽ dựa vào bảng xếp hạng Top Tài Xỉu để trao giải\n- Reset lại tính từ 0h00 ngày mới.\n- Nếu có 2 hay nhiều người chơi bằng điểm, thì hệ thống sẽ căn cứ theo ai đạt số điểm đó trước.\n- Nghiêm cấm hành vi dồn tiền từ nhiều tài khoản qua Tài Xỉu để gian lận thứ tự bảng xếp hạng.\n- Để đạt Top 1 cần Số tiền thắng TX tối thiếu trong ngày đạt 150M\n- Quyết định của Ban Quản Trị là quyết định cuối cùng.\n",
+      "luuy":"- Xuyên suốt thời gian diễn ra sự kiện, hàng ngày sẽ dựa vào bảng xếp hạng\nTop Tài Xỉu để trao giải\n- Reset lại tính từ 0h00 ngày mới.\n- Nếu có 2 hay nhiều người chơi bằng điểm, thì hệ thống sẽ căn cứ theo ai\nđạt số điểm đó trước.\n- Nghiêm cấm hành vi dồn tiền từ nhiều tài khoản qua Tài Xỉu để gian lận\nthứ tự bảng xếp hạng.\n- Để đạt Top 1 cần Số tiền thắng TX tối thiếu trong ngày đạt 150M\n- Giải thưởng Lộc sẽ được trao tặng hàng ngày\n- Quyết định của Ban Quản Trị là quyết định cuối cùng.\n",
       "doituong":"- Tất cả các khách hàng trên cổng game loc.club"
    },
    {
