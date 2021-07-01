@@ -15,11 +15,11 @@
       "idgame":31,
       "name":"Đua xe công thức L",
       "title":"Đua xe công thức L",
-      "onoff":"is_vippoint_event",
+      "onoff":"is_vp_event",
       "time":"từ 9h00 ngày 15/7/2021 đến hết 9h00 ngày 14/7/2021 (30 ngày)",
-      "content":"- Sự kiện 1: X2 VP (Vippoint)\n– Thỏa mãn đam mêThời gian: từ 9h00 ngày 15/7/2021 đến 9h00 ngày 14/7/2021 (15 ngày)\nTrong suốt thời gian diễn ra sự kiện, số VP của người chơi đạt được khi chơi\ncác game bằng đồng Loc sẽ được hệ thống ghi nhận và nhân đôi (X2).",
+      "content":"- Sự kiện 1: X2 VP (Vippoint) - Thỏa mãn đam mê\n+ Thời gian: từ 9h00 ngày 15/7/2021 đến 9h00 ngày 14/7/2021 (15 ngày)\n+ Trong suốt thời gian diễn ra sự kiện, số VP của người chơi đạt được khi chơi\ncác game bằng đồng Loc sẽ được hệ thống ghi nhận và nhân đôi (X2).",
       "giaithuong":"",
-      "luuy":"– Giải thưởng Loc  sẽ được trao trong vòng 72h sau khi kết thúc sự kiện.\n– Trong trường hợp có tranh chấp, quyết định của BTC là quyết định cuối cùng.",
+      "luuy":"– Giải thưởng Loc  sẽ được trao trong vòng 72h sau khi kết thúc sự kiện.\n– Trong trường hợp có tranh chấp, quyết định của BTC là quyết định cuối\ncùng.",
       "doituong":"Tất cả các khách hàng tham gia chơi Lộc trên cổng game loc.club"
    },
     {
