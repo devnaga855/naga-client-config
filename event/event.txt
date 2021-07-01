@@ -10,6 +10,18 @@
       "luuy":"- Tài khoản phải đăng ký bảo mật SĐT\n- Nạp tiền tối thiểu 50k\n- Tiền thưởng nhận được khi người chơi hoàn thành 10 tiến trình nhận\nthưởng, mỗi tiến trình nhận 10.000 Lộc.\n- Mỗi tiến trình sẽ dựa theo số tiền cược khi chơi các game tại cổng game\nLoc.Club\n- Mỗi tiến trình user sẽ nhận được 10K (Tổng 10 tiến trình là 100K)\n- Một tài khoản chỉ được thực hiện 10 tiến trình 1 lần",
       "doituong":"Tất cả các khách hàng tham gia chơi Lộc trên cổng game loc.club"
    },
+   
+   {
+      "idgame":31,
+      "name":"Đua xe công thức L",
+      "title":"Đua xe công thức L",
+      "onoff":"is_vippoint_event",
+      "time":"từ 9h00 ngày 15/7/2021 đến hết 9h00 ngày 14/7/2021 (30 ngày)",
+      "content":"- Sự kiện 1: X2 VP (Vippoint)\n– Thỏa mãn đam mêThời gian: từ 9h00 ngày 15/7/2021 đến 9h00 ngày 14/7/2021 (15 ngày)\nTrong suốt thời gian diễn ra sự kiện, số VP của người chơi đạt được khi chơi\ncác game bằng đồng Loc sẽ được hệ thống ghi nhận và nhân đôi (X2).",
+      "giaithuong":"",
+      "luuy":"– Giải thưởng Loc  sẽ được trao trong vòng 72h sau khi kết thúc sự kiện.\n– Trong trường hợp có tranh chấp, quyết định của BTC là quyết định cuối cùng.",
+      "doituong":"Tất cả các khách hàng tham gia chơi Lộc trên cổng game loc.club"
+   },
     {
       "idgame":27,
       "name":"Săn code 50K",
