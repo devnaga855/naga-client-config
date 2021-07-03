@@ -13,8 +13,8 @@
    
    {
       "idgame":31,
-      "name":"Đua xe công thức L",
-      "title":"Đua xe công thức L",
+      "name":"Đua xe thần tài",
+      "title":"ĐUA XE THẦN TÀI",
       "onoff":"is_vp_event",
       "time":"từ 9h00 ngày 15/7/2021 đến hết 9h00 ngày 14/7/2021 (30 ngày)",
       "content":"- Sự kiện 1: X2 VP (Vippoint) - Thỏa mãn đam mê\n+ Thời gian: từ 9h00 ngày 15/7/2021 đến 9h00 ngày 14/7/2021 (15 ngày)\n+ Trong suốt thời gian diễn ra sự kiện, số VP của người chơi đạt được khi\nchơi các game bằng đồng Loc sẽ được hệ thống ghi nhận và nhân đôi (X2).\n\n- Sự kiện 2: Tay Đua Mưu trí\n+ Thời gian: từ 9h00 ngày 15/07/2021 đến hết 9h00 ngày 14/8/2021\n(30 ngày)\n+ Khi người chơi tham gia chơi ở bất kỳ game nào bằng Loc trên cổng game\nLoc.Club sẽ nhận được VP đồng thời số VP được hệ thống ghi nhận cũng\nchính là quãng đường mà người chơi di chuyển tương ứng trên hành trình\nĐua Xe Công Thức L.\n+ Trên hành trình Đua Xe Công Thức L, hằng ngày sẽ có ngẫu nhiên 6 lần\nTay Đua gặp chướng ngaị vật ngăn cản hành trình. Nếu Tay Đua bị gặp\nchướng ngaị vật, bạn phải trở lại địa điểm gần nhất để tiếp tục\nhành trình. (Số điểm VP bị trừ khi Tay Đua bị gặp chướng ngại vật chỉ tính\ncho sự kiện, không ảnh hưởng đến VP của tài khoản trên Loc.Club).\n+ Đặc biệt từ khung giờ: 9h00 đến 24h00, để hỗ trợ Tay Đua trên hành trình\nĐua Xe Công Thức L gặp nhiều may mắn và thú vị, sẽ có rất nhiều\ngói trợ giúp có chứa rất nhiều VP và Loc trên hành trình.\n+ Tay Đua có khả năng nhận được gói trợ giúp chứa VP và Loc nếu đủ\nđiều kiện:– Có số VP >=1 trong thời gian diễn ra sự kiện.– Online\n(tham gia chơi game bằng Loc ) trong thời gian nhận trợ giúp.",
