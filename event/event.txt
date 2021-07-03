@@ -41,7 +41,7 @@
       "time":"Khi người chơi đạt đủ điều kiện tín nhiệm, người chơi sẽ được có quyền \nứng Lộc từ Nhà Phát Hành.",
       "content":"Số lộc của người chơi trong tài khoản( tính cả lộc trong KS hay trong game\nTC ) phải dưới 1000\nĐạt đủ điểm tín nhiệm mà NPH đề ra",
       "giaithuong":"Điểm tín nhiệm 0: không được ứng\nĐiểm tín nhiệm 1: 10k\nĐiểm tín nhiệm 2: 20k\nĐiểm tín nhiệm 3: 50k\nĐiểm tín nhiệm 4:100k\nĐiểm tín nhiệm 5:200k\nĐiểm tín nhiệm 6: 500k",
-      "luuy":"Khi người chơi nạp Lộc hoặc số dư gấp 1.5 lần số Lộc đã được ứng, hệ /nthống tự động thu hồi số Lộc ứng trước đó",
+      "luuy":"Khi người chơi nạp Lộc hoặc số dư gấp 1.5 lần số Lộc đã được ứng, hệ \nthống tự động thu hồi số Lộc ứng trước đó",
       "doituong":"Khi người chơi ứng Lộc từ hệ thống, chức năng chuyển khoản, mua thẻ \nsẽ bị khóa và không thể chơi game bài.\nChỉ được chơi minigame, slot, lô số\nKhi người chơi trả hết số Lộc ứng thì người chơi sẽ có quyền được ứng tiếp"
    },
    {
