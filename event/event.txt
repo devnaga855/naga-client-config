@@ -29,8 +29,8 @@
       "onoff":"is_first_game",
       "time":"Diễn ra vào các ngày trong tuần",
       "content":"- Tiền thưởng sẽ được cộng vào số dư của bạn",
-      "giaithuong":"- Hoàn thành yêu cầu của từng nhiệm vụ đề ra.\n- Khi đã hoàn thành mỗi nhiệm vụ, bạn sẽ nhận được giải thưởng\ntương xứng cho mỗi nhiệm vụ đó.",
-      "luuy":"- Nhận thưởng theo từng nhiệm vụ hoàn thành, không tính trùng\nnhiệm vụ khi thực hiện\n- Qua ngày mới sẽ reset lại từ đầu\n- Nhiệm vụ sẽ được cập nhật và thay đổi liên tục",
+      "giaithuong":"- Hoàn thành yêu cầu của từng nhiệm vụ đề ra.\n- Khi đã hoàn thành mỗi nhiệm vụ, bạn sẽ nhận được giải thưởng tương\nxứng cho mỗi nhiệm vụ đó.",
+      "luuy":"- Nhận thưởng theo từng nhiệm vụ hoàn thành, không tính trùng nhiệm vụ\nkhi thực hiện\n- Qua ngày mới sẽ reset lại từ đầu\n- Nhiệm vụ sẽ được cập nhật và thay đổi liên tục",
       "doituong":"Áp dụng cho tất cả người chơi trên cổng game"
    },
    
