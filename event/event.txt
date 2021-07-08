@@ -27,11 +27,11 @@
       "name":"Nhiệm vụ",
       "title":"Nhiệm vụ",
       "onoff":"is_first_game",
-      "time":"Bắt đầu từ ngày 10/6/2021",
+      "time":"Diễn ra vào các ngày trong tuần",
       "content":"- Tiền thưởng sẽ được cộng vào số dư của bạn",
-      "giaithuong":"- 10 tiến trình, mỗi tiến trình 10.000 Lộc. ( tổng 10 tiến trình là 100.000)",
-      "luuy":"- Tài khoản phải đăng ký bảo mật SĐT\n- Nạp tiền tối thiểu 50k\n- Tiền thưởng nhận được khi người chơi hoàn thành 10 tiến trình nhận\nthưởng, mỗi tiến trình nhận 10.000 Lộc.\n- Mỗi tiến trình sẽ dựa theo số tiền cược khi chơi các game tại cổng game\nLoc.Club\n- Mỗi tiến trình user sẽ nhận được 10K (Tổng 10 tiến trình là 100K)\n- Một tài khoản chỉ được thực hiện 10 tiến trình 1 lần",
-      "doituong":"Tất cả các khách hàng tham gia chơi Lộc trên cổng game loc.club"
+      "giaithuong":"- Hoàn thành yêu cầu của từng nhiệm vụ đề ra.\n- Khi đã hoàn thành mỗi nhiệm vụ, bạn sẽ nhận được giải thưởng\ntương xứng cho mỗi nhiệm vụ đó.",
+      "luuy":"- Nhận thưởng theo từng nhiệm vụ hoàn thành, không tính trùng\nnhiệm vụ khi thực hiện\n- Qua ngày mới sẽ reset lại từ đầu\n- Nhiệm vụ sẽ được cập nhật và thay đổi liên tục",
+      "doituong":"Áp dụng cho tất cả người chơi trên cổng game"
    },
    
     {

@@ -1,0 +1,94 @@
+[
+    {
+        action: "CaoThap",
+        path: "res/Lobby/IconGame/caothap.png",
+        type: 2,
+        tag: GameList.CaoThap,
+    },
+
+    {
+        action: "MiniPoker",
+        path: "res/Lobby/IconGame/minipoker.png",
+        type: 2,
+        tag: GameList.MiniPoker,
+    },
+    {
+        action: "Sam",
+        path: "res/Lobby/IconGame/samloc.png",
+        type: 2,
+        tag: GameList.SamThuong,
+    },
+    {
+        action: "RechargeByCard",
+        path: "res/Lobby/IconGame/lieng.png",
+        type: 1,
+        tag: 100,
+    },
+
+    {
+        action: "VipPoint", //lieng
+        path: "res/Lobby/IconGame/mission_vippoint.png",
+        type: 4,
+        tag: 100
+    },
+    {
+        action: "BauCua", //lieng
+        path: "res/Lobby/IconGame/baucua.png",
+        type: 2,
+        tag: GameList.BauCua,
+    },
+    {
+        action: "RechargeByMoMo", //lieng
+        path: "res/Lobby/IconGame/nap_momo.png",
+        type: 1,
+        tag: 100,
+    },
+    {
+        action: "RechargeByBank", //lieng
+        path: "res/Lobby/IconGame/nap_bank.png",
+        type: 1,
+        tag: GameList.Lieng,
+    },
+    {
+        action: "Tlmn", //lieng
+        path: "res/Lobby/IconGame/tlmn.png",
+        type: 2,
+        tag: GameList.TienLenThuong,
+    },
+    {
+        action: "PokeGo", //lieng
+        path: "res/Lobby/IconGame/mientay.png",
+        type: 2,
+        tag: GameList.MienTay,
+    },
+    {
+        action: "SieuAnhHung", //lieng
+        path: "res/Lobby/IconGame/avenger.png",
+        type: 2,
+        tag: GAME_KEY_SAH,
+    },
+    {
+        action: "VuongQuocVin", //lieng
+        path: "res/Lobby/IconGame/vuongquocvin.png",
+        type: 2,
+        tag:GAME_KEY_VQV,
+    },
+    {
+        action: "Binh", //lieng
+        path: "res/Lobby/IconGame/maubinh.png",
+        type: 2,
+        tag:GameList.MauBinh,
+    },
+    {
+        action: "XocDia", //lieng
+        path: "res/Lobby/IconGame/xocdia.png",
+        type: 3,
+        tag:GameList.XocDia,
+    },
+    {
+        action: "TaiXiu", //lieng
+        path: "res/Lobby/IconGame/taixiu.png",
+        type: 3,
+        tag:GameList.TaiXiu,
+    },
+]
