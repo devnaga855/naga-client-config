@@ -1,0 +1,199 @@
+[
+
+   {
+      "idgame":26,
+      "name":"X3 nạp",
+      "title":"X3 nạp",
+      "time":"Hàng ngày",
+      "onoff":"is_event_x2nap",
+      "content":"- Nhận thưởng 200% tiền nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 Lộc\n-Áp dụng cho tất cá các hình thức nạp: Nạp thẻ, nạp qua đại lý,nạp qua \nngân hàng trong lần đầu ",
+      "giaithuong":"- Nhận thưởng 200% tiền nạp lần đầu",
+      "luuy":"- Tiền thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận\nthưởng\n\n- Tiến trình nhận thưởng được thực hiện khi chơi game tại Lộc Club không \ntính các game Trùm Cá, Thần Biển, Lô số, Bầu cua, Game bài\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng \nhay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt tiền thưởng,nếu tiến trình nhận \nthưởng không hoàn thành 100% thì toàn bộ số tiền thưởng sẽ bị hủy",
+      "doituong":"Khuyến mại cho tất cả các thành viên mới đăng kí"
+   },
+
+	{
+      "idgame":28,
+      "name":"Đua top vippoint",
+      "title":"Đua top vippoint",
+      "onoff":"is_vp_event",
+      "time":"Từ 00:00 ngày 7/6 đến 23:59 ngày 15/06",
+      "content":"- Các thành viên tham gia sự kiện sẽ được tính điểm dự trên số Vippoint\n phát sinh trong thời gian diễn ra sự kiện\n- Điểm vippoint sẽ được cập nhật liên tục trên Game.\n- Điểm VipPoint sẽ tăng mỗi khi chơi game.\n Để đạt TOP 1 người chơi cần ít nhất 3.000 VIP Point trở lên.\n- Các trường hợp sử dụng nick clone hoặc nhiều nick để cân cửa tài xỉu\nnhằm gian lận điểm VIP Point, nếu bị phát hiện sẽ hủy kết quả Event và\nkhóa tài khoản vĩnh viễn",
+      "giaithuong":"- Top 1: Yamaha MT 09 – trị giá 300m\n- Top 2: SH 150 2021 – 130m\n- Top 3: MacBook Pro M1 - 40m\n- Top 4: Honda Vision - 30m\n- Top 5: Samsung S21 Ultra 5G – 20m\n- Top 6: 10m Lộc\n- Top 7: 5m Lộc\n- Top 8: 4m Lộc\n- Top 9: 3m Lộc\n- Top 10: 2m Lộc\n- Top 11-15: 1.5m Lộc\n- Top 16-20: 1m Lộc\n- Top 21-50: 500k Lộc",
+      "luuy":"- THỜI GIAN TRẢ THƯỞNG\n+ Giải thưởng vật lý sẽ trao trong vòng 7-10 ngày kể từ khi kết thúc sự kiện\n+ Giải thưởng Lộc sẽ được trao tặng trong vòng 48h kể từ khi kết thúc\nsự kiện",
+      "doituong":"Áp dụng cho tất cả thành viên của Lộc Club"
+   },
+    {
+      "idgame":23,
+      "name":"Thánh nhọ",
+      "title":"THÁNH NHỌ",
+      "onoff":"is_thanh_nho_event",
+      "time":"Theo dõi trên Fanpage",
+      "content":"- Nhằm tri ân những khách hàng đã đồng hành cùng LỘC thời gian qua \nnhưng không gặp nhiều may mắn. LỘC sẽ trao thưởng 5 phần quà giá \ntrị cho 5 khách hàng có số LỘC thua nhiều nhất của game TÀI XỈU\ntrong thời gian diễn ra sự kiện.",
+      "giaithuong":"- TOP 1: 20.000.000 LỘC\n- TOP 2: 7.000.000 LỘC\n- TOP 3: 3.000.000 LỘC\n- TOP 4: 2.000.000 LỘC\n- TOP 5: 1.000.000 LỘC",
+      "luuy":"- THỜI GIAN TRẢ THƯỞNG\n+ Giải thưởng vật lý sẽ trao trong vòng 7-10 ngày kể từ khi kết thúc sự kiện\n+ Giải thưởng Lộc sẽ được trao tặng trong vòng 48h kể từ khi kết thúc\nsự kiện",
+      "doituong":"Tất cả các khách hàng tham gia chơi TÀI XỈU trên cổng game loc.club"
+   },
+	{
+      "idgame":29,
+      "name":"Rung cây",
+      "title":"RUNG CÂY ĐẠI LÝ",
+      "onoff":"is_rung_cay",
+      "time":"Từ 00:00 ngày 26/05/2021 đến 23:59 ngày 31/05/2021.",
+      "content":"- Trong thời gian hoạt động trong ngày, người chơi tích lũy nạp Lộc qua\nĐẠI LÝ sẽ nhận được số lần RUNG CÂY.\n- Sau khi RUNG CÂY khách hàng chắc chắn sẽ nhận được quà.",
+      "giaithuong":"- 3 lượt quay free Siêu Anh Hùng\n- 3 lượt quay free Đêm Vũ Trường\n- 3 lượt quay free Vương Quốc Lộc\n- 3 lượt quay free Đế Chế La Mã\n- 3 lượt quay free Đế Chế La Mã\n- Và các giải thưởng Lộc như: 50K,100K,250K,500K,1100K,2600K",
+      "luuy":"- Số lần RUNG CÂY sẽ bị reset lại khi qua mốc 00h:00 ngày hôm sau nếu\nkhông sử dụng hết. Số tiền tích nạp sẽ chỉ được tính trong ngày để tính ra\n số lần RUNG CÂY. Qua 00h: 00 cũng sẽ reset trở lại về 0.\n- Số Lộc nạp của khách hàng trong 1 ngày sẽ được quy đổi ra số lần RUNG\nCÂY theo điều kiện sau:\n+ Tích nạp Lộc: 1.000K Số lần rung cây: 2\n+ Tích nạp Lộc: 2.000K Số lần rung cây: 2\n+ Tích nạp Lộc: 5.000K Số lần rung cây: 3\n+ Tích nạp Lộc: 10.000K Số lần rung cây: 4",
+      "doituong":"Tất cả các khách hàng tham gia chơi Lộc trên cổng game loc.club"
+   },
+{
+      "idgame":21,
+      "name":"Vua tài xỉu",
+      "title":"Vua tài xỉu",
+      "onoff":"is_vua_tai_xiu",
+      "time":"Từ 00h00 ngày 27/06/2021 đến 23h59 ngày 03/07/2021",
+      "content":"- Để tăng phần hấp dẫn cho người chơi cũng như tri ân toàn thể khách hàng\nđã ủng hộ loc.club trong thời gian vừa qua, NPH Lộc chính thức ra mắt\nsự kiện đua top tài xỉu (VUA TÀI XỈU) hàng ngày cùng những giải thưởng vô\ncùng giá trị.",
+      "giaithuong":"- Top 1: 5.000.000 Lộc\n- Top 2: 3.000.000 Lộc\n- Top 3: 2.000.000 Lộc\n- Top 4: 1.000.000 Lộc\n- Top 5: 500.000 Lộc",
+      "luuy":"- Xuyên suốt thời gian diễn ra sự kiện, hàng ngày sẽ dựa vào bảng xếp hạng\nTop Tài Xỉu để trao giải\n- Reset lại tính từ 0h00 ngày mới.\n- Nếu có 2 hay nhiều người chơi bằng điểm, thì hệ thống sẽ căn cứ theo ai\nđạt số điểm đó trước.\n- Nghiêm cấm hành vi dồn tiền từ nhiều tài khoản qua Tài Xỉu để gian lận\nthứ tự bảng xếp hạng.\n- Để đạt Top 1 cần Số tiền thắng TX tối thiếu trong ngày đạt 150M\n- Giải thưởng Lộc sẽ được trao tặng hàng ngày\n- Quyết định của Ban Quản Trị là quyết định cuối cùng.\n",
+      "doituong":"- Tất cả các khách hàng trên cổng game loc.club"
+   },
+   {
+      "idgame":14,
+      "name":"Tài Xỉu",
+      "title":"Thánh Dự Tài Xỉu",
+      "time":"0:00:00 đến 23:59:59 hàng ngày",
+      "content":"Người chơi tham gia mini game Tài Xỉu bằng tiền Na thắng và thua liên tiếp\nCó cơ hội nhận thưởng nhiều phần thưởng bằng Lộc.\n\nTiêu Chí Xếp Hạng:\n1. Số ván Đánh thắng hoặc thua liên tiếp dài nhất hệ thống ghi nhận.\n2. Tổng tiền thắng(chuỗi thắng), thua(chuỗi thua).\n3. Thời gian đạt chuỗi thắng hoặc thua liên tiếp. ",
+      "giaithuong":"Top Thắng Liên Tiếp:\nTop1: 2.000.000 Lộc.\nTop2: 1.000.000 Lộc.\nTop3: 500.000 Lộc.\n\nTop Thua Liên Tiếp:\nTop1: 2.000.000 Lộc.\nTop2: 1.000.000 Lộc.\nTop3: 500.000 Lộc.",
+      "luuy":"- Các Ván đánh có lệnh khớp tối thiểu 2.000 Lộc.\n- Có ít nhất 1 ván lệnh khớp tối thiểu 10.000 Lộc. \n- Không ghi nhận những ván chơi hoàn trả tiền.\n- Trong trường hợp tranh chấp, quyết định của BTC là quyết định cuối cùng.",
+      "doituong":"Người chơi mini game Tài Xỉu bằng Lộc."
+   },
+   {
+      "idgame":15,
+      "name":"Bầu Cua",
+      "title":"Săn Tôm - Rôm Rả Quà",
+      "time":"0:00:00 đến 23:59:59 hàng ngày",
+      "content":"Trong suốt thời gian diễn ra sự kiện, người chơi có:\n- Số ván ăn được Tôm liên tiếp nhiều nhất sẽ nhận được phần thưởng.\n\nTiêu Chí Xếp Hạng:\n- Tổng số tôm người chơi thắng được trong chuỗi thắng liên tiếp.\n- Độ dài của chuỗi thắng liên tiếp.\n- Tổng Lộc Thắng.\n- Tổng Lộc đặt\n- Thời gian.",
+      "giaithuong":" Top1: 1.000.000 Lộc.\n Top2: 500.000 Lộc.\n Top3: 200.000 Lộc.\n Top4-5: 100.000 Lộc ",
+      "luuy":"- Phần thưởng sẽ được trao vào 3:00:00 ngày kế tiếp.\n- Một tài khoản chỉ có thể nhận được 1 phần thưởng duy nhất trong ngày.\n- Trong trường hợp có tranh chấp, Quyết định của BTC là quyết định \ncuối cùng.",
+      "doituong":"Tất cả những người chơi minigame Bầu Cua bằng tiền Lộc \ntrên loc.club"
+   },
+   {
+      "idgame":16,
+      "name":"MiniPoker",
+      "title":"X4 Hũ Bất Ngờ",
+      "time":"10:30 Thứ 6 hàng tuần",
+      "content":"Tri ân người chơi MiniPoker. BQT quyết định cứ vào 10:30' thứ 6 hàng tuần, \nMiniPoker sẽ được x4 giá trị hũ.",
+      "giaithuong":" Mức Cược 100: 10 Hũ được X4.\n Mức Cược 1.000: 1 Hũ được x4.",
+      "luuy":"- Phòng 100: Hũ được X4 tiếp theo sẽ cách 3 hũ bình thường đối với hũ X4 \ntrước đó (Ví dụ: 1, 5, 9, 13).\n- Phòng 1.000: Hũ thứ ba và thứ bảy sẽ được X4 tính từ thời điểm khung \ngiờ vàng.\n- Sự kiện được kết thúc khi trao thưởng đủ 10 x4 mức cược 100 và 1 hũ X4 \nmức cược 1.000.\n- Khi có tranh chấp, quyết định của BQT là quyết định cuối cùng.",
+      "doituong":"Tất cả người chơi minigame MiniPoker bằng tiền Lộc trên loc.club"
+   },
+   {
+      "idgame":17,
+      "name":"Cao Thấp",
+      "title":"Át Chủ Bài",
+      "time":"0:00:00 đến 23:59:59 hàng ngày và Hàng Tháng",
+      "content":"Chơi game cao thấp sẽ có cơ hội bốc được bài đẹp, người chơi có bài đẹp \nsẽ có cơ hội nhận giải thưởng có giá trị:",
+      "giaithuong":"Giải Thưởng Ngày:\nTop1: 2.000.000 Lộc.\nTop2: 1.000.000 Lộc.\nTop3: 500.000 Lộc.\n\nGiải Thưởng tháng:\nTop 1: 16.000.000 Lộc.",
+      "luuy":"Bài đẹp được xếp theo quy tắc của game Poker (Thùng phá sảnh to nhất \n->  Mậu Thầu thấp nhất).",
+      "doituong":"Người chơi Cao Thấp bằng Lộc."
+   },
+   {
+      "idgame":1,
+      "name":"Tiến Lên Miền Nam",
+      "title":"Hũ vàng TLMN",
+      "time":"19:30:00 -> 23:30:00 Thứ 3, 5, 7",
+      "content":"Trong thời gian diễn ra sự kiện, sẽ có Hũ Vàng xuất hiện\nNgười chơi sẽ có cơ hội nhận được % tương ứng của hũ nếu bốc được bộ \nbài Sảnh Rồng có 2.",
+      "giaithuong":"Giải thưởng của hũ Vàng được chia ra tùy thuộc vào bàn đang chơi như sau:\n Bàn 100: 0,5%.\n Bàn 500: 1%.\n Bàn 1.000: 2%.\n Bàn 2.000: 3%.\n Bàn 5.000: 5%.\n Bàn 10.000: 10%.\n Bàn 20.000: 15%.\n Bàn 50.000: 20%.\n Bàn 100.000: 30%.\n Bàn 200.000: 40%.",
+      "luuy":"Hũ vàng sẽ được khởi điểm bắt đầu từ 3.000.000 Lộc.\nTiếp theo cứ 1 phút hũ vàng game bài sẽ được tăng thêm 10.000 Lộc.",
+      "doituong":"Người chơi game Tiến lên Miền Nam bằng Lộc tại loc.club"
+   },
+   {
+      "idgame":4,
+      "name":"TLMN Solo",
+      "title":"Hũ Vàng TLMN Solo",
+      "time":"19:30:00 -> 23:30:00 Thứ 3, 5, 7",
+      "content":"Trong thời gian diễn ra sự kiện, sẽ có Hũ Vàng xuất hiện\n Người chơi sẽ có cơ hội nhận được % tương ứng của hũ nếu bốc được bộ \nbài Sảnh Rồng có 2.",
+      "giaithuong":"Giải thưởng của hũ Vàng được chia ra tùy thuộc vào bàn đang chơi như sau:\n Bàn 100: 0,5%.\n Bàn 500: 1%.\n Bàn 1.000: 2%.\n Bàn 2.000: 3%.\n Bàn 5.000: 5%.\n Bàn 10.000: 10%.\n Bàn 20.000: 15%.\n Bàn 50.000: 20%.\n Bàn 100.000: 30%.\n Bàn 200.000: 40%.",
+      "luuy":"Hũ vàng sẽ được khởi điểm bắt đầu từ 3.000.000 Lộc. Tiếp theo cứ 1 phút \nhũ vàng game bài sẽ được tăng thêm 10.000 Lộc.",
+      "doituong":"Người chơi game Tiến lên Miền Nam và Tiến Lên Miền Nam Solo bằng Lộc \ntại cổng loc.club."
+   },
+   {
+      "idgame":5,
+      "name":"Sâm Lốc",
+      "title":"Hũ vàng Sâm Lốc",
+      "time":"19:30:00 -> 23:30:00 Thứ 2 và Thứ 6",
+      "content":"Trong thời gian diễn ra sự kiện, sẽ có Hũ Vàng xuất hiện chơi game Sâm Lốc \nsẽ có cơ hội nhận được % hũ theo mệnh giá của bàn chơi nếu đạt được bộ \nbài Sảnh rồng chứa A - 10 lá liên tiếp có A.",
+      "giaithuong":"Giải thưởng của hũ Vàng được chia ra tùy thuộc vào bàn đang chơi như sau:\n Bàn 100: 0,5%.\n Bàn 500: 1%.\n Bàn 1.000: 2%.\n Bàn 2.000: 3%.\n Bàn 5.000: 10%.\n Bàn 10.000: 15%.\n Bàn 20.000: 20%.\n Bàn 50.000: 30%.\n Bàn 100.000: 40%.\n Bàn 200.000: 50%.",
+      "luuy":"Hũ vàng sẽ được khởi điểm bắt đầu từ 2.000.000 Lộc. Cứ mỗi 1 phút hũ \nsẽ tăng lên 5.000 Lộc.",
+      "doituong":"Người chơi game Sâm Lốc bằng Lộc"
+   },
+   {
+      "idgame":7,
+      "name":"Mậu Binh",
+      "title":"Hũ vàng Mậu Binh",
+      "time":"19:30:00 -> 23:30:00 Thứ Tư và Chủ Nhật",
+      "content":"Trong thời gian diễn ra sự kiện, chơi game Mậu Binh sẽ có cơ\n hội nhận được % hũ nếu đạt được bộ bài Sảnh Rồng.",
+      "giaithuong":"Giải thưởng của hũ Vàng được chia ra tùy thuộc vào bàn đang chơi như sau:\n Bàn 100: 0,5%.\n Bàn 500: 1%.\n Bàn 1.000: 2%.\n Bàn 2.000: 3%.\n Bàn 5.000: 10%.\n Bàn 10.000: 15%.\n Bàn 20.000: 20%.\n Bàn 50.000: 30%.\n Bàn 100.000: 40%.\n Bàn 200.000: 50%.",
+      "luuy":"Hũ vàng sẽ được khởi điểm bắt đầu từ 2.000.000 Lộc. Cứ mỗi 1 phút hũ \nsẽ tăng lên 5.000 Lộc.",
+      "doituong":"Người chơi game Mậu Binh bằng Lộc"
+   },
+   {
+      "idgame":8,
+      "name":"Đế Chế La Mã",
+      "title":"X2 Hũ Đế Chế La Mã",
+      "time":"10:30 Thứ 6 Hàng Tuần",
+      "content":"Vào 10:30' Thứ 6 hàng tuần, Đế Chế La Mã Sẽ X2 Hũ mức cược\n 100 và 1.000 như sau:",
+      "giaithuong":" Bàn 100: 10 hũ x2.\n Bàn 1.000: 1 hũ ",
+      "luuy":"Hũ được tính x2 tại thời điểm ăn hũ.\nVí Dụ: Lúc thời điểm bạn nổ hũ vàng đang là 800.000\n thì bạn sẽ nhận được 800.000 x 2 = 1.600.000.",
+      "doituong":"Người chơi Đế Chế La Mã bằng Lộc"
+   },
+   {
+      "idgame":9,
+      "name":"Nữ Điệp Viên",
+      "title":"X2 Hũ Nữ Điệp Viên",
+      "time":"10:30 Chủ Nhật Hàng Tuần",
+      "content":"Vào 10:30' Chủ Nhật hàng tuần, Nữ Điệp Viên Sẽ X2 Hũ mức cược\n 100 và 1.000 như sau:",
+      "giaithuong":" Bàn 100: 10 hũ x2.\n Bàn 1.000: 1 hũ ",
+      "luuy":"Hũ được tính x2 tại thời điểm ăn hũ.\nVí Dụ: Lúc thời điểm bạn nổ hũ vàng đang là 800.000\n thì bạn sẽ nhận được 800.000 x 2 = 1.600.000.",
+      "doituong":"Người chơi Nữ Điệp Viên bằng Lộc"
+   },
+   {
+      "idgame":11,
+      "name":"Siêu Anh Hùng",
+      "title":"X2 Hũ Siêu Anh Hùng",
+      "time":"10:30 Thứ Ba Hàng Tuần",
+      "content":"Vào 10:30' Thứ Ba hàng tuần, Siêu Anh Hùng Sẽ X2 Hũ mức cược\n 100 và 1.000 như sau:",
+      "giaithuong":" Bàn 100: 10 hũ x2.\n Bàn 1.000: 1 hũ ",
+      "luuy":"Hũ được tính x2 tại thời điểm ăn hũ.\nVí Dụ: Lúc thời điểm bạn nổ hũ vàng đang là 800.000\n thì bạn sẽ nhận được 800.000 x 2 = 1.600.000.",
+      "doituong":"Người chơi Siêu Anh Hùng bằng Lộc"
+   },
+   {
+      "idgame":12,
+      "name":"Vương Quốc Lộc",
+      "title":"X2 Hũ VQ Lộc",
+      "time":"10:30 Thứ Tư Hàng Tuần",
+      "content":"Vào 10:30' Thứ Tư hàng tuần, Vương Quốc Lộc Sẽ X2 Hũ mức cược\n 100 và 1.000 như sau:",
+      "giaithuong":" Bàn 100: 10 hũ x2.\n Bàn 1.000: 1 hũ ",
+      "luuy":"Hũ được tính x2 tại thời điểm ăn hũ.\nVí Dụ: Lúc thời điểm bạn nổ hũ vàng đang là 800.000\n thì bạn sẽ nhận được 800.000 x 2 = 1.600.000.",
+      "doituong":"Người chơi Vương Quốc Lộc bằng Lộc"
+   },
+   {
+      "idgame":13,
+      "name":"Candy",
+      "title":"X2 Hũ Candy",
+      "time":"10:30 Thứ Hai Hàng Tuần",
+      "content":"Vào 10:30' Thứ Hai hàng tuần, Candy Sẽ X2 Hũ mức cược\n 100 và 1.000 như sau:",
+      "giaithuong":" Bàn 100: 10 hũ x2.\n Bàn 1.000: 1 hũ ",
+      "luuy":"Hũ được tính x2 tại thời điểm ăn hũ.\nVí Dụ: Lúc thời điểm bạn nổ hũ vàng đang là 800.000\n thì bạn sẽ nhận được 800.000 x 2 = 1.600.000.",
+      "doituong":"Người chơi Candy bằng Lộc"
+   },
+   {
+      "idgame":10,
+      "name":"Nữ Chiến Thần",
+      "title":"X2 Hũ Nữ Chiến Thần",
+      "time":"10:30 Thứ Bảy Hàng Tuần",
+      "content":"Vào 10:30' Thứ Bảy hàng tuần, Nữ Chiến Thần Sẽ X2 Hũ\n mức cược 100 và 1.000 như sau:",
+      "giaithuong":" Bàn 100: 10 hũ x2.\n Bàn 1.000: 1 hũ ",
+      "luuy":"Hũ được tính x2 tại thời điểm ăn hũ.\nVí Dụ: Lúc thời điểm bạn nổ hũ vàng đang là 800.000\n thì bạn sẽ nhận được 800.000 x 2 = 1.600.000.",
+      "doituong":"Người chơi Nữ Chiến Thần bằng Lộc"
+   }
+]
