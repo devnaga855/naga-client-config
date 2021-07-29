@@ -114,8 +114,8 @@
    },
 {
       "idgame":21,
-      "name":"Vua tài xỉu",
-      "title":"Vua tài xỉu",
+      "name":"Thánh tài xỉu",
+      "title":"Thánh tài xỉu",
       "onoff":"is_vua_tai_xiu",
       "time":"Từ 00h00 ngày 27/06/2021 đến 23h59 ngày 03/07/2021",
       "content":"- Để tăng phần hấp dẫn cho người chơi cũng như tri ân toàn thể khách hàng\nđã ủng hộ loc.club trong thời gian vừa qua, NPH Lộc chính thức ra mắt\nsự kiện đua top tài xỉu (VUA TÀI XỈU) hàng ngày cùng những giải thưởng vô\ncùng giá trị.",
