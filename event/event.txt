@@ -33,7 +33,16 @@
       "luuy":"- Nhận thưởng theo từng nhiệm vụ hoàn thành, không tính trùng nhiệm vụ\nkhi thực hiện\n- Qua ngày mới sẽ reset lại từ đầu\n- Nhiệm vụ sẽ được cập nhật và thay đổi liên tục",
       "doituong":"Áp dụng cho tất cả người chơi trên cổng game"
    },
-   
+   {
+      "idgame":33,
+      "name":"Hoàn Lộc",
+      "title":"Hoàn Lộc",
+      "time":"Sự kiện diễn ra hàng ngày xuyên suốt trên cổng game",
+      "content":"- Dựa vào số lộc cược thua trong ngày,NPH sẽ hoàn lộc  lại cho người chơi\ndựa trên cở sở sau:\n+ Tiền cược thua 10.000.000 lộc  sẽ được hoàn 10.000 lộc\n+ Số lộc được hoàn sẽ được luỹ kế theo mốc lộc thua là 10.000.000 lộc\n+ Vd: Người chơi A có tổng lộc thua trong ngày là 15.000.000 lộc thì sẽ được hoàn lại 15.000 lộc.\n+ Người chơi B có tổng lộc thua trong ngày là 48.000.000 lộc thì sẽ được hoàn lại 48.000 lộc",
+      "giaithuong":"",
+      "luuy":"- Hệ thống sẽ tổng hợp số lộc thua trong ngày từ 00h00 đến 23h59 sau đó\nsẽ hoàn lại lộc vào ngày hôm sau.Số lộc được hoàn sẽ được cộng vào tài khoản\ncủa người chơi và sẽ có thông báo gửi về hòm thư trong game",
+      "doituong":"Tất cả người chơi tham gia trên cổng game( không tính chơi Bong88 )"
+   },
     {
       "idgame":27,
       "name":"Săn code 50K",
