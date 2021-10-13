@@ -121,6 +121,16 @@
       "luuy":"- Số lần RUNG CÂY sẽ bị reset lại khi qua mốc 00h:00 ngày hôm sau nếu\nkhông sử dụng hết. Số tiền tích nạp sẽ chỉ được tính trong ngày để tính ra\n số lần RUNG CÂY. Qua 00h: 00 cũng sẽ reset trở lại về 0.\n- Số Lộc nạp của khách hàng trong 1 ngày sẽ được quy đổi ra số lần RUNG\nCÂY theo điều kiện sau:\n+ Tích nạp Lộc: 1.000K Số lần rung cây: 2\n+ Tích nạp Lộc: 2.000K Số lần rung cây: 2\n+ Tích nạp Lộc: 5.000K Số lần rung cây: 3\n+ Tích nạp Lộc: 10.000K Số lần rung cây: 4",
       "doituong":"Tất cả các khách hàng tham gia chơi Lộc trên cổng game loc.club"
    },
+   {
+      "idgame":34,
+      "name":"Thánh dự LocBo",
+      "title":"Thánh dự LocBo",
+      "time":"0:00:00 đến 23:59:59 hàng ngày",
+      "content":"- Trong suốt thời gian diễn ra sự kiện, khách hàng tham gia chơi minigame LocBO\nbằng đồng LỘC thắng và thua liên tiếp nhiều ván liên tục, sẽ có cơ hội nhận\nđược nhiều giải thưởng LỘC có giá trị cho giải ngày.\n- Giải ngày thống kê từ 0h00 đến 23h59.\n- Số ván thắng hoặc thua liên tiếp không cần phải là các phiên liên tiếp nhau.\n- Điều kiện tính ván thắng hoặc thua liên tiếp:\n+ Các ván có lệnh khớp tối thiểu 2.000 LỘC\n+ Có ít nhất 1 ván lệnh khớp tối thiểu 10.000 LỘC\n- Những ván không khớp lệnh thì hệ thống sẽ không ghi nhận bất chấp kết quả của\nván đó coi như là người chơi không tham gia.\n- Tiêu chí xếp hạng\n1. Số ván thắng hoặc thua liên tiếp dài nhất mà hệ thống ghi nhận từng ngày.\n2. Tổng Lộc thắng (chuỗi thắng liên tiếp) và tổng Lộc thua (chuỗi liên tiếp)\n3. Thời gian đạt chuỗi thắng hoặc thua liên tiếp trước.",
+      "giaithuong":"- Giải thưởng Top thắng liên tiếp trong ngày\n+ TOP 1: 2,000,000 Lộc\n+ Top 2: 1,000,000 Lộc\n+ Top 3: 500,000 Lộc\n+ Top 4 - 5: 200,000 Lộc\n+ Top 6 - 10: 100,000 Lộc\n+ Giải chung cuộc dành cho người đạt được chuỗi thắng liên tiếp dài nhất\ntheo tiêu chí xếp hạng ở trên mà hệ thống ghi nhận từng ngày trong suốt\nthời gian diễn ra sự kiện.\n\n- Giải thưởng Top thua liên tiếp trong ngày\n+ TOP 1: 2,000,000 Lộc\n+ Top 2: 1,000,000 Lộc\n+ Top 3: 500,000 Lộc\n+ Top 4 - 5: 200,000 Lộc\n+ Top 6 - 10: 100,000 Lộc\n+ Giải chung cuộc dành cho người đạt được chuỗi thua liên tiếp dài nhất\ntheo tiêu chí xếp hạng ở trên mà hệ thống ghi nhận từng ngày trong suốt\nthời gian diễn ra sự kiện.",
+      "luuy":"- Giải thưởng LỘC sẽ được trao vào lúc 0h30 ngày kế tiếp.\n- Một tài khoản có thể nhận được nhiều giải thưởng ngày khác nhau.\n -Trong trường hợp có tranh chấp, quyết định của BTC (ban tổ chức)\nlà quyết định cuối cùng.",
+      "doituong":"- Áp dụng cho tất cả người chơi minigame LocBO bằng đồng LỘC trên cổng game Loc89.Club."
+   },
 {
       "idgame":21,
       "name":"Thánh tài xỉu",
