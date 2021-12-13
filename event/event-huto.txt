@@ -157,7 +157,7 @@
       "name":"Tài Xỉu",
       "title":"Thánh Dự Tài Xỉu",
       "time":"0:00:00 đến 23:59:59 hàng ngày",
-      "content":"Người chơi tham gia mini game Tài Xỉu bằng tiền Na thắng và thua liên tiếp\nCó cơ hội nhận thưởng nhiều phần thưởng bằng HŨ.\n\nTiêu Chí Xếp Hạng:\n1. Số ván Đánh thắng hoặc thua liên tiếp dài nhất hệ thống ghi nhận.\n2. Tổng tiền thắng(chuỗi thắng), thua(chuỗi thua).\n3. Thời gian đạt chuỗi thắng hoặc thua liên tiếp. ",
+      "content":"Người chơi tham gia mini game Tài Xỉu bằng tiền Hũ thắng và thua liên tiếp\nCó cơ hội nhận thưởng nhiều phần thưởng bằng HŨ.\n\nTiêu Chí Xếp Hạng:\n1. Số ván Đánh thắng hoặc thua liên tiếp dài nhất hệ thống ghi nhận.\n2. Tổng tiền thắng(chuỗi thắng), thua(chuỗi thua).\n3. Thời gian đạt chuỗi thắng hoặc thua liên tiếp. ",
       "giaithuong":"Top Thắng Liên Tiếp:\nTop1: 2.000.000 HŨ.\nTop2: 1.000.000 HŨ.\nTop3: 500.000 HŨ.\n\nTop Thua Liên Tiếp:\nTop1: 2.000.000 HŨ.\nTop2: 1.000.000 HŨ.\nTop3: 500.000 HŨ.",
       "luuy":"- Các Ván đánh có lệnh khớp tối thiểu 2.000 HŨ.\n- Có ít nhất 1 ván lệnh khớp tối thiểu 10.000 HŨ. \n- Không ghi nhận những ván chơi hoàn trả tiền.\n- Trong trường hợp tranh chấp, quyết định của BTC là quyết định cuối cùng.",
       "doituong":"Người chơi mini game Tài Xỉu bằng HŨ."
