@@ -56,13 +56,13 @@
       },
     {
       "idgame":27,
-      "name":"Săn code 50K",
-      "title":"Săn code 50K",
+      "name":"Hứng CODE 50K",
+      "title":"Hứng CODE 50k",
       "onoff":"IS_CODE_50",
-      "time":"Hàng ngày",
-      "content":"- Để nhận được CODE 50k đến từ NPH, bạn chỉ cần hoàn thành 2 tiêu chí \nsau:\n+ Tiêu chí 1: Nạp tối thiểu 1.000.000 HŨ( kể từ lúc event này ra mắt lúc \n00:00 ngày 22/5)\n+ Tiêu chí 2: Có mức cược tối thiểu là 10M( kể từ lúc event này ra mắt lúc \n00:00 ngày 22/5 )",
-      "giaithuong":"- Code 50k sẽ được gửi về hòm thư trong game sau khi bạn hoàn thành điều\n kiện.",
-      "luuy":"- Phải đạt đủ cả 2 tiêu chí trên mới nhận được code 50k.\n- Nếu bạn chỉ đạt 1 trong 2 tiêu chí thì cũng sẽ không được tính\n- Sự kiện tính theo ngày, sang ngày mới sẽ reset từ đầu",
+      "time":"7 Ngày",
+      "content":"- Để nhận được CODE 50k đến từ NPH, bạn chỉ cần hoàn thành 2 tiêu chí sau:\n+ Tiêu chí 1: Nạp tối thiểu 50k. Nạp qua 1 trong 3 hình thức: Thẻ cào, Ví điện tử, Ngân hàng.( không tính hình thức nạp qua Đại lý )\n+ Tiêu chí 2: Tiền cược từ 5.000.000 Hu trở lên",
+      "giaithuong":"- Khi đã thoả mãn được 2 điều kiện trên thì code 50k sẽ được gửi về hòm thư trong game của bạn.\n- Mỗi người chơi sẽ chỉ nhận được 1 và chỉ 1 code 50k khi đã đạt đủ yêu cầu kể trên.",
+      "luuy":"- Phải đạt đủ cả 2 tiêu chí và Đăng ký bảo mật tài khoản thì mới nhận được Code.\n- Nếu bạn chỉ đạt 1 trong 2 tiêu chí thì cũng sẽ không được tính\n- Mỗi tài khoản chỉ dùng được 1 lần code duy nhất",
       "doituong":"Áp dụng cho tất cả thành viên của HUTO"
    },
     {
