@@ -4,10 +4,10 @@
       "name":"Quà tân thủ",
       "title":"QUÀ TÂN THỦ",
       "onoff":"IS_FIRST_GAME",
-      "time":"Bắt đầu từ ngày 10/6/2021",
-      "content":"- Tiền thưởng sẽ được cộng vào số dư của bạn",
+      "time":"Sự kiện chạy xuyên suốt trên cổng game",
+      "content":"- Hũ thưởng sẽ được cộng vào số dư của bạn",
       "giaithuong":"- 10 tiến trình, mỗi tiến trình 10.000 HŨ. ( tổng 10 tiến trình là 100.000)",
-      "luuy":"- Tài khoản phải đăng ký bảo mật SĐT\n- Nạp tiền tối thiểu 50k\n- Tiền thưởng nhận được khi người chơi hoàn thành 10 tiến trình nhận\nthưởng, mỗi tiến trình nhận 10.000 HŨ.\n- Mỗi tiến trình sẽ dựa theo số tiền cược khi chơi các game tại cổng game\nHUTO\n- Mỗi tiến trình user sẽ nhận được 10K (Tổng 10 tiến trình là 100K)\n- Một tài khoản chỉ được thực hiện 10 tiến trình 1 lần",
+      "luuy":"- Tài khoản phải đăng ký bảo mật SĐT\n- Nạp Hũ tối thiểu 50k\n- Hũ thưởng nhận được khi người chơi hoàn thành 10 tiến trình nhận\nthưởng, mỗi tiến trình nhận 10.000 HŨ.\n- Mỗi tiến trình sẽ dựa theo số Hũ cược khi chơi các game tại cổng game\nHUTO\n- Mỗi tiến trình user sẽ nhận được 10K (Tổng 10 tiến trình là 100K)\n- Một tài khoản chỉ được thực hiện 10 tiến trình 1 lần",
       "doituong":"Tất cả các khách hàng tham gia chơi HŨ trên cổng game HUTO"
    },
 
@@ -28,7 +28,7 @@
       "title":"Nhiệm vụ",
       "onoff":"IS_NHIEM_VU",
       "time":"Diễn ra vào các ngày trong tuần",
-      "content":"- Tiền thưởng sẽ được cộng vào số dư của bạn",
+      "content":"- Hũ thưởng sẽ được cộng vào số dư của bạn",
       "giaithuong":"- Hoàn thành yêu cầu của từng nhiệm vụ đề ra.\n- Khi đã hoàn thành mỗi nhiệm vụ, bạn sẽ nhận được giải thưởng tương\nxứng cho mỗi nhiệm vụ đó.",
       "luuy":"- Nhận thưởng theo từng nhiệm vụ hoàn thành, không tính trùng nhiệm vụ\nkhi thực hiện\n- Qua ngày mới sẽ reset lại từ đầu\n- Nhiệm vụ sẽ được cập nhật và thay đổi liên tục",
       "doituong":"Áp dụng cho tất cả người chơi trên cổng game"
@@ -38,10 +38,10 @@
       "name":"Hoàn HŨ",
       "title":"Hoàn HŨ",
       "time":"Sự kiện diễn ra hàng ngày xuyên suốt trên cổng game",
-      "content":"- Dựa vào số HŨ cược thua trong ngày,NPH sẽ hoàn HŨ lại cho người chơi\ndựa trên cở sở sau:\n+ Tiền cược thua 10.000.000 HŨ  sẽ được hoàn 10.000 HŨ\n+ Số HŨ được hoàn sẽ được luỹ kế theo mốc HŨ thua là 10.000.000 HŨ\n+ Vd: Người chơi A có tổng HŨ thua trong ngày là 15.000.000 HŨ thì sẽ\nđược hoàn lại 15.000 HŨ.\n+ Người chơi B có tổng HŨ thua trong ngày là 48.000.000 HŨ thì sẽ được\nhoàn lại 48.000 HŨ",
+      "content":"- Dựa vào số HŨ cược thua trong ngày,NPH sẽ hoàn HŨ lại cho người chơi\ndựa trên cở sở sau:\n+ Hũ cược thua 10.000.000 HŨ  sẽ được hoàn 10.000 HŨ\n+ Số HŨ được hoàn sẽ được luỹ kế theo mốc HŨ thua là 10.000.000 HŨ\n+ Vd: Người chơi A có tổng HŨ thua trong ngày là 15.000.000 HŨ thì sẽ\nđược hoàn lại 15.000 HŨ.\n+ Người chơi B có tổng HŨ thua trong ngày là 48.000.000 HŨ thì sẽ được\nhoàn lại 48.000 HŨ",
       "giaithuong":"",
       "luuy":"- Hệ thống sẽ tổng hợp số HŨ thua trong ngày từ 00h00 đến 23h59 sau đó\nsẽ hoàn lại HŨ vào ngày hôm sau.Số HŨ được hoàn sẽ được cộng vào tài khoản\ncủa người chơi và sẽ có thông báo gửi về hòm thư trong game",
-      "doituong":"Tất cả người chơi tham gia trên cổng game( không tính chơi trùm cá,\nthế chiến, Bong88 )"
+      "doituong":"Tất cả người chơi tham gia trên cổng game( không tính chơi Long Cung, Hải Vương, Thế Chiến, Bong88)"
    },
    {
          "idgame":36,
@@ -50,7 +50,7 @@
          "onoff":"IS_TOP_TX",
          "time":"Tất cả các ngày trong tuần.Từ 00:00 đến 23:59 mỗi ngày.",
          "content":"- Đạt tổng cược từ 100.000.000 trở lên trước 23:59 mỗi ngày\n- Thỏa mãn điều kiện đạt tổng cược và nằm trong Top 20 người có Tổng thắng cao nhất trong ngày",
-         "giaithuong":"- Đúng 00:00 hệ thống sẽ tổng kết Top 20 người chơi đủ điều kiện để trao thưởng\n- Nếu người chơi đạt được tổng thắng mà tổng cược không đạt được sẽ bị mất quyền nhận thưởng\n- Thời gian công bố kết quả từ 00:00 đến 12:00 ngày hôm sau\n- Tiền thưởng sẽ được cộng trực tiếp vào tải khoản người chiến thắng\n+ Top 1: 10.000.000\n+ Top 2: 5.000.000\n+ Top 3: 3.000.000\n+ Top 4, 5: 2.000.000\n+ Top 6-10: 1.500.000\n+ Top 11-14: 1.000.000\n+ Top 15-16: 500.000\n+ Top 18-19: 200.000\n+ Top 20: 100.000",
+         "giaithuong":"- Đúng 00:00 hệ thống sẽ tổng kết Top 20 người chơi đủ điều kiện để trao thưởng\n- Nếu người chơi đạt được tổng thắng mà tổng cược không đạt được sẽ bị mất quyền nhận thưởng\n- Thời gian công bố kết quả từ 00:00 đến 12:00 ngày hôm sau\n- Hũ thưởng sẽ được cộng trực tiếp vào tải khoản người chiến thắng\n+ Top 1: 10.000.000\n+ Top 2: 5.000.000\n+ Top 3: 3.000.000\n+ Top 4, 5: 2.000.000\n+ Top 6-10: 1.500.000\n+ Top 11-14: 1.000.000\n+ Top 15-16: 500.000\n+ Top 18-19: 200.000\n+ Top 20: 100.000",
          "luuy":"",
          "doituong":"Tất cả người chơi trên cổng game"
       },
@@ -60,7 +60,7 @@
       "title":"Hứng CODE 50k",
       "onoff":"IS_CODE_50",
       "time":"7 Ngày",
-      "content":"- Để nhận được CODE 50k đến từ NPH, bạn chỉ cần hoàn thành 2 tiêu chí sau:\n+ Tiêu chí 1: Nạp tối thiểu 50k. Nạp qua 1 trong 3 hình thức: Thẻ cào, Ví điện tử, Ngân hàng.( không tính hình thức nạp qua Đại lý )\n+ Tiêu chí 2: Tiền cược từ 5.000.000 Hu trở lên",
+      "content":"- Để nhận được CODE 50k đến từ NPH, bạn chỉ cần hoàn thành 2 tiêu chí sau:\n+ Tiêu chí 1: Nạp tối thiểu 50k. Nạp qua 1 trong 3 hình thức: Thẻ cào, Ví điện tử, Ngân hàng.( không tính hình thức nạp qua Đại lý )\n+ Tiêu chí 2: Hũ cược từ 5.000.000 Hu trở lên",
       "giaithuong":"- Khi đã thoả mãn được 2 điều kiện trên thì code 50k sẽ được gửi về hòm thư trong game của bạn.\n- Mỗi người chơi sẽ chỉ nhận được 1 và chỉ 1 code 50k khi đã đạt đủ yêu cầu kể trên.",
       "luuy":"- Phải đạt đủ cả 2 tiêu chí và Đăng ký bảo mật tài khoản thì mới nhận được Code.\n- Nếu bạn chỉ đạt 1 trong 2 tiêu chí thì cũng sẽ không được tính\n- Mỗi tài khoản chỉ dùng được 1 lần code duy nhất",
       "doituong":"Áp dụng cho tất cả thành viên của HUTO"
@@ -93,9 +93,9 @@
       "title":"X3 nạp",
       "time":"Hàng ngày",
       "onoff":"IS_EVENT_X2NAP",
-      "content":"- Nhận thưởng 200% tiền nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 HŨ\n-Áp dụng cho tất cá các hình thức nạp: Nạp thẻ, nạp qua đại lý,nạp qua \nngân hàng trong lần đầu ",
-      "giaithuong":"- Nhận thưởng 200% tiền nạp lần đầu",
-      "luuy":"- Tiền thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận\nthưởng\n\n- Tiến trình nhận thưởng được thực hiện khi chơi game tại HUTO không \ntính các game Trùm Cá, Thần Biển, Lô số, Bầu cua, Game bài\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng \nhay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt tiền thưởng,nếu tiến trình nhận \nthưởng không hoàn thành 100% thì toàn bộ số tiền thưởng sẽ bị hủy",
+      "content":"- Nhận thưởng 200% Hũ nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 HŨ\n-Áp dụng cho tất cá các hình thức nạp: Nạp thẻ, nạp qua đại lý,nạp qua \nngân hàng trong lần đầu ",
+      "giaithuong":"- Nhận thưởng 200% Hũ nạp lần đầu",
+      "luuy":"- Hũ thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận\nthưởng\n\n- Tiến trình nhận thưởng được thực hiện khi chơi game tại HUTO không \ntính các game Trùm Cá, Thần Biển, Lô số, Bầu cua, Game bài\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng \nhay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt Hũ thưởng,nếu tiến trình nhận \nthưởng không hoàn thành 100% thì toàn bộ số Hũ thưởng sẽ bị hủy",
       "doituong":"Khuyến mại cho tất cả các thành viên mới đăng kí"
    },
 
@@ -129,7 +129,7 @@
       "time":"Từ 00:00 ngày 26/05/2021 đến 23:59 ngày 31/05/2021.",
       "content":"- Trong thời gian hoạt động trong ngày, người chơi tích lũy nạp HŨ qua\nĐẠI LÝ sẽ nhận được số lần RUNG CÂY.\n- Sau khi RUNG CÂY khách hàng chắc chắn sẽ nhận được quà.",
       "giaithuong":"- 3 lượt quay free Avengers\n- 3 lượt quay free Đêm Vũ Trường\n- 3 lượt quay free Thần Tài\n- 3 lượt quay free Thành Rome\n- 3 lượt quay free Thành Rome\n- Và các giải thưởng HŨ như: 50K,100K,250K,500K,1100K,2600K",
-      "luuy":"- Số lần RUNG CÂY sẽ bị reset lại khi qua mốc 00h:00 ngày hôm sau nếu\nkhông sử dụng hết. Số tiền tích nạp sẽ chỉ được tính trong ngày để tính ra\n số lần RUNG CÂY. Qua 00h: 00 cũng sẽ reset trở lại về 0.\n- Số HŨ nạp của khách hàng trong 1 ngày sẽ được quy đổi ra số lần RUNG\nCÂY theo điều kiện sau:\n+ Tích nạp HŨ: 1.000K Số lần rung cây: 2\n+ Tích nạp HŨ: 2.000K Số lần rung cây: 2\n+ Tích nạp HŨ: 5.000K Số lần rung cây: 3\n+ Tích nạp HŨ: 10.000K Số lần rung cây: 4",
+      "luuy":"- Số lần RUNG CÂY sẽ bị reset lại khi qua mốc 00h:00 ngày hôm sau nếu\nkhông sử dụng hết. Số Hũ tích nạp sẽ chỉ được tính trong ngày để tính ra\n số lần RUNG CÂY. Qua 00h: 00 cũng sẽ reset trở lại về 0.\n- Số HŨ nạp của khách hàng trong 1 ngày sẽ được quy đổi ra số lần RUNG\nCÂY theo điều kiện sau:\n+ Tích nạp HŨ: 1.000K Số lần rung cây: 2\n+ Tích nạp HŨ: 2.000K Số lần rung cây: 2\n+ Tích nạp HŨ: 5.000K Số lần rung cây: 3\n+ Tích nạp HŨ: 10.000K Số lần rung cây: 4",
       "doituong":"Tất cả các khách hàng tham gia chơi HŨ trên cổng game HUTO"
    },
    {
@@ -150,7 +150,7 @@
       "time":"Từ 00h00 ngày 27/06/2021 đến 23h59 ngày 03/07/2021",
       "content":"- Để tăng phần hấp dẫn cho người chơi cũng như tri ân toàn thể khách hàng\nđã ủng hộ HUTO trong thời gian vừa qua, NPH HŨ chính thức ra mắt\nsự kiện đua top tài xỉu (VUA TÀI XỈU) hàng ngày cùng những giải thưởng vô\ncùng giá trị.",
       "giaithuong":"- Top 1: 5.000.000 HŨ\n- Top 2: 3.000.000 HŨ\n- Top 3: 2.000.000 HŨ\n- Top 4: 1.000.000 HŨ\n- Top 5: 500.000 HŨ",
-      "luuy":"- Xuyên suốt thời gian diễn ra sự kiện, hàng ngày sẽ dựa vào bảng xếp hạng\nTop Tài Xỉu để trao giải\n- Reset lại tính từ 0h00 ngày mới.\n- Nếu có 2 hay nhiều người chơi bằng điểm, thì hệ thống sẽ căn cứ theo ai\nđạt số điểm đó trước.\n- Nghiêm cấm hành vi dồn tiền từ nhiều tài khoản qua Tài Xỉu để gian lận\nthứ tự bảng xếp hạng.\n- Để đạt Top 1 cần Số tiền thắng TX tối thiếu trong ngày đạt 150M\n- Giải thưởng HŨ sẽ được trao tặng hàng ngày\n- Quyết định của Ban Quản Trị là quyết định cuối cùng.\n",
+      "luuy":"- Xuyên suốt thời gian diễn ra sự kiện, hàng ngày sẽ dựa vào bảng xếp hạng\nTop Tài Xỉu để trao giải\n- Reset lại tính từ 0h00 ngày mới.\n- Nếu có 2 hay nhiều người chơi bằng điểm, thì hệ thống sẽ căn cứ theo ai\nđạt số điểm đó trước.\n- Nghiêm cấm hành vi dồn Hũ từ nhiều tài khoản qua Tài Xỉu để gian lận\nthứ tự bảng xếp hạng.\n- Để đạt Top 1 cần Số Hũ thắng TX tối thiếu trong ngày đạt 150M\n- Giải thưởng HŨ sẽ được trao tặng hàng ngày\n- Quyết định của Ban Quản Trị là quyết định cuối cùng.\n",
       "doituong":"- Tất cả các khách hàng trên cổng game HUTO"
    },
    {
@@ -158,9 +158,9 @@
       "name":"Tài Xỉu",
       "title":"Thánh Dự Tài Xỉu",
       "time":"0:00:00 đến 23:59:59 hàng ngày",
-      "content":"Người chơi tham gia mini game Tài Xỉu bằng tiền Hũ thắng và thua liên tiếp\nCó cơ hội nhận thưởng nhiều phần thưởng bằng HŨ.\n\nTiêu Chí Xếp Hạng:\n1. Số ván Đánh thắng hoặc thua liên tiếp dài nhất hệ thống ghi nhận.\n2. Tổng tiền thắng(chuỗi thắng), thua(chuỗi thua).\n3. Thời gian đạt chuỗi thắng hoặc thua liên tiếp. ",
+      "content":"Người chơi tham gia mini game Tài Xỉu bằng Hũ thắng và thua liên tiếp\nCó cơ hội nhận thưởng nhiều phần thưởng bằng HŨ.\n\nTiêu Chí Xếp Hạng:\n1. Số ván Đánh thắng hoặc thua liên tiếp dài nhất hệ thống ghi nhận.\n2. Tổng Hũ thắng(chuỗi thắng), thua(chuỗi thua).\n3. Thời gian đạt chuỗi thắng hoặc thua liên tiếp. ",
       "giaithuong":"Top Thắng Liên Tiếp:\nTop1: 2.000.000 HŨ.\nTop2: 1.000.000 HŨ.\nTop3: 500.000 HŨ.\n\nTop Thua Liên Tiếp:\nTop1: 2.000.000 HŨ.\nTop2: 1.000.000 HŨ.\nTop3: 500.000 HŨ.",
-      "luuy":"- Các Ván đánh có lệnh khớp tối thiểu 2.000 HŨ.\n- Có ít nhất 1 ván lệnh khớp tối thiểu 10.000 HŨ. \n- Không ghi nhận những ván chơi hoàn trả tiền.\n- Trong trường hợp tranh chấp, quyết định của BTC là quyết định cuối cùng.",
+      "luuy":"- Các Ván đánh có lệnh khớp tối thiểu 2.000 HŨ.\n- Có ít nhất 1 ván lệnh khớp tối thiểu 10.000 HŨ. \n- Không ghi nhận những ván chơi hoàn trả Hũ.\n- Trong trường hợp tranh chấp, quyết định của BTC là quyết định cuối cùng.",
       "doituong":"Người chơi mini game Tài Xỉu bằng HŨ."
    },
    {
@@ -171,7 +171,7 @@
       "content":"Trong suốt thời gian diễn ra sự kiện, người chơi có:\n- Số ván ăn được Tôm liên tiếp nhiều nhất sẽ nhận được phần thưởng.\n\nTiêu Chí Xếp Hạng:\n- Tổng số tôm người chơi thắng được trong chuỗi thắng liên tiếp.\n- Độ dài của chuỗi thắng liên tiếp.\n- Tổng HŨ Thắng.\n- Tổng HŨ đặt\n- Thời gian.",
       "giaithuong":" Top1: 1.000.000 HŨ.\n Top2: 500.000 HŨ.\n Top3: 200.000 HŨ.\n Top4-5: 100.000 HŨ ",
       "luuy":"- Phần thưởng sẽ được trao vào 3:00:00 ngày kế tiếp.\n- Một tài khoản chỉ có thể nhận được 1 phần thưởng duy nhất trong ngày.\n- Trong trường hợp có tranh chấp, Quyết định của BTC là quyết định \ncuối cùng.",
-      "doituong":"Tất cả những người chơi minigame Bầu Cua bằng tiền HŨ \ntrên HUTO"
+      "doituong":"Tất cả những người chơi minigame Bầu Cua bằng HŨ trên HUTO"
    },
    {
       "idgame":16,
@@ -181,7 +181,7 @@
       "content":"Tri ân người chơi MiniPoker. BQT quyết định cứ vào 10:30' thứ 6 hàng tuần, \nMiniPoker sẽ được x4 giá trị hũ.",
       "giaithuong":" Mức Cược 100: 10 Hũ được X4.\n Mức Cược 1.000: 1 Hũ được x4.",
       "luuy":"- Phòng 100: Hũ được X4 tiếp theo sẽ cách 3 hũ bình thường đối với hũ X4 \ntrước đó (Ví dụ: 1, 5, 9, 13).\n- Phòng 1.000: Hũ thứ ba và thứ bảy sẽ được X4 tính từ thời điểm khung \ngiờ vàng.\n- Sự kiện được kết thúc khi trao thưởng đủ 10 x4 mức cược 100 và 1 hũ X4 \nmức cược 1.000.\n- Khi có tranh chấp, quyết định của BQT là quyết định cuối cùng.",
-      "doituong":"Tất cả người chơi minigame MiniPoker bằng tiền HŨ trên HUTO"
+      "doituong":"Tất cả người chơi minigame MiniPoker bằng HŨ trên HUTO"
    },
    {
       "idgame":17,
@@ -274,23 +274,23 @@
       "doituong":"Người chơi Thần Tài bằng HŨ"
    },
    {
-      "idgame":13,
-      "name":"Gái Nhảy",
-      "title":"X2 Hũ Gái Nhảy",
-      "time":"10:30 Thứ Hai Hàng Tuần",
-      "content":"Vào 10:30' Thứ Hai hàng tuần, Gái Nhảy Sẽ X2 Hũ mức cược\n 100 và 1.000 như sau:",
-      "giaithuong":" Bàn 100: 10 hũ x2.\n Bàn 1.000: 1 hũ ",
-      "luuy":"Hũ được tính x2 tại thời điểm ăn hũ.\nVí Dụ: Lúc thời điểm bạn nổ hũ vàng đang là 800.000\n thì bạn sẽ nhận được 800.000 x 2 = 1.600.000.",
-      "doituong":"Người chơi Gái Nhảy bằng HŨ"
-   },
-   {
-      "idgame":10,
-      "name":"Kim Tự Tháp",
-      "title":"X2 Hũ Kim Tự Tháp",
-      "time":"10:30 Thứ Bảy Hàng Tuần",
-      "content":"Vào 10:30' Thứ Bảy hàng tuần, Kim Tự Tháp Sẽ X2 Hũ\n mức cược 100 và 1.000 như sau:",
-      "giaithuong":" Bàn 100: 10 hũ x2.\n Bàn 1.000: 1 hũ ",
-      "luuy":"Hũ được tính x2 tại thời điểm ăn hũ.\nVí Dụ: Lúc thời điểm bạn nổ hũ vàng đang là 800.000\n thì bạn sẽ nhận được 800.000 x 2 = 1.600.000.",
-      "doituong":"Người chơi Kim Tự Tháp bằng HŨ"
-   }
+         "idgame":13,
+         "name":"Gái Nhảy",
+         "title":"X2 Hũ Gái Nhảy",
+         "time":"10:30 Thứ Hai Hàng Tuần",
+         "content":"Vào 10:30' Thứ Hai hàng tuần, Gái Nhảy Sẽ X2 Hũ mức cược\n 100 và 1.000 như sau:",
+         "giaithuong":" Bàn 100: 10 hũ x2.\n Bàn 1.000: 1 hũ ",
+         "luuy":"Hũ được tính x2 tại thời điểm ăn hũ.\nVí Dụ: Lúc thời điểm bạn nổ hũ vàng đang là 800.000\n thì bạn sẽ nhận được 800.000 x 2 = 1.600.000.",
+         "doituong":"Người chơi Gái Nhảy bằng HŨ"
+      },
+      {
+         "idgame":10,
+         "name":"Kim Tự Tháp",
+         "title":"X2 Hũ Kim Tự Tháp",
+         "time":"10:30 Thứ Bảy Hàng Tuần",
+         "content":"Vào 10:30' Thứ Bảy hàng tuần, Kim Tự Tháp Sẽ X2 Hũ\n mức cược 100 và 1.000 như sau:",
+         "giaithuong":" Bàn 100: 10 hũ x2.\n Bàn 1.000: 1 hũ ",
+         "luuy":"Hũ được tính x2 tại thời điểm ăn hũ.\nVí Dụ: Lúc thời điểm bạn nổ hũ vàng đang là 800.000\n thì bạn sẽ nhận được 800.000 x 2 = 1.600.000.",
+         "doituong":"Người chơi Kim Tự Tháp bằng HŨ"
+      }
 ]
