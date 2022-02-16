@@ -256,7 +256,7 @@
    {
       "idgame":11,
       "name":"Avengers",
-      "title":"X2 Hũ Avengers",
+      "title":"X8 Hũ Avengers",
       "time":"10:30 Thứ Ba Hàng Tuần",
       "content":"Vào 10:30' Thứ Ba hàng tuần, Avengers sẽ X8 Hũ mức cược\n 100,x3 HŨ mức cược 1.000 và x2 Hũ mức cược 5.000 như sau:",
       "giaithuong":"- Phòng 100: 6 hũ x8, cách 5 hũ sẽ có 1 hũ x8.\n- Phòng 1.000: 3 hũ x3, Hũ thứ 3 và hũ thứ 9 sẽ x3\n- Phòng 5.000: 1 hũ x2, Hũ thứ 2 sẽ x2",
@@ -266,7 +266,7 @@
    {
       "idgame":12,
       "name":"Thần Tài",
-      "title":"X2 Hũ Thần Tài",
+      "title":"X8 Hũ Thần Tài",
       "time":"10:30 Thứ Tư Hàng Tuần",
       "content":"Vào 10:30' Thứ Tư hàng tuần, Thần Tài sẽ X8 Hũ mức cược\n 100,x3 HŨ mức cược 1.000 và x2 Hũ mức cược 5.000 như sau:",
       "giaithuong":"- Phòng 100: 6 hũ x8, cách 5 hũ sẽ có 1 hũ x8.\n- Phòng 1.000: 3 hũ x3, Hũ thứ 3 và hũ thứ 9 sẽ x3\n- Phòng 5.000: 1 hũ x2, Hũ thứ 2 sẽ x2",
@@ -276,7 +276,7 @@
    {
          "idgame":13,
          "name":"Gái Nhảy",
-         "title":"X2 Hũ Gái Nhảy",
+         "title":"X8 Hũ Gái Nhảy",
          "time":"10:30 Thứ Hai Hàng Tuần",
          "content":"Vào 10:30' Thứ Hai hàng tuần, Gái Nhảy sẽ X8 Hũ mức cược\n 100,x3 HŨ mức cược 1.000 và x2 Hũ mức cược 5.000 như sau:",
          "giaithuong":"- Phòng 100: 6 hũ x8, cách 5 hũ sẽ có 1 hũ x8.\n- Phòng 1.000: 3 hũ x3, Hũ thứ 3 và hũ thứ 9 sẽ x3\n- Phòng 5.000: 1 hũ x2, Hũ thứ 2 sẽ x2",
@@ -286,11 +286,32 @@
       {
          "idgame":10,
          "name":"Kim Tự Tháp",
-         "title":"X2 Hũ Kim Tự Tháp",
+         "title":"X8 Hũ Kim Tự Tháp",
          "time":"10:30 Thứ Bảy Hàng Tuần",
          "content":"Vào 10:30' Thứ Bảy hàng tuần, Kim Tự Tháp sẽ X8 Hũ mức cược\n 100,x3 HŨ mức cược 1.000 và x2 Hũ mức cược 5.000 như sau:",
          "giaithuong":"- Phòng 100: 6 hũ x8, cách 5 hũ sẽ có 1 hũ x8.\n- Phòng 1.000: 3 hũ x3, Hũ thứ 3 và hũ thứ 9 sẽ x3\n- Phòng 5.000: 1 hũ x2, Hũ thứ 2 sẽ x2",
           "luuy":"Cách tính thưởng:\n- Nổ hũ X8 = Số tiền Hũ hiện tại + 7 x Số tiền hũ khởi tạo\n\n- Ví dụ phòng 100 user nổ hũ X8. Giá trị hũ đang là 800.000\nUser nổ hũ x8 và giải thưởng payline là 30.000\nTổng tiền user nhận được:\n800.000 + 500.000 x 7 + 30.000 = 4.330.000\n\n- Ví dụ phòng 1000 user nổ hũ X3. Giá trị hũ đang là 6.200.000\nUser nổ hũ x8 và giải thưởng payline là 200.000\nTổng tiền user nhận được:\n6.200.000 + 5.000.000 x 2 + 200.000 = 16.400.000\n\n- Ví dụ phòng 5000 user nổ hũ X2. Giá trị hũ đang là 28.800.000\nUser nổ hũ x8 và giải thưởng payline là 300.000\nTổng tiền user nhận được:\n28.800.000 + 25.000.000 + 300.000 = 54.100.000",
          "doituong":"Người chơi Kim Tự Tháp bằng HŨ"
-      }
+      },
+      {
+               "idgame":37,
+               "name":"Vua Hải Tặc",
+               "title":"X8 Hũ Vua Hải Tặc",
+               "time":"10:30 Thứ Năm Hàng Tuần",
+               "content":"Vào 10:30' Thứ Năm hàng tuần, Vua Hải Tặc sẽ X8 Hũ mức cược\n 100,x3 HŨ mức cược 1.000 và x2 Hũ mức cược 5.000 như sau:",
+               "giaithuong":"- Phòng 100: 6 hũ x8, cách 5 hũ sẽ có 1 hũ x8.\n- Phòng 1.000: 3 hũ x3, Hũ thứ 3 và hũ thứ 9 sẽ x3\n- Phòng 5.000: 1 hũ x2, Hũ thứ 2 sẽ x2",
+                "luuy":"Cách tính thưởng:\n- Nổ hũ X8 = Số tiền Hũ hiện tại + 7 x Số tiền hũ khởi tạo\n\n- Ví dụ phòng 100 user nổ hũ X8. Giá trị hũ đang là 800.000\nUser nổ hũ x8 và giải thưởng payline là 30.000\nTổng tiền user nhận được:\n800.000 + 500.000 x 7 + 30.000 = 4.330.000\n\n- Ví dụ phòng 1000 user nổ hũ X3. Giá trị hũ đang là 6.200.000\nUser nổ hũ x8 và giải thưởng payline là 200.000\nTổng tiền user nhận được:\n6.200.000 + 5.000.000 x 2 + 200.000 = 16.400.000\n\n- Ví dụ phòng 5000 user nổ hũ X2. Giá trị hũ đang là 28.800.000\nUser nổ hũ x8 và giải thưởng payline là 300.000\nTổng tiền user nhận được:\n28.800.000 + 25.000.000 + 300.000 = 54.100.000",
+               "doituong":"Người chơi Vua Hải Tặc bằng HŨ"
+            },
+            {
+                     "idgame":38,
+                     "name":"Tam Quốc",
+                     "title":"X8 Hũ Tam Quốc",
+                     "time":"10:30 Chủ Nhật Hàng Tuần",
+                     "content":"Vào 10:30' Chủ Nhật hàng tuần, Tam Quốc sẽ X8 Hũ mức cược\n 100,x3 HŨ mức cược 1.000 và x2 Hũ mức cược 5.000 như sau:",
+                     "giaithuong":"- Phòng 100: 6 hũ x8, cách 5 hũ sẽ có 1 hũ x8.\n- Phòng 1.000: 3 hũ x3, Hũ thứ 3 và hũ thứ 9 sẽ x3\n- Phòng 5.000: 1 hũ x2, Hũ thứ 2 sẽ x2",
+                      "luuy":"Cách tính thưởng:\n- Nổ hũ X8 = Số tiền Hũ hiện tại + 7 x Số tiền hũ khởi tạo\n\n- Ví dụ phòng 100 user nổ hũ X8. Giá trị hũ đang là 800.000\nUser nổ hũ x8 và giải thưởng payline là 30.000\nTổng tiền user nhận được:\n800.000 + 500.000 x 7 + 30.000 = 4.330.000\n\n- Ví dụ phòng 1000 user nổ hũ X3. Giá trị hũ đang là 6.200.000\nUser nổ hũ x8 và giải thưởng payline là 200.000\nTổng tiền user nhận được:\n6.200.000 + 5.000.000 x 2 + 200.000 = 16.400.000\n\n- Ví dụ phòng 5000 user nổ hũ X2. Giá trị hũ đang là 28.800.000\nUser nổ hũ x8 và giải thưởng payline là 300.000\nTổng tiền user nhận được:\n28.800.000 + 25.000.000 + 300.000 = 54.100.000",
+                     "doituong":"Người chơi Tam Quốc bằng HŨ"
+                  }
+
 ]
