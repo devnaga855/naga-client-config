@@ -10,7 +10,7 @@
       "luuy":"- Tài khoản phải đăng ký bảo mật SĐT\n- Nạp tiền tối thiểu 50k\n- Tiền thưởng nhận được khi người chơi hoàn thành 10 tiến trình nhận\nthưởng, mỗi tiến trình nhận 10.000 Lộc.\n- Mỗi tiến trình sẽ dựa theo số tiền cược khi chơi các game tại cổng game\nLoc.Club\n- Mỗi tiến trình user sẽ nhận được 10K (Tổng 10 tiến trình là 100K)\n- Một tài khoản chỉ được thực hiện 10 tiến trình 1 lần",
       "doituong":"Tất cả các khách hàng tham gia chơi Lộc trên cổng game loc.club"
    },
-   
+
    {
       "idgame":31,
       "name":"Đua xe thần tài",
@@ -43,6 +43,16 @@
       "luuy":"- Hệ thống sẽ tổng hợp số lộc thua trong ngày từ 00h00 đến 23h59 sau đó\nsẽ hoàn lại lộc vào ngày hôm sau.Số lộc được hoàn sẽ được cộng vào tài khoản\ncủa người chơi và sẽ có thông báo gửi về hòm thư trong game",
       "doituong":"Tất cả người chơi tham gia trên cổng game( không tính chơi trùm cá,\nthế chiến, Bong88 )"
    },
+   {
+         "idgame":35,
+         "name":"Khuyến mại nạp",
+         "title":"Khuyến mại nạp",
+         "time":"Sự kiện diễn ra hàng ngày xuyên suốt trên cổng game",
+         "content":"- Dựa vào số lộc cược thua trong ngày,NPH sẽ hoàn lộc lại cho người chơi\ndựa trên cở sở sau:\n+ Tiền cược thua 10.000.000 lộc  sẽ được hoàn 10.000 lộc\n+ Số lộc được hoàn sẽ được luỹ kế theo mốc lộc thua là 10.000.000 lộc\n+ Vd: Người chơi A có tổng lộc thua trong ngày là 15.000.000 lộc thì sẽ\nđược hoàn lại 15.000 lộc.\n+ Người chơi B có tổng lộc thua trong ngày là 48.000.000 lộc thì sẽ được\nhoàn lại 48.000 lộc",
+         "giaithuong":"",
+         "luuy":"- Hệ thống sẽ tổng hợp số lộc thua trong ngày từ 00h00 đến 23h59 sau đó\nsẽ hoàn lại lộc vào ngày hôm sau.Số lộc được hoàn sẽ được cộng vào tài khoản\ncủa người chơi và sẽ có thông báo gửi về hòm thư trong game",
+         "doituong":"Tất cả người chơi tham gia trên cổng game( không tính chơi trùm cá,\nthế chiến, Bong88 )"
+      },
     {
       "idgame":27,
       "name":"Săn code 50K",
