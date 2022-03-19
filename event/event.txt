@@ -48,9 +48,9 @@
          "name":"Khuyến mại nạp",
          "title":"Khuyến mại nạp",
          "time":"Sự kiện diễn ra thứ bảy, chủ nhật hàng tuần ",
-         "content":"- Sự kiện siêu đặc biệt dành cho người chơi tại cổng game Dola88\n- Khi nạp qua Ngân hàng và nạp qua Ví điện tử, quý khách sẽ nhận được 135% giá trị nạp",
+         "content":"- Sự kiện siêu đặc biệt dành cho người chơi tại cổng game Dola88\n- Khi nạp qua Ngân hàng và nạp qua Ví điện tử, quý khách sẽ nhận được\n135% giá trị nạp",
          "giaithuong":"",
-         "luuy":"- Khách hàng khi đổi thưởng qua Đại lý phải có luồng chơi tối thiểu bằng 10% giá trị nạp trong thời gian khuyến mãi",
+         "luuy":"- Khách hàng khi đổi thưởng qua Đại lý phải có luồng chơi tối thiểu bằng\n10% giá trị nạp trong thời gian khuyến mãi",
          "doituong":"Tất cả người chơi tham gia trên cổng game"
       },
     {
