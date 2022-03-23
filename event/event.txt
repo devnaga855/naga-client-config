@@ -47,6 +47,7 @@
          "idgame":35,
          "name":"Khuyến mại nạp",
          "title":"Khuyến mại nạp",
+         "onoff":"is_km_nap",
          "time":"Sự kiện diễn ra thứ bảy, chủ nhật hàng tuần ",
          "content":"- Sự kiện siêu đặc biệt dành cho người chơi tại cổng game Dola88\n- Khi nạp qua Ngân hàng và nạp qua Ví điện tử, quý khách sẽ nhận được\n135% giá trị nạp",
          "giaithuong":"",

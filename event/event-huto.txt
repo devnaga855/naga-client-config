@@ -93,7 +93,7 @@
       "title":"X3 nạp",
       "time":"Hàng ngày",
       "onoff":"IS_EVENT_X2NAP",
-      "content":"- Nhận thưởng 200% Hũ nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 HŨ\n-Áp dụng cho tất cá các hình thức nạp: Nạp thẻ, nạp qua đại lý,nạp qua \nngân hàng trong lần đầu ",
+      "content":"- Nhận thưởng 200% Hũ nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 HŨ\n-Áp dụng cho tất cá các hình thức nạp: Nạp qua thẻ, nạp qua Đại lý, nạp qua Ngân hàng, Nạp qua ví điện tử trong lần đầu.",
       "giaithuong":"- Nhận thưởng 200% Hũ nạp lần đầu",
       "luuy":"- Hũ thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận\nthưởng\n\n- Tiến trình nhận thưởng được thực hiện khi chơi game tại HUTO không \ntính các game Trùm Cá, Thần Biển, Lô số, Bầu cua, Game bài\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng \nhay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt Hũ thưởng,nếu tiến trình nhận \nthưởng không hoàn thành 100% thì toàn bộ số Hũ thưởng sẽ bị hủy",
       "doituong":"Khuyến mại cho tất cả các thành viên mới đăng kí"
