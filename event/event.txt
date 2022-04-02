@@ -48,7 +48,7 @@
          "name":"Khuyến mại nạp",
          "title":"Khuyến mại nạp",
          "onoff":"is_km_nap",
-         "time":"Sự kiện diễn ra thứ bảy, chủ nhật hàng tuần ",
+         "time":"Sự kiện diễn ra từ 18h00 đến 23h59 các ngày 26-27/3",
          "content":"- Sự kiện siêu đặc biệt dành cho người chơi tại cổng game Dola88\n- Khi nạp qua Ngân hàng và nạp qua Ví điện tử, quý khách sẽ nhận được\n135% giá trị nạp",
          "giaithuong":"",
          "luuy":"- Khách hàng khi đổi thưởng qua Đại lý phải có luồng chơi tối thiểu bằng\n10% giá trị nạp trong thời gian khuyến mãi",
