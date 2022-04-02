@@ -44,7 +44,7 @@
       "doituong":"Tất cả người chơi tham gia trên cổng game( không tính chơi Long Cung, Hải Vương, Thế Chiến, Bong88)"
    },
    {
-            "idgame":35,
+            "idgame":39,
             "name":"Khuyến mại nạp",
             "title":"Khuyến mại nạp",
             "onoff":"IS_KM_NAP",
