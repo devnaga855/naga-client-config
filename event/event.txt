@@ -95,7 +95,7 @@
       "onoff":"is_event_x2nap",
       "content":"- Nhận thưởng 200% tiền nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 Lộc\n-Áp dụng cho tất cá các hình thức nạp: Nạp thẻ, nạp qua đại lý,nạp qua \nngân hàng trong lần đầu ",
       "giaithuong":"- Nhận thưởng 200% tiền nạp lần đầu",
-      "luuy":"- Tiền thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận\nthưởng\n\n- Tiến trình nhận thưởng được thực hiện khi chơi game tại Lộc Club không \ntính các game Trùm Cá, Thần Biển, Lô số, Bầu cua, Game bài\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng \nhay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt tiền thưởng,nếu tiến trình nhận \nthưởng không hoàn thành 100% thì toàn bộ số tiền thưởng sẽ bị hủy",
+      "luuy":"- Tiền thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận\nthưởng\n\n- Tiến trình nhận thưởng được thực hiện khi chơi game tại Lộc Club không \ntính các game Trùm Cá, Thần Biển, Lô số, Bầu cua, Game bài\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng \nhay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt tiền thưởng,nếu tiến trình nhận \nthưởng không hoàn thành 100% thì toàn bộ số tiền thưởng sẽ bị hủy\n\n- Các trường hợp cố ý dùng mọi cách để trục lợi quyền quyết định sẽ thuộc\nvề NPH",
       "doituong":"Khuyến mại cho tất cả các thành viên mới đăng kí"
    },
 
