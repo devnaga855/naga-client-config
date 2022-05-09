@@ -323,6 +323,17 @@
                      "giaithuong":"- Phòng 100: 6 hũ x8, cách 5 hũ sẽ có 1 hũ x8.\n- Phòng 1.000: 3 hũ x3, Hũ thứ 3 và hũ thứ 9 sẽ x3\n- Phòng 5.000: 1 hũ x2, Hũ thứ 2 sẽ x2",
                       "luuy":"Cách tính thưởng:\n- Nổ hũ X8 = Số tiền Hũ hiện tại + 7 x Số tiền hũ khởi tạo\n\n- Ví dụ phòng 100 user nổ hũ X8. Giá trị hũ đang là 800.000\nUser nổ hũ x8 và giải thưởng payline là 30.000\nTổng tiền user nhận được:\n800.000 + 500.000 x 7 + 30.000 = 4.330.000\n\n- Ví dụ phòng 1000 user nổ hũ X3. Giá trị hũ đang là 6.200.000\nUser nổ hũ x8 và giải thưởng payline là 200.000\nTổng tiền user nhận được:\n6.200.000 + 5.000.000 x 2 + 200.000 = 16.400.000\n\n- Ví dụ phòng 5000 user nổ hũ X2. Giá trị hũ đang là 28.800.000\nUser nổ hũ x8 và giải thưởng payline là 300.000\nTổng tiền user nhận được:\n28.800.000 + 25.000.000 + 300.000 = 54.100.000",
                      "doituong":"Người chơi Tam Quốc bằng HŨ"
-                  }
+                  },
+                  {
+                                 "idgame":40,
+                                 "name":"Đua top nạp khủng",
+                                 "title":"Đua top nạp khủng",
+                                 "onoff":"IS_TOP_NAP",
+                                 "time":"Sự kiện diễn ra trong 3 ngày",
+                                 "content":"- Khi người chơi nạp Huto qua 3 hình thức: Qua Ngân hàng Ví điện tử và\nThẻ cào.\n- Trong thời gian diễn ra sự kiện, NPH sẽ tổng hợp lại top 100 người chơi\ncó tổng số nạp nhiều nhất qua 3 hình thức qua Ngân hàng, Ví điện tử\nvà Thẻ cào để trao thưởng.",
+                                 "giaithuong":"- Top 1: 10.000.000 Huto\n- Top 2: 8.000.000 Huto\n- Top 3: 5.000.000 Huto\n- Top 4-10: 3.000.000 Huto\n- Top 11-30: 1.500.000 Huto\n- Top 31-50: 500.000 Huto\n- Top 51-70: 300.000 Huto\n- Top 71-90: 200.000 Huto\n- Top 91-100: 100.000 Huto\n",
+                                 "luuy":"- NPH sẽ trao thưởng vào Hòm thư của người chơi. Người chơi phải ấn vào\nNhận thưởng thì mới nhận được giá trị phần thưởng đó",
+                                 "doituong":"Dành cho tất cả người chơi trên cổng game."
+                              }
 
 ]
