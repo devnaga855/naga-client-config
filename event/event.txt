@@ -71,8 +71,8 @@
                "name":"Đua top nạp bank",
                "title":"Đua top nạp bank",
                "onoff":"is_first_nap",
-                "time":"Sự kiện diễn ra từ 18h00 đến 23h59 các ngày 26-27/3",
-               "content":"- Để nhận được giải thưởng 2M Đô siêu TO KHỔNG LỒ, người chơi phải đạt\nđủ 2 điều kiện sau:\n+ Điều kiện 1: Là 1 trong top 10 người nạp qua Ngân hàng đầu tiên đạt mốc\n50M\n+ Điều kiện 2: Chơi các game hiện hành trên cổng game Dola68( không tính\ncác game trùm cá, thế chiến, bóng88, xóc xóc ) ",
+                "time":"Sự kiện diễn ra từ 13/7",
+               "content":"- Người chơi nạp qua Bank trong thời gian diễn ra sự kiện và đạt đủ\nđiều kiện sẽ nhận ngay phần quà cực hấp dẫn từ NPH lên đến 2 triệu Đô\n+ Điều kiện 1: Là 1 trong top 10 người nạp qua Ngân hàng đầu tiên đạt mốc\n50M\n+ Điều kiện 2:  Đạt luồng chơi 200M các game hiện hành trên cổng game Dola68\n( không tính các game trùm cá,thế chiến, bóng88, xóc xóc ).",
                "giaithuong":"",
                "luuy":"- Hệ thống sẽ chỉ tính số Đô bạn tích luỹ được trong ngày. Qua 00h00 ngày\nhôm sau hệ thống sẽ tự động reset.\n- Áp dụng cho các tài khoản Đăng ký bảo mật thành công\n- Giải thưởng sẽ được tự động trao vào ngày hôm sau nếu bạn là người\nchiến thắng",
                "doituong":"Dành cho tất cả người chơi trên cổng game."
