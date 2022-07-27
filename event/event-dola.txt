@@ -31,7 +31,7 @@
       "giaithuong":"- Code 50k sẽ được gửi về hòm thư trong game sau khi bạn hoàn thành điều\n kiện.",
       "luuy":"- Phải đạt đủ cả 2 tiêu chí trên trong ngày mới nhận được CODE\n- Nếu bạn chỉ đạt 1 trong 2 tiêu chí thì cũng sẽ không được tính\n- Sự kiện tính theo ngày, sang ngày mới sẽ reset từ đầu.\n- Tổng cược được tính theo tất cả các game trừ: Trùm Cá, Thần Biển, Thế Chiến, Bóng 88.",
       "doituong":"Áp dụng cho tất cả thành viên của Dola88"
-   },
+  },
    {
       "idgame":32,
       "name":"Nhiệm vụ",
@@ -76,21 +76,21 @@
          "doituong":"Dành cho tất cả người chơi trên cổng game."
       },
 	{
-                      "idgame":37,
-                      "name":"Đua top nạp bank",
-                      "title":"Đua top nạp bank",
-                      "onoff":"is_first_nap",
-                       "time":"Sự kiện diễn ra từ 13/7",
-                      "content":"- Người chơi nạp qua Bank trong thời gian diễn ra sự kiện và đạt đủ điều\nkiện sẽ nhận ngay phần quà cực hấp dẫn từ NPH lên đến 2 triệu Đô\n+ Điều kiện 1: Là 1 trong top 10 người nạp qua Ngân hàng đầu tiên đạt mốc\n50M\n+ Điều kiện 2:  Đạt luồng chơi 200M các game hiện hành trên cổng game\nDola88( không tính các game trùm cá,thế chiến, bóng88, xóc xóc ).",
-                      "giaithuong":"",
-                      "luuy":"- Hệ thống sẽ chỉ tính số Đô bạn tích luỹ được trong ngày. Qua 00h00 ngày\nhôm sau hệ thống sẽ tự động reset.\n- Áp dụng cho các tài khoản Đăng ký bảo mật thành công\n- Giải thưởng sẽ được tự động trao vào ngày hôm sau nếu bạn là người\nchiến thắng",
-                      "doituong":"Dành cho tất cả người chơi trên cổng game."
-                               },
+      "idgame":37,
+      "name":"Đua top nạp bank",
+      "title":"Đua top nạp bank",
+      "onoff":"is_first_nap",
+       "time":"Sự kiện diễn ra từ 13/7",
+      "content":"- Người chơi nạp qua Bank trong thời gian diễn ra sự kiện và đạt đủ điều\nkiện sẽ nhận ngay phần quà cực hấp dẫn từ NPH lên đến 2 triệu Đô\n+ Điều kiện 1: Là 1 trong top 10 người nạp qua Ngân hàng đầu tiên đạt mốc\n50M\n+ Điều kiện 2:  Đạt luồng chơi 200M các game hiện hành trên cổng game\nDola88( không tính các game trùm cá,thế chiến, bóng88, xóc xóc ).",
+      "giaithuong":"",
+      "luuy":"- Hệ thống sẽ chỉ tính số Đô bạn tích luỹ được trong ngày. Qua 00h00 ngày\nhôm sau hệ thống sẽ tự động reset.\n- Áp dụng cho các tài khoản Đăng ký bảo mật thành công\n- Giải thưởng sẽ được tự động trao vào ngày hôm sau nếu bạn là người\nchiến thắng",
+      "doituong":"Dành cho tất cả người chơi trên cổng game."
+    },
     {
       "idgame":24,
       "name":"Ứng Đô",
       "title":"Ứng Đô",
-      "onoff":"is_ung_Đô",
+      "onoff":"is_ung_loc",
       "time":"Khi người chơi đạt đủ điều kiện tín nhiệm, người chơi sẽ được có quyền \nứng Đô từ Nhà Phát Hành.",
       "content":"Số Đô của người chơi trong tài khoản( tính cả Đô trong Két sắt \n hay trong game Trùm cá) phải dưới 1000 Đô\nĐạt đủ điểm tín nhiệm mà NPH đề ra",
       "giaithuong":"Điểm tín nhiệm 0: không được ứng\nĐiểm tín nhiệm 1: 10k\nĐiểm tín nhiệm 2: 20k\nĐiểm tín nhiệm 3: 50k\nĐiểm tín nhiệm 4:100k\nĐiểm tín nhiệm 5:200k\nĐiểm tín nhiệm 6: 500k",
