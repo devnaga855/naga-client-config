@@ -23,13 +23,13 @@
    },
    {
          "idgame":41,
-         "name":"Truy tìm kho báu",
-         "title":"TRUY TÌM KHO BÁU",
+         "name":"Săn Ngọc Bích",
+         "title":"Săn Ngọc Bích",
          "onoff":"is_ngoc_bich",
-         "time":"- Sự kiện bắt đầu từ 00h ngày 29/03 - 23h59 ngày 18/04 \n- Sau mỗi ngày, Giải ngày - Hũ Kim Cương sẽ được trao\n- Kết thúc 21 ngày sẽ có trao Giải Chung Cuộc - Kho Báu Trăm Hũ",
-         "content":"- Khi người chơi tham gia chơi ở bất kỳ game nào trên cổng game Dola( không tính các game Long Cung, Bong88, Thế Chiến ) sẽ nhận được Kim cương đồng thời số Kim Cương được hệ thống ghi nhận cũng chính là quãng đường mà người chơi di chuyển tương ứng trên hành trình Truy tìm Kho Báu.\n- Tiêu chí xếp hạng:\n+ Tổng Kim Cương đạt được trong sự kiện tính theo thời gian diễn ra sự kiện\n+ Vị trí địa điểm đạt được cao nhất trên bản đồ\n+ Để đạt được Top 1 cần 10.000 Kim Cương\n+ Hoàn thành hành trình đến điểm cuối cùng cất giữ Kho báu sẽ được nhận thưởng Top 1. Nếu có 2 hoặc nhiều người hơn cùng đạt cứ điểm sẽ sắp xếp thứ tự dựa trên số Kim cương có được.Nếu có nhiều người có cùng số kim cương sẽ ưu tiên cho người tới trước",
-         "giaithuong":"** Giải ngày SĂN ĐÔ VÀNG:\n- Top 1: 3tr ĐÔ (tối thiếu tích luỹ được: 300 Kim Cương)\n- Top 2: 2tr ĐÔ(tối thiếu tích luỹ được: 150 Kim Cương)\n- Top 3: 1.5tr ĐÔ\n- Top 4: 1tr ĐÔ\n- Top 5: 500k ĐÔ\n- Top 6 - Top 10: 200k ĐÔ\n- Top 11 - Top 20: 100k ĐÔ\n- Top 21 - Top 30: 50k ĐÔ\n- Top 31 - Top 40: 40k ĐÔ\n- Top 41 - Top 50: 30k ĐÔ\n- Top 51 - Top 100 : 20k ĐÔ\n\n** Giải thưởng tuần SĂN ĐÔ KIM CƯƠNG:\n- Top 1: 15tr ĐÔ (tối thiếu tích luỹ được: 600 Kim Cương)\n- Top 2: 10tr ĐÔ(tối thiếu tích luỹ được: 300 Kim Cương)\n- Top 3: 5tr ĐÔ\n- Top 4: 2tr ĐÔ\n- Top 5 - Top 10: 500k ĐÔ\n- Top 11 - Top 20: 200k ĐÔ\n- Top 21 - Top 50: 100k ĐÔ\n- Top 51 - Top 100: 50k ĐÔ\n\n** Giải chung cuộc KHO BÁU TRĂM ĐÔ:\n- Top 1: 800tr ĐÔ(tối thiếu tích luỹ được: 10000 Kim Cương)\n- Top 2: 300tr ĐÔ(tối thiếu tích luỹ được: 6000 Kim Cương)\n- Top 3: 30tr ĐÔ\n- Top 4: 15tr ĐÔ\n- Top 5 - Top 10: 5tr ĐÔ\n- Top 11 - Top 20: 2tr ĐÔ\n- Top 21 - Top 50: 1tr ĐÔ\n- Top 51 - Top 100: 500k ĐÔ",
-         "luuy":"– Giải thưởng ĐÔ  sẽ được trao trong vòng 72h sau khi kết thúc sự kiện.\n– Trong trường hợp có tranh chấp, quyết định của BTC là quyết định cuối\ncùng.",
+         "time":"- Sự kiện bắt đầu từ 00h ngày 29/03 - 23h59 ngày 18/04 \n- Sau mỗi ngày, giải thưởng ngày sẽ được trao\n- Kết thúc 28 ngày sẽ có Xếp hạng Giải thưởng Chung Cuộc",
+         "content":"- Trong thời gian diễn ra sự kiện, người chơi sẽ tích luỹ được Ngọc Bích dưới nhiều hình thức khác nhau\n- Top 100 người chơi tích luỹ được số Ngọc Bích cao nhất của từng ngày sẽ nhận được thưởng Ngày\n- Top 5 người chơi tích luỹ được số Ngọc Bích cao nhất của Chung cuộc sẽ nhận được thưởng Chung cuộc\n\n** Cách tích luỹ Ngọc Bích bao gồm 02 hình thức:\n+ Điểm danh: Điểm danh để nhận Ngọc Bích hàng ngày. Mỗi lần điểm danh thành công bạn sẽ nhận được 01 Ngọc Bích\n+ Chơi game trên cổng game( trừ những game Trùm Cá, Thế Chiến, Xóc Xóc, Bóng88 ): 01 VP tương đương với 1 Ngọc Bích",
+         "giaithuong":"** Giải thưởng NGÀY:\n- Top 1: 5tr ĐÔ (tối thiếu tích luỹ được: 600 Ngọc Bích)\n- Top 2: 2tr ĐÔ\n- Top 3: 1.5tr ĐÔ\n- Top 4: 1tr ĐÔ\n- Top 5: 500k ĐÔ\n- Top 6 - Top 10: 200k ĐÔ\n- Top 11 - Top 20: 100k ĐÔ\n- Top 21 - Top 100: 50k ĐÔ\n\n** Giải thưởng Chung Cuộc:\n- Top 1: Mazda CX5 tương đương 800tr ĐÔ (tối thiếu tích luỹ được: 8000 Ngọc Bích)\n- Top 2: Honda CBR300 tương đương 300tr ĐÔ\n- Top 3: Iphone 13 Promax tương đương 30tr ĐÔ\n- Top 4: 15tr ĐÔ\n- Top 5 - Top 10: 5tr ĐÔ\n- Top 11 - Top 20: 2tr ĐÔ\n- Top 21 - Top 50: 1tr ĐÔ\n- Top 51 - Top 100: 500k ĐÔ",
+         "luuy":"- Giải thưởng ngày sẽ được trao trực tiếp vào tài khoản ngày hôm sau .Người chơi sẽ nhận được thông báo qua hòm thư."",
          "doituong":"Áp dụng cho tất cả người chơi trên cổng game"
       },
     {
