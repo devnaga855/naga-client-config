@@ -264,6 +264,5 @@
       "giaithuong":"- Phòng 100: 5 hũ x6, cách 5 hũ sẽ có 1 hũ x6.\n- Phòng 1.000: 2 hũ x3, Hũ thứ 2 và hũ thứ 6 sẽ x3\n- Phòng 10.000: 1 hũ x2, Hũ thứ 2 sẽ x2",
       "luuy":"Cách tính thưởng:\n- Nổ hũ X6 = Số tiền Hũ hiện tại + 5 x Số tiền hũ khởi tạo\n\n- Ví dụ phòng 100 user nổ hũ X6. Giá trị hũ đang là 800.000\nUser nổ hũ x6 và giải thưởng payline là 30.000\nTổng tiền user nhận được:\n800.000 + 500.000 x 5 + 30.000 = 3.330.000",
       "doituong":"Người chơi Đế Chế La Mã bằng Đô"
-   },
-   
+   }
 ]
