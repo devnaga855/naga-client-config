@@ -274,6 +274,6 @@
       "content":"Slot Candy, Đêm Vũ Trường, Đế Chế La Mã, Vương Quốc MayA, Siêu Anh Hùng, Nữ Điệp Viên sẽ X6 Hũ mức cược 100,x3 HŨ mức cược 1.000 và x2 Hũ mức cược 10.000 như sau:",
       "giaithuong":"- Phòng 100: 5 hũ x6, cách 5 hũ sẽ có 1 hũ x6.\n- Phòng 1.000: 2 hũ x3, Hũ thứ 2 và hũ thứ 6 sẽ x3\n- Phòng 10.000: 1 hũ x2, Hũ thứ 2 sẽ x2",
       "luuy":"Cách tính thưởng:\n- Nổ hũ X6 = Số tiền Hũ hiện tại + 5 x Số tiền hũ khởi tạo\n\n- Ví dụ phòng 100 user nổ hũ X6. Giá trị hũ đang là 800.000 User nổ hũ x6 và giải thưởng payline là 30.000\nTổng tiền user nhận được: 800.000 + 500.000 x 5 + 30.000 = 3.330.000",
-      "doituong":"Dành cho tất cả người chơi chơi các game Slot tại cổng game"
+      "doituong":"Người chơi Slot Candy, Đêm Vũ Trường, Đế Chế La Mã, Vương Quốc MayA, Siêu Anh Hùng, Nữ Điệp Viên bằng Đô"
    }
 ]
