@@ -65,6 +65,17 @@
          "luuy":"",
          "doituong":"Tất cả người chơi trên cổng game"
       },
+      {
+                     "idgame":42,
+                     "name":"Hộp Quà BẢo Mật",
+                     "title":"Hộp Quà BẢo Mật",
+                     "onoff":"is_tk_moi",
+                     "time":"Sự kiện chạy xuyên suốt trên cổng game.",
+                     "content":"Đối với những người chơi đăng ký bảo mật bằng telegram sẽ nhận được 5.000 HŨ mỗi ngày trong vòng 5 ngày mỗi khi đăng nhập vào game.",
+                     "giaithuong":"",
+                     "luuy":"- Phần thưởng trong Hộp quà bảo mật có giá trị trong vòng 48h\n- Nếu quá thời gian đó mà người chơi không nhận thưởng thì giá trị của Hộp quà sẽ bị huỷ",
+                     "doituong":"Áp dụng cho tất cả người chơi trên cổng game"
+                  },
     {
       "idgame":27,
       "name":"Hứng CODE 50K",
