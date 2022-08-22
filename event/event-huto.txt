@@ -76,6 +76,17 @@
                      "luuy":"- Phần thưởng trong Hộp quà bảo mật có giá trị trong vòng 48h\n- Nếu quá thời gian đó mà người chơi không nhận thưởng thì giá trị của Hộp quà sẽ bị huỷ",
                      "doituong":"Áp dụng cho tất cả người chơi trên cổng game"
                   },
+                  {
+                        "idgame":43,
+                        "name":"Thùng phá sảnh",
+                        "title":"THÙNG PHÁ SẢNH",
+                        "onoff":"is_tet_event1",
+                        "time":"Từ ngày 09/08/2022 đến ngày 16/08/2022",
+                        "content":"-",
+                        "giaithuong":"",
+                        "luuy":"",
+                        "doituong":""
+                     },
     {
       "idgame":27,
       "name":"Hứng CODE 50K",
