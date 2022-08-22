@@ -48,7 +48,7 @@
                   "name":"Thùng phá sảnh",
                   "title":"THÙNG PHÁ SẢNH",
                   "onoff":"is_tet_event1",
-                  "time":"Từ ngày 09/08/2022 đến ngày 16/08/2022",
+                  "time":"Từ ngày 27/08/2022 đến ngày 03/09/2022",
                   "content":"-",
                   "giaithuong":"",
                   "luuy":"",
