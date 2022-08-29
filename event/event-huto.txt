@@ -67,7 +67,7 @@
       },
       {
                      "idgame":42,
-                     "name":"Thưởng Nóng BẢo Mật",
+                     "name":"Thưởng BẢo Mật",
                      "title":"Thưởng Nóng BẢo Mật",
                      "onoff":"IS_TK_MOI",
                      "time":"Sự kiện chạy xuyên suốt trên cổng game.",
