@@ -67,8 +67,8 @@
       },
       {
                      "idgame":42,
-                     "name":"Thưởng",
-                     "title":"BẢo Mật",
+                     "name":"Thưởng Bảo Mật",
+                     "title":"",
                      "onoff":"IS_TK_MOI",
                      "time":"Sự kiện chạy xuyên suốt trên cổng game.",
                      "content":"Đối với những người chơi đăng ký bảo mật bằng telegram sẽ nhận được 5.000 HŨ mỗi ngày trong vòng 5 ngày mỗi khi đăng nhập vào game.",
