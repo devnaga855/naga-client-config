@@ -4,11 +4,11 @@
       "name":"Quà tân thủ",
       "title":"QUÀ TÂN THỦ",
       "onoff":"is_first_game",
-      "time":"Bắt đầu từ ngày 19/05/2022",
-      "content":"- Đô thưởng sẽ được cộng vào số dư của bạn",
-      "giaithuong":"- 10 tiến trình, mỗi tiến trình 10.000 Đô. ( tổng 10 tiến trình là 100.000)",
-      "luuy":"- Tài khoản phải đăng ký bảo mật SĐT\n- Đô thưởng nhận được khi người chơi hoàn thành 10 tiến trình nhận\nthưởng, mỗi tiến trình nhận 10.000 Đô.\n- Mỗi tiến trình sẽ dựa theo số Đô cược khi chơi các game tại cổng game\nDola88\n- Mỗi tiến trình user sẽ nhận được 10K (Tổng 10 tiến trình là 100K)\n- Một tài khoản chỉ được thực hiện 10 tiến trình 1 lần",
-      "doituong":"Tất cả các tài khoản được tạo từ ngày 19/05/2022 trên cổng game Dola88"
+      "time":"Sự kiện chạy xuyên suốt trên cổng game",
+      "content":"- Người chơi sẽ nhận được phần thưởng vô cùng hấp dẫn đến từ NPH Dola khi hoàn thành các tiến trình.\n+ Tiến trình 1: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 10.000 Đô( tổng giải thưởng 100.000 Đô )\n+ Tiến trình 2: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 20.000 Đô( tổng giải thưởng 200.000 Đô )\n+ Tiến trình 3: 5 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 40.000 Đô( tổng giải thưởng 200.000 Đô )\n- Chinh phục các cột mốc bằng cách chơi các game trên cổng game Dola. Chơi càng nhiều thì càng đẩy nhanh được tiến trình nhận thưởng",
+      "giaithuong":"",
+      "luuy":"- Tài khoản phải đăng ký bảo mật SĐT\n- HŨ thưởng sẽ được cộng thẳng trực tiếp vào tài khoản của\nbạn.\n- Thực hiện tiến trình tuần tự theo các mốc.",
+      "doituong":"Tất cả các khách hàng tham gia chơi HŨ trên cổng game DOLA"
    },
    {
       "idgame":31,
