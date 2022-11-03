@@ -8,7 +8,7 @@
       "content":"- Người chơi sẽ nhận được phần thưởng vô cùng hấp dẫn đến từ NPH Dola khi hoàn thành các tiến trình.\n+ Tiến trình 1: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 10.000 Đô( tổng giải thưởng 100.000 Đô )\n+ Tiến trình 2: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 20.000 Đô( tổng giải thưởng 200.000 Đô )\n+ Tiến trình 3: 5 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 40.000 Đô( tổng giải thưởng 200.000 Đô )\n- Chinh phục các cột mốc bằng cách chơi các game trên cổng game Dola. Chơi càng nhiều thì càng đẩy nhanh được tiến trình nhận thưởng",
       "giaithuong":"",
       "luuy":"- Tài khoản phải đăng ký bảo mật SĐT\n- HŨ thưởng sẽ được cộng thẳng trực tiếp vào tài khoản của\nbạn.\n- Thực hiện tiến trình tuần tự theo các mốc.",
-      "doituong":"Tất cả các khách hàng tham gia chơi HŨ trên cổng game DOLA"
+      "doituong":"Tất cả các khách hàng tham gia chơi ĐÔ trên cổng game DOLA"
    },
    {
       "idgame":31,
