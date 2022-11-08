@@ -3,10 +3,10 @@
           "idgame":30,
           "name":"HỘP QUÀ MAY MẮN",
           "title":"HỘP QUÀ MAY MẮN",
-          "time":"Diễn ra trong 9 ngày",
+          "time":"Diễn ra trong 7 ngày kể từ ngày đăng kí bảo mật( tính từ 00h00 ngày 9/11 )",
           "onoff":"is_luxky_box",
-          "content":"- Nhằm tri ân những người chơi đã gắn bó với cổng game trong suốt thời gian qua,\nNPH xin được gửi tặng đến người chơi những Hộp quà May Mắn.\n- Chỉ cần đạt đủ tiền cược trong ngày khi chơi các game trên\ncổng game( trừ Thần Biển, game Bài, bóng 88 )người chơi sẽ có cơ hội\nnhận Hộp quà.\n- Giá trị phần thưởng mỗi hộp quà trong từng ngày là khác nhau.\nVậy nên điều kiện tiền cược tương ứng với mỗi hộp quà cũng sẽ khác nhau",
-          "giaithuong":"",
+          "content":"- Nhằm tri ân những người chơi đã gắn bó với cổng game trong suốt thời\ngian qua, NPH xin được gửi tặng đến người chơi những Hộp quà May Mắn.\n- Chỉ cần đạt đủ tiền cược trong ngày khi chơi các game trên\ncổng game( trừ Thần Biển, game Bài, bóng 88 )người chơi sẽ có cơ hội\nnhận Hộp quà.\n- Giá trị phần thưởng mỗi hộp quà trong từng ngày là khác nhau.\nVậy nên điều kiện tiền cược tương ứng với mỗi hộp quà cũng sẽ khác nhau",
+          "giaithuong":"Tổng giải thưởng Hộp quà may mắn có giá trị lên tới 500k LUX",
           "luuy":"- Hệ thống sẽ chỉ ghi nhận số tiền cược trong ngày với mỗi phần quà.\nĐến 00h00 ngày hôm sau số tiền cược sẽ được reset lại\n- Áp dụng cho các tài khoản Đăng ký bảo mật thành công",
           "doituong":"Dành cho tất cả người chơi tại cổng game"
        },
