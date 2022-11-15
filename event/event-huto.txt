@@ -93,10 +93,10 @@
          "title":"Đua Top Tài Xỉu WC",
          "onoff":"IS_TOP_TX_WC",
          "time":"Từ 00:00 ngày 16/11/2022 đến 23:59 ngày 30/11/2022.",
-         "content":"- Top 5 người có Tổng thắng cao nhất sự kiện",
-         "giaithuong":"- Hệ thống sẽ tổng kết Top 5 người chơi có tổng thắng cao nhất để trao thưởng\n- Thời gian công bố kết quả sau ngày kết thúc sự kiện\n- Hũ thưởng sẽ được cộng trực tiếp vào tải khoản người chiến thắng\n+ Top 1: Xe Mazda 3\n+ Top 2: Xe SH 150i\n+ Top 3:iPhone 14 Pro Max\n+ Top 4: 10.000.000\n+ Top 5: 5.000.000\n",
+         "content":"- Những người chơi tham gia chơi game Tài Xỉu nằm trong Top5 \ntổng thắng trong thời gian diễn ra sự kiện sẽ có cơ hội trúng thưởng.",
+         "giaithuong":"- Hệ thống sẽ tổng kết Top 5 người chơi có tổng thắng cao \nnhất để trao thưởng\n- Thời gian công bố kết quả: 48h sau ngày kết thúc sự kiện\n- Hũ thưởng sẽ được cộng trực tiếp vào tải khoản người chiến thắng\n+ Top 1: Xe Mazda 3\n+ Top 2: Xe SH 150i\n+ Top 3:iPhone 14 Pro Max\n+ Top 4: 10.000.000\n+ Top 5: 5.000.000\n",
          "luuy":"",
-         "doituong":"Tất cả người chơi trên cổng game"
+         "doituong":"Dành cho tất cả người chơi tham gia cổng game"
       },
     {
       "idgame":27,
