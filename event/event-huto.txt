@@ -87,6 +87,17 @@
                         "luuy":"",
                         "doituong":""
                      },
+                     {
+         "idgame":44,
+         "name":"Đua Top Tài Xỉu World Cup",
+         "title":"Đua Top Tài Xỉu World Cup",
+         "onoff":"IS_TOP_TX_WC",
+         "time":"Từ 00:00 ngày 16/11/2022 đến 23:59 ngày 30/11/2022.",
+         "content":"- Top 5 người có Tổng thắng cao nhất sự kiện",
+         "giaithuong":"- Hệ thống sẽ tổng kết Top 5 người chơi có tổng thắng cao nhất để trao thưởng\n- Thời gian công bố kết quả sau ngày kết thúc sự kiện\n- Hũ thưởng sẽ được cộng trực tiếp vào tải khoản người chiến thắng\n+ Top 1: Xe Mazda 3\n+ Top 2: Xe SH 150i\n+ Top 3:iPhone 14 Pro Max\n+ Top 4: 10.000.000\n+ Top 5: 5.000.000\n",
+         "luuy":"",
+         "doituong":"Tất cả người chơi trên cổng game"
+      },
     {
       "idgame":27,
       "name":"Hứng CODE 50K",
