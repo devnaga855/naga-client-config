@@ -89,8 +89,8 @@
                      },
                      {
          "idgame":44,
-         "name":"Đua Top Tài Xỉu World Cup",
-         "title":"Đua Top Tài Xỉu World Cup",
+         "name":"Top Tài Xỉu",
+         "title":"Đua Top Tài Xỉu WC",
          "onoff":"IS_TOP_TX_WC",
          "time":"Từ 00:00 ngày 16/11/2022 đến 23:59 ngày 30/11/2022.",
          "content":"- Top 5 người có Tổng thắng cao nhất sự kiện",
