@@ -59,7 +59,6 @@
                               "idgame":44,
                               "name":"Đón Noel - Nhận ngàn lộc",
                               "title":"Đón Noel - Nhận ngàn lộc",
-                              "onoff":"is_noel_event",
                               "time":"Sự kiện bắt đầu vào lúc 20h đến 20h30 các ngày từ 24/12 đến 30/12",
                               "content":"- Khi sự kiện bắn đầu sẽ xuất hiện ÔNG GIÀ NOEL ở Góc Màn Hình - CLICK NGAY để mở HỘP QUÀ NOEL trên CÂY THÔNG\n- Mỗi ngày, mỗi người đều có 05 cơ hội mở HỘ QUÀ NOEL\n- Hết thời gian, HỘ QUÀ NOEL chưa mở sẽ bị huỷ, không được tích luỹ qua ngày hôm sau",
                               "giaithuong":"",
