@@ -38,7 +38,7 @@
                "title":"Hộp Quà BẢo Mật",
                "onoff":"is_tk_moi",
                "time":"Sự kiện chạy xuyên suốt trên cổng game.",
-               "content":"Đối với những người chơi đăng ký bảo mật bằng telegram sẽ nhận được một phần thưởng vô cùng hấp dẫn có giá trị ngẫu nhiên từ 2.000 - 50.000 Đô",
+               "content":"Đối với những người chơi đăng ký bảo mật bằng telegram sẽ nhận được một phần thưởng vô cùng hấp dẫn có giá trị ngẫu nhiên từ 2.000 - 5.000 Đô",
                "giaithuong":"",
                "luuy":"- Hộp quà bảo mật sẽ được gửi về hòm thư trong game của người chơi\n- Phần thưởng trong Hộp quà bảo mật có giá trị trong ngày.Nếu quá thời gian đó mà người chơi không nhận thưởng thì giá trị của Hộp quà sẽ bị huỷ",
                "doituong":"Áp dụng cho tất cả người chơi trên cổng game"
