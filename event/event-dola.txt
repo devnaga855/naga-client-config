@@ -62,7 +62,7 @@
                               "time":"Sự kiện bắt đầu vào lúc 20h đến 20h30 các ngày từ 24/12 đến 30/12",
                               "content":"- Khi sự kiện bắn đầu sẽ xuất hiện ÔNG GIÀ NOEL ở Góc Màn Hình - CLICK NGAY để mở HỘP QUÀ NOEL trên CÂY THÔNG\n- Mỗi ngày, mỗi người đều có 05 cơ hội mở HỘ QUÀ NOEL\n- Hết thời gian, HỘ QUÀ NOEL chưa mở sẽ bị huỷ, không được tích luỹ qua ngày hôm sau",
                               "giaithuong":"",
-                              "luuy":"- Cộng trực tiếp vào tài khoản.\n- Mỗi hộp quà trị giá tối đa 500.000 Đô",
+                              "luuy":"- Phần thưởng sẽ được cộng trực tiếp vào tài khoản.\n- Mỗi hộp quà trị giá tối đa 500.000 Đô",
                               "doituong":"Áp dụng cho tất cả người chơi trên cổng game"
                            },
 
