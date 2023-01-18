@@ -34,8 +34,8 @@
       },
       {
                "idgame":42,
-               "name":"Hộp Quà BẢo Mật",
-               "title":"Hộp Quà BẢo Mật",
+               "name":"Hộp Quà Bảo Mật",
+               "title":"Hộp Quà Bảo Mật",
                "onoff":"is_tk_moi",
                "time":"Sự kiện chạy xuyên suốt trên cổng game.",
                "content":"Đối với những người chơi đăng ký bảo mật bằng telegram sẽ nhận được một phần thưởng vô cùng hấp dẫn có giá trị ngẫu nhiên từ 2.000 - 5.000 Đô",
@@ -45,14 +45,14 @@
             },
             {
                   "idgame":43,
-                  "name":"Thùng phá sảnh",
-                  "title":"THÙNG PHÁ SẢNH",
-                  "onoff":"is_tet_event1",
-                  "time":"Từ ngày 27/08/2022 đến ngày 03/09/2022",
-                  "content":"-",
-                  "giaithuong":"",
-                  "luuy":"",
-                  "doituong":""
+                  "name":"Vòng quay Tết",
+                  "title":"Vòng quay Tết",
+                  "onoff":"is_tet_event",
+                  "time":"Từ 0h00 ngày 18/01 đến 23h59 ngày 27/01",
+                  "content":"Nhận dịp Tết đến Xuân sang, mừng Xuân Quý Mão NPH DOLA xin được gửi đến siêu sự kiện Tích Xèng Lớn - Rước Lộc to nhằm tri ân các Quý khách hàng đã gắn bỏ với cổng game trong suốt thời gian qua.\n-Khi Quý khách tham gia các trò chơi trên cổng game (trừ Bóng88, Trùm cá, Thần Biển, xóc đĩa, game bài),bạn sẽ có cơ hội nhận ngay một chiếc Xèng may mắn.\n-Khi Quý khách nạp 10 triệu ĐÔ sẽ nhận ngay một chiếc Xèng may mắn.",
+                  "giaithuong":"Dùng xèng để tham gia quay Vòng quay Giàu Sang, bạn sẽ có cơ hội nhận được phần thưởng hoặc một trong những Mảnh ghép chữ cái sau:\n5.000 Đô\n10.000 Đô\n20.000 Đô\n50.000 Đô\nMảnh ghép Q U Y M A O",
+                  "luuy":"1 Xèng sẽ đổi được 1 lượt quay",
+                  "doituong":"Áp dụng cho tất cả người chơi trên cổng game"
                },
 
                {
