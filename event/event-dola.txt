@@ -57,10 +57,10 @@
 
                {
                               "idgame":44,
-                              "name":"Đón Noel - Nhận ngàn lộc",
-                              "title":"Đón Noel - Nhận ngàn lộc",
+                              "name":"Chúc mừng ngày lễ 8/3 - Nhận ngàn lộc",
+                              "title":"Chúc mừng ngày lễ 8/3 - Nhận ngàn lộc",
                               "time":"Sự kiện bắt đầu vào lúc 20h đến 20h30 các ngày từ 24/12 đến 30/12",
-                              "content":"- Khi sự kiện bắn đầu sẽ xuất hiện ÔNG GIÀ NOEL ở Góc Màn Hình - CLICK NGAY để mở HỘP QUÀ NOEL trên CÂY THÔNG\n- Mỗi ngày, mỗi người đều có 05 cơ hội mở HỘP QUÀ NOEL\n- Hết thời gian, HỘP QUÀ NOEL chưa mở sẽ bị huỷ, không được tích luỹ qua ngày hôm sau",
+                              "content":"- Khi sự kiện bắn đầu sẽ xuất hiện BIỂU TƯỢNG 8/3 ở Góc Màn Hình - CLICK NGAY để mở HỘP QUÀ 8/3\n- Mỗi ngày, mỗi người đều có 05 cơ hội mở HỘP QUÀ 8/3\n- Hết thời gian, HỘP QUÀ 8/3 chưa mở sẽ bị huỷ, không được tích luỹ qua ngày hôm sau",
                               "giaithuong":"",
                               "luuy":"- Phần thưởng sẽ được cộng trực tiếp vào tài khoản.\n- Mỗi hộp quà trị giá tối đa 500.000 Na",
                               "doituong":"Áp dụng cho tất cả người chơi trên cổng game"
