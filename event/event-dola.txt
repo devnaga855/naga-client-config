@@ -5,10 +5,10 @@
     "title": "QUÀ TÂN THỦ",
     "onoff": "is_first_game",
     "time": "Sự kiện chạy xuyên suốt trên cổng game",
-    "content": "- Người chơi sẽ nhận được phần thưởng vô cùng hấp dẫn đến từ NPH Na Club khi hoàn thành các tiến trình.\n+ Tiến trình 1: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 10.000 Na( tổng giải thưởng 100.000 Na )\n+ Tiến trình 2: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 20.000 Na( tổng giải thưởng 200.000 Na )\n+ Tiến trình 3: 5 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 40.000 Na( tổng giải thưởng 200.000 Na )\n- Chinh phục các cột mốc bằng cách chơi các game trên cổng game Na Club. Chơi càng nhiều thì càng đẩy nhanh được tiến trình nhận thưởng",
+    "content": "- Người chơi sẽ nhận được phần thưởng vô cùng hấp dẫn đến từ NPH NA99 khi hoàn thành các tiến trình.\n+ Tiến trình 1: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 10.000 Na( tổng giải thưởng 100.000 Na )\n+ Tiến trình 2: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 20.000 Na( tổng giải thưởng 200.000 Na )\n+ Tiến trình 3: 5 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 40.000 Na( tổng giải thưởng 200.000 Na )\n- Chinh phục các cột mốc bằng cách chơi các game trên cổng game NA99. Chơi càng nhiều thì càng đẩy nhanh được tiến trình nhận thưởng",
     "giaithuong": "",
     "luuy": "- Tài khoản phải đăng ký bảo mật SĐT\n- Na thưởng sẽ được cộng thẳng trực tiếp vào tài khoản của\nbạn.\n- Thực hiện tiến trình tuần tự theo các mốc.",
-    "doituong": "Tất cả các khách hàng tham gia chơi Na trên cổng game Na Club"
+    "doituong": "Tất cả các khách hàng tham gia chơi Na trên cổng game NA99"
   },
   {
     "idgame": 31,
@@ -49,7 +49,7 @@
     "title": "Vòng quay Tết",
     "onoff": "is_tet_event",
     "time": "Từ 0h00 ngày 18/01 đến 23h59 ngày 27/01",
-    "content": "Nhận dịp Tết đến Xuân sang, mừng Xuân Quý Mão NPH Na Club xin được gửi đến siêu sự kiện Tích Xèng Lớn - Rước Lộc to nhằm tri ân các Quý khách hàng đã gắn bỏ với cổng game trong suốt thời gian qua.\n-Khi Quý khách tham gia các trò chơi trên cổng game (trừ Bóng88, Trùm cá, Thần Biển, xóc đĩa, game bài),bạn sẽ có cơ hội nhận ngay một chiếc Xèng may mắn.\n-Khi Quý khách nạp 10 triệu Na sẽ nhận ngay một chiếc Xèng may mắn.",
+    "content": "Nhận dịp Tết đến Xuân sang, mừng Xuân Quý Mão NPH NA99 xin được gửi đến siêu sự kiện Tích Xèng Lớn - Rước Lộc to nhằm tri ân các Quý khách hàng đã gắn bỏ với cổng game trong suốt thời gian qua.\n-Khi Quý khách tham gia các trò chơi trên cổng game (trừ Bóng88, Trùm cá, Thần Biển, xóc đĩa, game bài),bạn sẽ có cơ hội nhận ngay một chiếc Xèng may mắn.\n-Khi Quý khách nạp 10 triệu Na sẽ nhận ngay một chiếc Xèng may mắn.",
     "giaithuong": "Dùng xèng để tham gia quay Vòng quay Giàu Sang, bạn sẽ có cơ hội nhận được phần thưởng hoặc một trong những Mảnh ghép chữ cái sau:\n5.000 Na\n10.000 Na\n20.000 Na\n50.000 Na\nMảnh ghép Q U Y M A O",
     "luuy": "1 Xèng sẽ đổi được 1 lượt quay",
     "doituong": "Áp dụng cho tất cả người chơi trên cổng game"
@@ -63,7 +63,7 @@
     "content": "- Để nhận được CODE 50k đến từ NPH, bạn chỉ cần hoàn thành 2 tiêu chí \nsau:\n+ Tiêu chí 1: Nạp tối thiểu 3.000.000 Na( kể từ lúc event này ra mắt lúc \n00:00 ngày 13/07)\n+ Tiêu chí 2: Có mức cược tối thiểu là 40M",
     "giaithuong": "- Code 50k sẽ được gửi về hòm thư trong game sau khi bạn hoàn thành điều\n kiện.",
     "luuy": "- Phải đạt đủ cả 2 tiêu chí trên trong ngày mới nhận được CODE\n- Nếu bạn chỉ đạt 1 trong 2 tiêu chí thì cũng sẽ không được tính\n- Sự kiện tính theo ngày, sang ngày mới sẽ reset từ đầu.\n- Tổng cược được tính theo tất cả các game trừ: Trùm Cá, Thần Biển, Thế Chiến, Bóng 88.",
-    "doituong": "Áp dụng cho tất cả thành viên của Na Club"
+    "doituong": "Áp dụng cho tất cả thành viên của NA99"
   },
   {
     "idgame": 32,
@@ -92,7 +92,7 @@
     "title": "Khuyến mại nạp",
     "onoff": "is_km_nap",
     "time": "Theo dõi trên fanpage chính thức của NPH",
-    "content": "- Sự kiện siêu đặc biệt dành cho người chơi tại cổng game Na Club88\n- Khi nạp qua Ngân hàng, quý khách sẽ nhận được\n125% giá trị nạp",
+    "content": "- Sự kiện siêu đặc biệt dành cho người chơi tại cổng game NA9988\n- Khi nạp qua Ngân hàng, quý khách sẽ nhận được\n125% giá trị nạp",
     "giaithuong": "",
     "luuy": "- Khách hàng khi đổi thưởng qua Đại lý phải có luồng chơi tối thiểu bằng\n10% giá trị nạp trong thời gian khuyến mãi",
     "doituong": "Tất cả người chơi tham gia trên cổng game"
@@ -114,7 +114,7 @@
     "title": "Đua top nạp bank",
     "onoff": "is_first_nap",
     "time": "Sự kiện diễn ra từ 10/01/2023 đến 12/01/2023",
-    "content": "- Người chơi nạp qua Bank trong thời gian diễn ra sự kiện và đạt đủ điều\nkiện sẽ nhận ngay phần quà cực hấp dẫn từ NPH lên đến 2 triệu Na\n+ Điều kiện 1: Là 1 trong top 10 người nạp qua Ngân hàng đầu tiên đạt mốc\n50M\n+ Điều kiện 2:  Đạt luồng chơi 200M các game hiện hành trên cổng game\nNa Club88( không tính các game trùm cá,thế chiến, bóng88, xóc xóc ).",
+    "content": "- Người chơi nạp qua Bank trong thời gian diễn ra sự kiện và đạt đủ điều\nkiện sẽ nhận ngay phần quà cực hấp dẫn từ NPH lên đến 2 triệu Na\n+ Điều kiện 1: Là 1 trong top 10 người nạp qua Ngân hàng đầu tiên đạt mốc\n50M\n+ Điều kiện 2:  Đạt luồng chơi 200M các game hiện hành trên cổng game\nNA9988( không tính các game trùm cá,thế chiến, bóng88, xóc xóc ).",
     "giaithuong": "",
     "luuy": "- Hệ thống sẽ chỉ tính số Na bạn tích luỹ được trong ngày. Qua 00h00 ngày\nhôm sau hệ thống sẽ tự động reset.\n- Áp dụng cho các tài khoản Đăng ký bảo mật thành công\n- Giải thưởng sẽ được tự động trao vào ngày hôm sau nếu bạn là người\nchiến thắng",
     "doituong": "Dành cho tất cả người chơi trên cổng game."
@@ -135,10 +135,10 @@
     "title": "Điềm danh mỗi ngày",
     "time": "Hàng ngày",
     "onoff": "is_diem_danh",
-    "content": "- Đăng nhập vào Na Club mỗi ngày và hệ thống sẽ tự động tích lũy số \nngày đăng nhập cho bạn.\n\n- Chơi Na: Hệ thống Na sẽ tích lũy lại những phiên đặt cược thành công \ncủa bạn tối thiểu một phiên 10k\n\n- Chỉ áp dụng cho các tài khoản đãn đăng ký SĐT bảo mật\n\n- Nếu bạn hoàn thành đủ 3 điều kiện kể trên thì tới các ngày 7,15,30 hệ \nthống sẽ tự động cộng thưởng với số Na tương ứng vào tài khoản của bạn",
+    "content": "- Đăng nhập vào NA99 mỗi ngày và hệ thống sẽ tự động tích lũy số \nngày đăng nhập cho bạn.\n\n- Chơi Na: Hệ thống Na sẽ tích lũy lại những phiên đặt cược thành công \ncủa bạn tối thiểu một phiên 10k\n\n- Chỉ áp dụng cho các tài khoản đãn đăng ký SĐT bảo mật\n\n- Nếu bạn hoàn thành đủ 3 điều kiện kể trên thì tới các ngày 7,15,30 hệ \nthống sẽ tự động cộng thưởng với số Na tương ứng vào tài khoản của bạn",
     "giaithuong": "- Điểm danh 7 ngày liên tục: 5.000 Na\n- Điểm danh 15 ngày liên tục: 10.000 Na\n- Điểm danh 30 ngày liên tục: 15.000 Na",
     "luuy": "- Bạn phải hoàn thành nhiệm vụ điểm danh này liên tiếp lần lượt là 7 ngày, \n15 ngày và 30 ngày thì hệ thống mới trao tặng mức thưởng tương ứng cho \nbạn. Nếu thiếu 1 ngày trong chuỗi liên tiếp đó thì cũng sẽ không được tính.",
-    "doituong": "Áp dụng cho tất cả thành viên của Na Club"
+    "doituong": "Áp dụng cho tất cả thành viên của NA99"
   },
   {
     "idgame": 26,
@@ -148,7 +148,7 @@
     "onoff": "is_event_x2nap",
     "content": "- Nhận thưởng 200% Na nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 Na\n-Áp dụng cho tất cá các hình thức nạp: Nạp thẻ cào,nạp qua \nngân hàng,nạp qua ví điện tử trong lần đầu ",
     "giaithuong": "- Nhận thưởng 200% Na nạp lần đầu",
-    "luuy": "- Na thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận\nthưởng\n\n- Tiến trình nhận thưởng được thực hiện khi chơi game tại Na Club không \ntính các game Trùm Cá, Thần Biển, Lô số, Bầu cua, Game bài\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng \nhay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt Na thưởng,nếu tiến trình nhận \nthưởng không hoàn thành 100% thì toàn bộ số Na thưởng sẽ bị hủy\n\n-  Khi thực hiện 1 trong 4 hình thức nạp thì 3 hình thức còn lại sẽ không\nđược thực hiện nữa\n\n- Các trường hợp cố ý dùng mọi cách để trục lợi quyền quyết định sẽ thuộc\nvề NPH",
+    "luuy": "- Na thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận\nthưởng\n\n- Tiến trình nhận thưởng được thực hiện khi chơi game tại NA99 không \ntính các game Trùm Cá, Thần Biển, Lô số, Bầu cua, Game bài\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng \nhay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt Na thưởng,nếu tiến trình nhận \nthưởng không hoàn thành 100% thì toàn bộ số Na thưởng sẽ bị hủy\n\n-  Khi thực hiện 1 trong 4 hình thức nạp thì 3 hình thức còn lại sẽ không\nđược thực hiện nữa\n\n- Các trường hợp cố ý dùng mọi cách để trục lợi quyền quyết định sẽ thuộc\nvề NPH",
     "doituong": "Khuyến mại cho tất cả các thành viên mới đăng kí"
   },
   {
@@ -160,7 +160,7 @@
     "content": "- Các thành viên tham gia sự kiện sẽ được tính điểm dự trên số Vippoint\n phát sinh trong thời gian diễn ra sự kiện\n- Điểm vippoint sẽ được cập nhật liên tục trên Game.\n- Điểm VipPoint sẽ tăng mỗi khi chơi game.\n Để đạt TOP 1 người chơi cần ít nhất 3.000 VIP Point trở lên.\n- Các trường hợp sử dụng nick clone hoặc nhiều nick để cân cửa tài xỉu\nnhằm gian lận điểm VIP Point, nếu bị phát hiện sẽ hủy kết quả Event và\nkhóa tài khoản vĩnh viễn",
     "giaithuong": "- Top 1: Yamaha MT 09 – trị giá 300m\n- Top 2: SH 150 2021 – 130m\n- Top 3: MacBook Pro M1 - 40m\n- Top 4: Honda Vision - 30m\n- Top 5: Samsung S21 Ultra 5G – 20m\n- Top 6: 10m Na\n- Top 7: 5m Na\n- Top 8: 4m Na\n- Top 9: 3m Na\n- Top 10: 2m Na\n- Top 11-15: 1.5m Na\n- Top 16-20: 1m Na\n- Top 21-50: 500k Na",
     "luuy": "- THỜI GIAN TRẢ THƯỞNG\n+ Giải thưởng vật lý sẽ trao trong vòng 7-10 ngày kể từ khi kết thúc sự kiện\n+ Giải thưởng Na sẽ được trao tặng trong vòng 48h kể từ khi kết thúc\nsự kiện",
-    "doituong": "Áp dụng cho tất cả thành viên của Na Club"
+    "doituong": "Áp dụng cho tất cả thành viên của NA99"
   },
   {
     "idgame": 23,
@@ -182,7 +182,7 @@
     "content": "- Trong thời gian hoạt động trong ngày, người chơi tích lũy nạp Na qua\nMOMO sẽ nhận được số lần RUNG CÂY.\n- Sau khi RUNG CÂY khách hàng chắc chắn sẽ nhận được quà.",
     "giaithuong": "- 3 lượt quay free Siêu Anh Hùng\n- 3 lượt quay free Đêm Vũ Trường\n- 3 lượt quay free Vương Quốc Na\n- 3 lượt quay free Đế Chế La Mã\n- Và các giải thưởng Na như: 50K,100K,250K,500K,1100K,2600K",
     "luuy": "- Số lần RUNG CÂY sẽ bị reset lại khi qua mốc 00h:00 ngày hôm sau nếu\nkhông sử dụng hết. Số Na tích nạp sẽ chỉ được tính trong ngày để tính ra\n số lần RUNG CÂY. Qua 00h: 00 cũng sẽ reset trở lại về 0.\n- Số Na nạp của khách hàng trong 1 ngày sẽ được quy đổi ra số lần RUNG\nCÂY theo điều kiện sau:\n+ Tích nạp Na: 1.000K Số lần rung cây: 2\n+ Tích nạp Na: 2.000K Số lần rung cây: 2\n+ Tích nạp Na: 5.000K Số lần rung cây: 3\n+ Tích nạp Na: 10.000K Số lần rung cây: 4",
-    "doituong": "Tất cả các khách hàng tham gia chơi Na trên cổng game Na Club"
+    "doituong": "Tất cả các khách hàng tham gia chơi Na trên cổng game NA99"
   },
   {
     "idgame": 21,
@@ -190,10 +190,10 @@
     "title": "Thánh tài xỉu",
     "onoff": "is_vua_tai_xiu",
     "time": "Từ 00h00 ngày 03/04/2023 đến 23h59 ngày 07/04/2023",
-    "content": "Để tăng thêm phần hấp dẫn cho người chơi, cũng như tri ân toàn thể \nkhách hàng đã ủng hộ Na Club88 trong thời gian vừa qua, NPH trân trọng ra \nmắt sự kiện Thánh tài xỉu hàng ngày cùng những phần thưởng vô cùng giá trị",
+    "content": "Để tăng thêm phần hấp dẫn cho người chơi, cũng như tri ân toàn thể \nkhách hàng đã ủng hộ NA9988 trong thời gian vừa qua, NPH trân trọng ra \nmắt sự kiện Thánh tài xỉu hàng ngày cùng những phần thưởng vô cùng giá trị",
     "giaithuong": "** Đạt TOP Tài Xỉu trong ngày, quà về liền tay.\n- Top 1: 10.000.000 Na\n- Top 2: 5.000.000 Na\n- Top 3: 3.000.000 Na\n- Top 4: 1.000.000 Na\n- Top 5: 1.000.000 Na",
     "luuy": "- Xuyên suốt thời gian diễn ra sự kiện, hàng ngày sẽ dựa vào bảng xếp hạng\nTop Tài Xỉu để trao giải\n- Reset lại tính từ 0h00 ngày mới.\n- Nếu có 2 hay nhiều người chơi bằng điểm, thì hệ thống sẽ căn cứ theo ai\nđạt số điểm đó trước.\n- Nghiêm cấm hành vi dồn Na từ nhiều tài khoản qua Tài Xỉu để gian lận\nthứ tự bảng xếp hạng.\n- Quyết định của Ban Quản Trị là quyết định cuối cùng.\n",
-    "doituong": "- Tất cả các khách hàng trên cổng game Na Club"
+    "doituong": "- Tất cả các khách hàng trên cổng game NA99"
   },
   {
     "idgame": 14,
@@ -213,7 +213,7 @@
     "content": "Trong suốt thời gian diễn ra sự kiện, người chơi có:\n- Số ván ăn được Tôm liên tiếp nhiều nhất sẽ nhận được phần thưởng.\n\nTiêu Chí Xếp Hạng:\n- Tổng số tôm người chơi thắng được trong chuỗi thắng liên tiếp.\n- Độ dài của chuỗi thắng liên tiếp.\n- Tổng Na Thắng.\n- Tổng Na đặt\n- Thời gian.",
     "giaithuong": " Top1: 1.000.000 Na.\n Top2: 500.000 Na.\n Top3: 200.000 Na.\n Top4-5: 100.000 Na ",
     "luuy": "- Phần thưởng sẽ được trao vào 3:00:00 ngày kế tiếp.\n- Một tài khoản chỉ có thể nhận được 1 phần thưởng duy nhất trong ngày.\n- Trong trường hợp có tranh chấp, Quyết định của BTC là quyết định \ncuối cùng.",
-    "doituong": "Tất cả những người chơi minigame Bầu Cua bằng Na Na \ntrên Na Club"
+    "doituong": "Tất cả những người chơi minigame Bầu Cua bằng Na Na \ntrên NA99"
   },
   {
     "idgame": 16,
@@ -223,7 +223,7 @@
     "content": "Tri ân người chơi MiniPoker. BQT quyết định cứ vào 10:30' thứ 6 hàng tuần, \nMiniPoker sẽ được x4 giá trị hũ.",
     "giaithuong": " Mức Cược 100: 10 Hũ được X4.\n Mức Cược 1.000: 1 Hũ được x4.",
     "luuy": "- Phòng 100: Hũ được X4 tiếp theo sẽ cách 3 hũ bình thường đối với hũ X4 \ntrước đó (Ví dụ: 1, 5, 9, 13).\n- Phòng 1.000: Hũ thứ ba và thứ bảy sẽ được X4 tính từ thời điểm khung \ngiờ vàng.\n- Sự kiện được kết thúc khi trao thưởng đủ 10 x4 mức cược 100 và 1 hũ X4 \nmức cược 1.000.\n- Khi có tranh chấp, quyết định của BQT là quyết định cuối cùng.",
-    "doituong": "Tất cả người chơi minigame MiniPoker bằng Na Na trên Na Club"
+    "doituong": "Tất cả người chơi minigame MiniPoker bằng Na Na trên NA99"
   },
   {
     "idgame": 17,
@@ -243,7 +243,7 @@
     "content": "Trong thời gian diễn ra sự kiện, sẽ có Hũ Vàng xuất hiện\nNgười chơi sẽ có cơ hội nhận được % tương ứng của hũ nếu bốc được bộ \nbài Sảnh Rồng có 2.",
     "giaithuong": "Giải thưởng của hũ Vàng được chia ra tùy thuộc vào bàn đang chơi như sau:\n Bàn 100: 0,5%.\n Bàn 500: 1%.\n Bàn 1.000: 2%.\n Bàn 2.000: 3%.\n Bàn 5.000: 5%.\n Bàn 10.000: 10%.\n Bàn 20.000: 15%.\n Bàn 50.000: 20%.\n Bàn 100.000: 30%.\n Bàn 200.000: 40%.",
     "luuy": "Hũ vàng sẽ được khởi điểm bắt đầu từ 3.000.000 Na.\nTiếp theo cứ 1 phút hũ vàng game bài sẽ được tăng thêm 10.000 Na.",
-    "doituong": "Người chơi game Tiến lên Miền Nam bằng Na tại Na Club"
+    "doituong": "Người chơi game Tiến lên Miền Nam bằng Na tại NA99"
   },
   {
     "idgame": 4,
@@ -253,7 +253,7 @@
     "content": "Trong thời gian diễn ra sự kiện, sẽ có Hũ Vàng xuất hiện\n Người chơi sẽ có cơ hội nhận được % tương ứng của hũ nếu bốc được bộ \nbài Sảnh Rồng có 2.",
     "giaithuong": "Giải thưởng của hũ Vàng được chia ra tùy thuộc vào bàn đang chơi như sau:\n Bàn 100: 0,5%.\n Bàn 500: 1%.\n Bàn 1.000: 2%.\n Bàn 2.000: 3%.\n Bàn 5.000: 5%.\n Bàn 10.000: 10%.\n Bàn 20.000: 15%.\n Bàn 50.000: 20%.\n Bàn 100.000: 30%.\n Bàn 200.000: 40%.",
     "luuy": "Hũ vàng sẽ được khởi điểm bắt đầu từ 3.000.000 Na. Tiếp theo cứ 1 phút \nhũ vàng game bài sẽ được tăng thêm 10.000 Na.",
-    "doituong": "Người chơi game Tiến lên Miền Nam và Tiến Lên Miền Nam Solo bằng Na \ntại cổng Na Club."
+    "doituong": "Người chơi game Tiến lên Miền Nam và Tiến Lên Miền Nam Solo bằng Na \ntại cổng NA99."
   },
   {
     "idgame": 5,
