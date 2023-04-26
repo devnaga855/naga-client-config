@@ -43,6 +43,17 @@
     "luuy": "- Phần thưởng trong Hộp quà bảo mật chỉ có giá trị trong ngày\n- Nếu quá thời gian đó mà người chơi không nhận thưởng thì giá trị của Hộp quà sẽ bị huỷ",
     "doituong": "Tất cả người chơi trên cổng game"
   },
+{
+    "idgame": 43,
+    "name": "Vòng quay Tết",
+    "title": "Vòng quay Tết",
+    "onoff": "is_tet_event",
+    "time": "Từ 0h00 ngày 28/04 đến 23h59 ngày 3/05",
+    "content": "Nhận dịp Tết đến Xuân sang, mừng Xuân Quý Mão NPH Na Club xin được gửi đến siêu sự kiện Tích Xèng Lớn - Rước Lộc to nhằm tri ân các Quý khách hàng đã gắn bỏ với cổng game trong suốt thời gian qua.\n-Khi Quý khách tham gia các trò chơi trên cổng game (trừ Bóng88, Trùm cá, Thần Biển, xóc đĩa, game bài),bạn sẽ có cơ hội nhận ngay một chiếc Xèng may mắn.\n-Khi Quý khách nạp 10 triệu Na sẽ nhận ngay một chiếc Xèng may mắn.",
+    "giaithuong": "Dùng xèng để tham gia quay Vòng quay Giàu Sang, bạn sẽ có cơ hội nhận được phần thưởng hoặc một trong những Mảnh ghép chữ cái sau:\n5.000 Na\n10.000 Na\n20.000 Na\n50.000 Na\nMảnh ghép Q U Y M A O",
+    "luuy": "1 Xèng sẽ đổi được 1 lượt quay",
+    "doituong": "Áp dụng cho tất cả người chơi trên cổng game"
+  },
   {
     "idgame": 45,
     "name": "Giải phóng miền nam",
