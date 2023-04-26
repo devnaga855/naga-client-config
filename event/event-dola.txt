@@ -44,7 +44,7 @@
     "doituong": "Tất cả người chơi trên cổng game"
   },
   {
-    "idgame": 43,
+    "idgame": 45,
     "name": "Giải phóng miền nam",
     "title": "Giải phóng miền nam",
     "time": "Từ 0h00 ngày 28/04 đến 23h59 ngày 3/05",
