@@ -12,6 +12,7 @@
   },
   {
 	  "idgame":44,
+      "onoff": "is_give_away",
 	  "name":"SỰ KIỆN GIVE AWAY",
 	  "title":"SỰ KIỆN GIVE AWAY",
 	  "time":"Sự kiện bắt đầu vào lúc 20h đến 20h30 các ngày diễn ra sự kiện.",
