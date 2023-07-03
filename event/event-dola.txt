@@ -10,7 +10,16 @@
     "luuy": "- Các giải thưởng 80M, 20M, 8M là những phần thưởng duy nhất chỉ dành cho người sưu tập đủ và nhanh nhất các mảnh ghép",
     "doituong": "Áp dụng cho tất cả người chơi trên cổng game"
   },
-
+    {
+	  "idgame":44,
+	  "name":"SỰ KIỆN GIVE AWAY",
+	  "title":"SỰ KIỆN GIVE AWAY",
+	  "time":"Sự kiện bắt đầu vào lúc 20h đến 20h30 từ ngày 04/07-13/07.",
+	  "content":"SỰ KIỆN GIVE AWAY - ĐĂNG NHẬP LIỀN TAY CÓ QUÀ NGAY\n- Khi sự kiện bắn đầu sẽ xuất hiện BIỂU TƯỢNG GA ở Góc Màn Hình - CLICK NGAY để mở HỘP QUÀ GA\n- Mỗi ngày, mỗi người đều có 05 cơ hội mở HỘP QUÀ GA\n- Hết thời gian, HỘP QUÀ GA chưa mở sẽ bị huỷ, không được tích luỹ qua ngày hôm sau",
+	  "giaithuong":"",
+	  "luuy":"- Phần thưởng sẽ được cộng trực tiếp vào tài khoản.\n- Mỗi hộp quà trị giá tối đa 500.000 Na",
+	  "doituong":"Áp dụng cho tất cả người chơi trên cổng game"
+  },
   {
     "idgame": 30,
     "name": "Quà tân thủ",
@@ -201,7 +210,7 @@
     "name": "Thánh tài xỉu",
     "title": "Thánh tài xỉu",
     "onoff": "is_vua_tai_xiu",
-    "time": "Từ 00h00 ngày 03/06/2023 đến 23h59 ngày 07/06/2023",
+    "time": "Từ 00h00 ngày 03/07/2023 đến 23h59 ngày 07/07/2023",
     "content": "Để tăng thêm phần hấp dẫn cho người chơi, cũng như tri ân toàn thể \nkhách hàng đã ủng hộ NA9988 trong thời gian vừa qua, NPH trân trọng ra \nmắt sự kiện Thánh tài xỉu hàng ngày cùng những phần thưởng vô cùng giá trị",
     "giaithuong": "** Đạt TOP Tài Xỉu trong ngày, quà về liền tay.\n- Top 1: 10.000.000 Na\n- Top 2: 5.000.000 Na\n- Top 3: 3.000.000 Na\n- Top 4: 1.000.000 Na\n- Top 5: 1.000.000 Na",
     "luuy": "- Xuyên suốt thời gian diễn ra sự kiện, hàng ngày sẽ dựa vào bảng xếp hạng\nTop Tài Xỉu để trao giải\n- Reset lại tính từ 0h00 ngày mới.\n- Nếu có 2 hay nhiều người chơi bằng điểm, thì hệ thống sẽ căn cứ theo ai\nđạt số điểm đó trước.\n- Nghiêm cấm hành vi dồn Na từ nhiều tài khoản qua Tài Xỉu để gian lận\nthứ tự bảng xếp hạng.\n- Quyết định của Ban Quản Trị là quyết định cuối cùng.\n",
