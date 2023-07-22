@@ -10,17 +10,7 @@
     "luuy": "- Các giải thưởng 80M, 20M, 8M là những phần thưởng duy nhất chỉ dành cho người sưu tập đủ và nhanh nhất các mảnh ghép",
     "doituong": "Áp dụng cho tất cả người chơi trên cổng game"
   },
-    {
-	  "idgame":44,
-	  "name":"SỰ KIỆN GIVE AWAY",
-	  "title":"SỰ KIỆN GIVE AWAY",
-	  "time":"Sự kiện bắt đầu vào lúc 20h đến 20h30 từ ngày 04/07-13/07.",
-	  "content":"SỰ KIỆN GIVE AWAY - ĐĂNG NHẬP LIỀN TAY CÓ QUÀ NGAY\n- Khi sự kiện bắn đầu sẽ xuất hiện BIỂU TƯỢNG GA ở Góc Màn Hình - CLICK NGAY để mở HỘP QUÀ GA\n- Mỗi ngày, mỗi người đều có 05 cơ hội mở HỘP QUÀ GA\n- Hết thời gian, HỘP QUÀ GA chưa mở sẽ bị huỷ, không được tích luỹ qua ngày hôm sau",
-	  "giaithuong":"",
-	  "luuy":"- Phần thưởng sẽ được cộng trực tiếp vào tài khoản.\n- Mỗi hộp quà trị giá tối đa 500.000 Na",
-	  "doituong":"Áp dụng cho tất cả người chơi trên cổng game"
-  },
-  {
+ {
     "idgame": 30,
     "name": "Quà tân thủ",
     "title": "QUÀ TÂN THỦ",
