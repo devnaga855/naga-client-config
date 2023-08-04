@@ -200,7 +200,7 @@
     "name": "Thánh tài xỉu",
     "title": "Thánh tài xỉu",
     "onoff": "is_vua_tai_xiu",
-    "time": "Từ 00h00 ngày 03/07/2023 đến 23h59 ngày 07/07/2023",
+    "time": "Từ 00h00 ngày 04/08/2023 đến 23h59 ngày 08/08/2023",
     "content": "Để tăng thêm phần hấp dẫn cho người chơi, cũng như tri ân toàn thể \nkhách hàng đã ủng hộ NA9988 trong thời gian vừa qua, NPH trân trọng ra \nmắt sự kiện Thánh tài xỉu hàng ngày cùng những phần thưởng vô cùng giá trị",
     "giaithuong": "** Đạt TOP Tài Xỉu trong ngày, quà về liền tay.\n- Top 1: 10.000.000 Na\n- Top 2: 5.000.000 Na\n- Top 3: 3.000.000 Na\n- Top 4: 1.000.000 Na\n- Top 5: 1.000.000 Na",
     "luuy": "- Xuyên suốt thời gian diễn ra sự kiện, hàng ngày sẽ dựa vào bảng xếp hạng\nTop Tài Xỉu để trao giải\n- Reset lại tính từ 0h00 ngày mới.\n- Nếu có 2 hay nhiều người chơi bằng điểm, thì hệ thống sẽ căn cứ theo ai\nđạt số điểm đó trước.\n- Nghiêm cấm hành vi dồn Na từ nhiều tài khoản qua Tài Xỉu để gian lận\nthứ tự bảng xếp hạng.\n- Quyết định của Ban Quản Trị là quyết định cuối cùng.\n",
