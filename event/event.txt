@@ -110,7 +110,7 @@
     "doituong": "Tất cả người chơi tham gia trên cổng game"
   },
   {
-    "idgame": 36,
+    "idgame": 46,
     "name": "Đua top nạp khủng",
     "title": "Đua top nạp khủng",
     "onoff": "is_top_nap",
