@@ -124,7 +124,7 @@
     "name": "Đua top nạp bank",
     "title": "Đua top nạp bank",
     "onoff": "is_top_nap_bank",
-    "time": "Sự kiện diễn ra từ 16/09/2023 đến 22/09/2023",
+    "time": "Sự kiện diễn ra từ 14/10/2023 đến 20/10/2023",
     "content": "- Trong thời gian diễn ra sự kiện, Top 50 người chơi có tổng tiền nạp qua ngân hàng nhiều nhất sẽ được hệ thống xếp hạng và trao thưởng.\n- Điều kiện nhận thưởng:\n+ Tổng nạp đạt tối thiểu 1 triệu và tổng tiền cược phải đạt tối thiểu gấp 40 lần giá trị giải thưởng. Tổng tiền cược đạt được tương ứng với thứ hạng nào sẽ nhận mức thưởng của thứ hạng đó\n+ Nếu hai người chơi có tổng nạp bằng nhau thì tổng tiền cược của ai nhiều hơn sẽ xếp hạng cao hơn",
     "giaithuong": "- Top 1: 5.000.000 Na\n- Top 2: 3.000.000 Na\n- Top 3: 1.000.000 Na\n- Top 4-10: 300.000 Na\n- Top 11-20: 100.000 Na\n- Top 21-50: 50.000 Na\n",
     "luuy": "- Chỉ tính tiền nạp qua ngân hàng\n- Không tính tiền cược từ các game Thần Biển - Trùm Cá - Thế Chiến - Bóng 88 - Casino Online và toàn bộ game bài",
