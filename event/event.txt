@@ -121,6 +121,17 @@
 	"doituong": "Dành cho tất cả người chơi trên cổng game."
   },
   {
+      "idgame": 47,
+      "name": "Thánh Hũ",
+      "title": "Đua top Thánh Hũ",
+      "onoff": "is_thanh_hu",
+      "time": "Sự kiện diễn từ 0h00 ngày 14/01 đến 23h59 ngày 18/01",
+      "content": "- Trong khoảng thời gian diễn ra sự kiện, Top 10 người chơi có tổng tiền cược nhiều nhất theo từng mức cược sẽ được nhận thưởng\n\n* Điều Kiện Nhận Thưởng\n- Phòng 100: Tổng tiền cược từ 20.000.000 NA trở lên - Với TOP 1 là trên 80.000.000 NA\n- Phòng 1000: Tổng tiền cược từ 40.000.000 NA trở lên - Với TOP 1 là trên 200.000.000 NA\n- Phòng 10.000: Tổng tiền cược từ 80.000.000 NA trở lên - Với TOP 1 là trên 400.000.000 NA",
+      "giaithuong": "- Top 1\n+ Phòng 100 : 5.000.000 NA,Phòng 1000 : 20.000.000 NA,Phòng 10000 : 50.000.000 NA\n- Top 2\n+ Phòng 100 : 1.000.000 NA,Phòng 1000 : 2.000.000 NA,Phòng 10000 : 5.000.000 NA\n- Top 3\n+ Phòng 100 : 500.000 NA,Phòng 1000 : 1.000.000 NA,Phòng 10000 : 2.000.000 NA\n- Top 4-5\n+ Phòng 100 : 200.000 NA,Phòng 1000 : 500.000 NA,Phòng 10000 : 1.000.000 NA\n- Top 6-10\n+ Phòng 100 : 100.000 NA,Phòng 1000 : 200.000 NA,Phòng 10000 : 500.000 NA",
+      "luuy": "- Nếu người chơi có số tiền cược bằng nhau, người chơi nào có tiền THẮNG nhiều hơn sẽ được nhận TOP\n- Tiền cược được tính từ các GAME được tính bao gồm SLOT (không tính LAURA & MINIPOKER)\n- 1 Người chơi chỉ được nhận giải thưởng có giá trị cao nhất\n- Quyết định của NPH là quyết định cuối cùng",
+  	"doituong": "Dành cho tất cả người chơi trên cổng game."
+    },
+  {
     "idgame": 37,
     "name": "Đua top nạp bank",
     "title": "Đua top nạp bank",
