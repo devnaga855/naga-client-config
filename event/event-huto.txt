@@ -40,7 +40,7 @@
     "content": "- Dựa vào số Hũ người chơi nạp vào game (không tính code & lộc), người chơi sẽ nhận được hoàn 5% hũ thua trong ngày khi:\n+ Trong ngày, thua tối thiểu 200k Hũ\n+ Luồng tiền chơi lớn hơn hoặc bằng 5 lần tiền thua\n+ Sau 0h00, người chơi có thể vào nhận Hoàn 5% Hũ thua trong ngày hôm trước.\n+ Thông báo trong hòm thư được gửi sau 14h00 cùng ngày.\n\n* Ví dụ: trong ngày người chơi thua 200k và luồng chơi trên 1M, khi thua hết 200k sang ngày hôm sau người chơi sẽ nhận lại hoàn 5% của 200k là 10k.",
     "giaithuong": "- 5% hũ thua trong ngày",
     "luuy": "- Hoàn Hũ được nhận từ 0h00 hàng ngày, sau 23h59p cùng ngày nếu người chơi không nhận thưởng thì phần quà sẽ hết giá trị sử dụng\n- Trong quá trình chơi, người chơi có nhận được code và lộc từ Đại Lý hoặc người chơi khác thì số tiền đó cũng không được tính vào là thua.",
-    "doituong": "- Tất cả người chơi tham gia trên cổng HUTO. GAME( không tính chơi trùm cá, thế chiến, bong88 )."
+    "doituong": "- Tất cả người chơi tham gia trên cổng HUTO ( không tính  chơi hải vương, long cung, thế chiến, bong88)."
   },
   {
     "idgame": 39,
