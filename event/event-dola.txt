@@ -1,15 +1,4 @@
 [
-  {
-    "idgame": 45,
-    "name": "Lễ lớn rước quà to",
-    "title": "LỄ LỚN RƯỚC QUÀ TO",
-    "onoff": "is_tet_event",
-    "time": "Từ 0h00 ngày 05/08 đến 23h59 ngày 14/08",
-    "content": "- Hòa chung không khí hân hoan đón chào ngày Cách mạng tháng 08 thành công rực rỡ. Cổng game NA99 xin vui mừng gửi đến sự kiện kỉ niệm mốc son chói lọi của dân tộc ta, cũng như gửi lời tri ân đến tất cả Quý khách hàng đã đồng hành cùng cổng game trong suốt thời gian vừa qua.\n- Khi tham gia tất cả các trò chơi trên cổng game( trừ Bong88, Trùm Cá, Thế Chiến, Game bài , Thần biển, Casino Live), Quý khách sẽ có cơ hội nhận ngay một chiếc Xèng may mắn.\n- Khi Quý khách nạp 10M NA sẽ nhận ngay một chiếc Xèng may mắn. Dùng xèng để tham gia quay Vòng quay may mắn, bạn sẽ có cơ hội nhận được phần thưởng là NA hoặc một trong những Mảnh ghép chữ cái sau: CÁCH, MẠNG, THÁNG, TÁM, NĂM, 1945.",
-    "giaithuong": "- Ghép được cụm từ: CÁCH MẠNG THÁNG TÁM NĂM 1945, Quý khách hàng sẽ có cơ hội nhận được giải thưởng lên đến 78.000.000 NA",
-    "luuy": "- Giải thưởng 78.000.000 chỉ có 1 và dành cho người sưu tập đủ, nhanh nhất cụm từ CÁCH MẠNG THÁNG TÁM NĂM 1945. Trong trường hợp xảy ra tranh chấp quyết định của NPH là quyết định cuối cùng. Nếu phát hiện trường hợp trục lợi để nhận vòng quay, NPH sẽ hủy kết quả của Quý khách đạt giải. Mỗi ngày quý khách được tích lũy tối đa 30 vé. 1 Xèng sẽ đổi được 1 lượt quay",
-    "doituong": "Áp dụng cho tất cả người chơi trên cổng game"
-  },
  {
     "idgame": 30,
     "name": "Quà tân thủ",
@@ -58,8 +47,8 @@
     "idgame": 43,
     "name": "Vòng quay Giàu Sang",
     "title": "Vòng quay Giàu Sang",
-    "onoff": "is_tet_event_new",
-    "time": "Từ 0h00 ngày 07/02 đến 23h59 ngày 17/02",
+    "onoff": "is_tet_event",
+    "time": "Từ 0h00 ngày 05/02 đến 23h59 ngày 17/02",
     "content": "Nhận dịp Tết đến Xuân sang, mừng Xuân Giáp Thìn NPH Na Club xin được gửi đến siêu sự kiện Tích Xèng Lớn - Rước Lộc to nhằm tri ân các Quý khách hàng đã gắn bỏ với cổng game trong suốt thời gian qua.\n-Khi Quý khách tham gia các trò chơi trên cổng game (trừ Bóng88, Trùm cá, Thần Biển, xóc đĩa, game bài),bạn sẽ có cơ hội nhận ngay một chiếc Xèng may mắn.\n-Khi Quý khách nạp 10 triệu Na sẽ nhận ngay một chiếc Xèng may mắn.",
     "giaithuong": "Dùng xèng để tham gia quay Vòng quay Giàu Sang, bạn sẽ có cơ hội nhận được phần thưởng hoặc một trong những Mảnh ghép chữ cái sau:\n5.000 Na\n10.000 Na\n20.000 Na\n50.000 Na\nMảnh ghép G I A P T H I N",
     "luuy": "1 Xèng sẽ đổi được 1 lượt quay",
