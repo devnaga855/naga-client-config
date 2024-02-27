@@ -208,9 +208,10 @@
     "doituong": "Tất cả các khách hàng tham gia chơi TÀI XỈU trên cổng game"
   },
   {
-      "idgame": 48,
+      "idgame": 29,
       "name": "Rung cây",
       "title": "RUNG CÂY NẠP BANK",
+      "onoff": "is_rung_cay",
       "time": "Từ 00:00 ngày 16/03/2023 đến 23:59 ngày 20/03/2023",
       "content": "- Trong thời gian hoạt động trong ngày, người chơi tích lũy nạp Na qua BANK sẽ nhận được số lần RUNG CÂY.\n- Sau khi RUNG CÂY khách hàng chắc chắn sẽ nhận được quà.",
       "giaithuong": "- 3 lượt quay free Siêu Anh Hùng\n- 3 lượt quay free Đêm Vũ Trường\n- 3 lượt quay free Vương Quốc Na\n- 3 lượt quay free Đế Chế La Mã\n- Và các giải thưởng Na như: 50K,100K,250K,500K,1100K,2600K",
