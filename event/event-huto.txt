@@ -350,7 +350,7 @@
     "name": "Nạp May Mắn",
     "title": "Nạp May Mắn",
     "onoff": "IS_LUCKY_RECHARGE",
-    "time": "Sự kiện chạy từ ngày 18/02 - 24/02",
+    "time": "Sự kiện chạy từ ngày 04/03 - 10/03",
     "content": "- Người chơi tham gia chơi trong quá trình nạp thẻ, nạp momo, nạp bank trực tiếp trên cồng game, sẽ được gắn 1 mã số giao dịch cho mỗi giao dịch nạp. (Có trong mail gửi về mỗi lần nạp tiền thành công)\n\n- Dựa vào các số cuối trong các giao dịch sẽ chọn ra mã giao dịch may mắn để nhận thướng ",
     "giaithuong": "- Hình thức nạp thẻ:\n+ Giao dịch nạp $ thông qua thẻ cào có 2 số cuối của mã giao dịch là 86 sẽ nhận khuyến mãi thêm 10% giá trị thẻ nạp.\n* Yêu Cầu: Mệnh giá thẻ cào trị giá từ 50.000 trở lên\n\n- Hình thức Momo và Bank trực tiếp\n+ Giao dịch nạp $ qua MOMO và Bank trực tiếp có 2 số cuối của mã giao dịch là 86 được thưởng như sau\n* Yêu Cầu: Từ 100.000 đến dưới 500.000 khuyến mãi 10%. Từ 500.000 trở lên khuyến mãi 20%, thưởng tối đa 1.000.000.\n\n - Với giao dịch nạp bất kỳ qua 1 trong 3 thể loại nạp có 3 số đuôi mã giao dịch là 868 sẽ được thưởng 30% giá trị nạp (yêu cầu mệnh giá từ 100.000 trở lên). Thưởng tối đa 1.500.000\n\n- Đặc biêt, giao dịch nạp bất kỳ qua 1 trong 3 thể loại nạp có 4 số đuôi mã giao dịch là 8686 sẽ được thưởng ngay 5.000.000",
     "luuy": "- 1 người chỉ trúng 1 giải lớn nhất.\n- VD: khi trúng giải 4 số 8686 thì sẽ chỉ nhận được 5M và sẽ không được nhận thưởng các giải còn lại.",
