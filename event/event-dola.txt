@@ -185,7 +185,7 @@
       "doituong": "Tất cả các khách hàng tham gia chơi TÀI XỈU trên cổng game"
     },
   {
-    "idgame": 29,
+    "idgame": 48,
     "name": "Rung cây",
     "title": "RUNG CÂY NẠP MOMO",
     "onoff": "is_rung_cay",
