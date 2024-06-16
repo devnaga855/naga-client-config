@@ -5,8 +5,8 @@
       "title": "MINI EURO 2024",
       "time": "Sự kiện chạy xuyên suốt EURO2024",
       "content": "Người chơi có 2 cách để tham gia game\nCách 1 - Sử dụng tiền NA để tham gia chơi game\nCách 2 - Sử dụng điểm E để tham gia chơi\n\nCách tích điểm E\n- Đăng nhập hàng ngày: 1000 E\n- Tích lũy khi chơi: 1 VP = 1000 E\n- Tích lũy nạp hàng ngày: 100.000 NA = 1000 E\n\nVới mỗi 1 lượt quay user có cơ hội nhận thưởng khi bài xếp được vào thành 1 bộ",
-      "giaithuong": "Nổ Hũ tại các phòng 100 - 1.000 - 10.000\nNỗ Hũ báo danh nhận thưởng tại CSKH\n- Hũ 100: Thưởng 50K\n- Hũ 1.000: Thưởng 300K\n- HŨ 10.000: Thưởng 1M",
-      "luuy": "- KHÔNG GIỚI HẠN SỐ LƯỢNG HŨ BÁO DANH\n- ĐIỂM E không có giá trị quy đổi sang tiền\n- ĐIỂM E chỉ có thể chơi tại game MINIEURO",
+      "giaithuong": "Nổ Hũ tại các phòng 100 - 1.000 - 10.000\nĐẶC BIỆT: Nỗ Hũ báo danh nhận thưởng tại TELE CSKH https://t.me/SPNa99_bot\n- Hũ 100: Thưởng 50K\n- Hũ 1.000: Thưởng 300K\n- HŨ 10.000: Thưởng 1M",
+      "luuy": "- 1 HŨ được báo danh và nhận thưởng 1 LẦN\n- Trong ngày được phép báo danh nhiều hũ khác nhau\n- ĐIỂM E không có giá trị quy đổi sang tiền\n- ĐIỂM E chỉ có thể chơi tại game MINIEURO",
       "doituong": "Tất cả các khách hàng chơi tại cổng game NA99"
     },
  {
