@@ -5,10 +5,10 @@
     "title": "QUÀ TÂN THỦ",
     "onoff": "IS_FIRST_GAME",
     "time": "Sự kiện chạy xuyên suốt trên cổng game",
-    "content": "- Người chơi sẽ nhận được phần thưởng vô cùng hấp dẫn đến từ NPH Huto khi hoàn thành các tiến trình.\n+ Tiến trình 1: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 10.000 Hũ( tổng giải thưởng 100.000 Hũ )\n+ Tiến trình 2: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 20.000 Hũ( tổng giải thưởng 200.000 Hũ )\n+ Tiến trình 3: 5 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 40.000 Hũ( tổng giải thưởng 200.000 Hũ )\n- Chinh phục các cột mốc bằng cách chơi các game trên cổng game Huto. Chơi càng nhiều thì càng đẩy nhanh được tiến trình nhận thưởng",
+    "content": "- Người chơi sẽ nhận được phần thưởng vô cùng hấp dẫn đến từ NPH BAIVIP khi hoàn thành các tiến trình.\n+ Tiến trình 1: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 10.000 B( tổng giải thưởng 100.000 B )\n+ Tiến trình 2: 10 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 20.000 B( tổng giải thưởng 200.000 B )\n+ Tiến trình 3: 5 cột mốc. Khi hoàn thành 1 cột mốc bạn sẽ\nnhận được 40.000 B( tổng giải thưởng 200.000 B )\n- Chinh phục các cột mốc bằng cách chơi các game trên cổng game BAIVIP. Chơi càng nhiều thì càng đẩy nhanh được tiến trình nhận thưởng",
     "giaithuong": "",
-    "luuy": "- Tài khoản phải đăng ký bảo mật SĐT\n- HŨ thưởng sẽ được cộng thẳng trực tiếp vào tài khoản của\nbạn.\n- Thực hiện tiến trình tuần tự theo các mốc.",
-    "doituong": "Tất cả các khách hàng tham gia chơi HŨ trên cổng game HUTO"
+    "luuy": "- Tài khoản phải đăng ký bảo mật SĐT\n- B thưởng sẽ được cộng thẳng trực tiếp vào tài khoản của\nbạn.\n- Thực hiện tiến trình tuần tự theo các mốc.",
+    "doituong": "Tất cả các khách hàng tham gia chơi B trên cổng game BAIVIP"
   },
   {
     "idgame": 31,
@@ -16,9 +16,9 @@
     "title": "TRUY TÌM KHO BÁU",
     "onoff": "IS_DUA_XE",
     "time": "- Sự kiện bắt đầu từ 00h ngày 08/03 - 23h59 ngày 28/03  \n- Sau mỗi ngày, Giải ngày - Hũ Vàng sẽ được trao\n- Kết thúc 21 ngày sẽ có trao Giải Chung Cuộc - Kho Báu Trăm Hũ",
-    "content": "- Khi người chơi tham gia chơi ở bất kỳ game nào trên cổng game HUTO( không tính các game Long Cung, Bong88, Thế Chiến ) sẽ nhận được Kim cương đồng thời số Kim Cương được hệ thống ghi nhận cũng chính là quãng đường mà người chơi di chuyển tương ứng trên hành trình Truy tìm Kho Báu.\n- Tiêu chí xếp hạng:\n+ Tổng Kim Cương đạt được trong sự kiện tính theo thời gian diễn ra sự kiện\n+ Vị trí địa điểm đạt được cao nhất trên bản đồ\n+ Để đạt được Top 1 cần 30.000 Kim Cương\n+ Hoàn thành hành trình đến điểm cuối cùng cất giữ Kho báu sẽ được nhận thưởng Top 1. Nếu có 2 hoặc nhiều người hơn cùng đạt cứ điểm sẽ sắp xếp thứ tự dựa trên số Kim cương có được.Nếu có nhiều người có cùng số kim cương sẽ ưu tiên cho người tới trước",
-    "giaithuong": "** Giải ngày SĂN HŨ VÀNG:\n- Top 1: 3tr HŨ (tối thiếu tích luỹ được: 500 Kim Cương)\n- Top 2: 2tr HŨ(tối thiếu tích luỹ được: 200 Kim Cương)\n- Top 3: 1.5tr HŨ\n- Top 4: 1tr HŨ\n- Top 5: 500k HŨ\n- Top 6 - Top 10: 200k HŨ\n- Top 11 - Top 20: 100k HŨ\n- Top 21 - Top 30: 50k HŨ\n- Top 31 - Top 40: 40k HŨ\n- Top 41 - Top 50: 30k HŨ\n- Top 51 - Top 100 : 20k HŨ\n\n** Giải thưởng tuần SĂN HŨ KIM CƯƠNG:\n- Top 1: 15tr HŨ (tối thiếu tích luỹ được: 1500 Kim Cương)\n- Top 2: 10tr HŨ(tối thiếu tích luỹ được: 700 Kim Cương)\n- Top 3: 5tr HŨ\n- Top 4: 2tr HŨ\n- Top 5 - Top 10: 500k HŨ\n- Top 11 - Top 20: 200k HŨ\n- Top 21 - Top 50: 100k HŨ\n- Top 51 - Top 100: 50k HŨ\n\n** Giải chung cuộc KHO BÁU TRĂM HŨ:\n- Top 1: 1619tr HŨ(tối thiếu tích luỹ được: 30000 Kim Cương)\n- Top 2: 500tr HŨ(tối thiếu tích luỹ được: 10000 Kim Cương)\n- Top 3: 200tr HŨ\n- Top 4: 100tr HŨ\n- Top 5 - Top 10: 20tr HŨ\n- Top 11 - Top 20: 5tr HŨ\n- Top 21 - Top 50: 1tr HŨ\n- Top 51 - Top 100: 500k HŨ",
-    "luuy": "– Giải thưởng HŨ  sẽ được trao trong vòng 72h sau khi kết thúc sự kiện.\n– Trong trường hợp có tranh chấp, quyết định của BTC là \nquyết định cuối cùng.",
+    "content": "- Khi người chơi tham gia chơi ở bất kỳ game nào trên cổng game BAIVIP( không tính các game Long Cung, Bong88, Thế Chiến ) sẽ nhận được Kim cương đồng thời số Kim Cương được hệ thống ghi nhận cũng chính là quãng đường mà người chơi di chuyển tương ứng trên hành trình Truy tìm Kho Báu.\n- Tiêu chí xếp hạng:\n+ Tổng Kim Cương đạt được trong sự kiện tính theo thời gian diễn ra sự kiện\n+ Vị trí địa điểm đạt được cao nhất trên bản đồ\n+ Để đạt được Top 1 cần 30.000 Kim Cương\n+ Hoàn thành hành trình đến điểm cuối cùng cất giữ Kho báu sẽ được nhận thưởng Top 1. Nếu có 2 hoặc nhiều người hơn cùng đạt cứ điểm sẽ sắp xếp thứ tự dựa trên số Kim cương có được.Nếu có nhiều người có cùng số kim cương sẽ ưu tiên cho người tới trước",
+    "giaithuong": "** Giải ngày SĂN HŨ VÀNG:\n- Top 1: 3tr B (tối thiếu tích luỹ được: 500 Kim Cương)\n- Top 2: 2tr B(tối thiếu tích luỹ được: 200 Kim Cương)\n- Top 3: 1.5tr B\n- Top 4: 1tr B\n- Top 5: 500k B\n- Top 6 - Top 10: 200k B\n- Top 11 - Top 20: 100k B\n- Top 21 - Top 30: 50k B\n- Top 31 - Top 40: 40k B\n- Top 41 - Top 50: 30k B\n- Top 51 - Top 100 : 20k B\n\n** Giải thưởng tuần SĂN HŨ KIM CƯƠNG:\n- Top 1: 15tr B (tối thiếu tích luỹ được: 1500 Kim Cương)\n- Top 2: 10tr B(tối thiếu tích luỹ được: 700 Kim Cương)\n- Top 3: 5tr B\n- Top 4: 2tr B\n- Top 5 - Top 10: 500k B\n- Top 11 - Top 20: 200k B\n- Top 21 - Top 50: 100k B\n- Top 51 - Top 100: 50k B\n\n** Giải chung cuộc KHO BÁU TRĂM HŨ:\n- Top 1: 1619tr B(tối thiếu tích luỹ được: 30000 Kim Cương)\n- Top 2: 500tr B(tối thiếu tích luỹ được: 10000 Kim Cương)\n- Top 3: 200tr B\n- Top 4: 100tr B\n- Top 5 - Top 10: 20tr B\n- Top 11 - Top 20: 5tr B\n- Top 21 - Top 50: 1tr B\n- Top 51 - Top 100: 500k B",
+    "luuy": "– Giải thưởng B  sẽ được trao trong vòng 72h sau khi kết thúc sự kiện.\n– Trong trường hợp có tranh chấp, quyết định của BTC là \nquyết định cuối cùng.",
     "doituong": "Áp dụng cho tất cả người chơi trên cổng game"
   },
   {
@@ -27,20 +27,20 @@
     "title": "Nhiệm vụ",
     "onoff": "IS_NHIEM_VU",
     "time": "Diễn ra vào các ngày trong tuần",
-    "content": "- Hũ thưởng sẽ được cộng vào số dư của bạn",
+    "content": "- B thưởng sẽ được cộng vào số dư của bạn",
     "giaithuong": "- Hoàn thành yêu cầu của từng nhiệm vụ đề ra.\n- Khi đã hoàn thành mỗi nhiệm vụ, bạn sẽ nhận được giải thưởng tương\nxứng cho mỗi nhiệm vụ đó.",
     "luuy": "- Nhận thưởng theo từng nhiệm vụ hoàn thành, không tính trùng nhiệm vụ\nkhi thực hiện\n- Qua ngày mới sẽ reset lại từ đầu\n- Nhiệm vụ sẽ được cập nhật và thay đổi liên tục",
     "doituong": "Áp dụng cho tất cả người chơi trên cổng game"
   },
   {
     "idgame": 33,
-    "name": "Hoàn HŨ",
-    "title": "Hoàn HŨ",
+    "name": "Hoàn B",
+    "title": "Hoàn B",
     "time": "Sự kiện bắt đầu từ 00h00 ngày 28/10 và diễn ra hàng ngày xuyên suốt trên cổng game",
-    "content": "- Dựa vào số Hũ người chơi nạp vào game (không tính code & lộc), người chơi sẽ nhận được hoàn 5% hũ thua trong ngày khi:\n+ Trong ngày, thua tối thiểu 200k Hũ\n+ Luồng tiền chơi lớn hơn hoặc bằng 5 lần tiền thua\n+ Sau 0h00, người chơi có thể vào nhận Hoàn 5% Hũ thua trong ngày hôm trước.\n+ Thông báo trong hòm thư được gửi sau 14h00 cùng ngày.\n\n* Ví dụ: trong ngày người chơi thua 200k và luồng chơi trên 1M, khi thua hết 200k sang ngày hôm sau người chơi sẽ nhận lại hoàn 5% của 200k là 10k.",
-    "giaithuong": "- 5% hũ thua trong ngày",
-    "luuy": "- Hoàn Hũ được nhận từ 0h00 hàng ngày, sau 23h59p cùng ngày nếu người chơi không nhận thưởng thì phần quà sẽ hết giá trị sử dụng\n- Trong quá trình chơi, người chơi có nhận được code và lộc từ Đại Lý hoặc người chơi khác thì số tiền đó cũng không được tính vào là thua.",
-    "doituong": "- Tất cả người chơi tham gia trên cổng HUTO ( không tính  chơi hải vương, long cung, thế chiến, bong88)."
+    "content": "- Dựa vào số B người chơi nạp vào game (không tính code & lộc), người chơi sẽ nhận được hoàn 5% B thua trong ngày khi:\n+ Trong ngày, thua tối thiểu 200k B\n+ Luồng tiền chơi lớn hơn hoặc bằng 5 lần tiền thua\n+ Sau 0h00, người chơi có thể vào nhận Hoàn 5% B thua trong ngày hôm trước.\n+ Thông báo trong hòm thư được gửi sau 14h00 cùng ngày.\n\n* Ví dụ: trong ngày người chơi thua 200k và luồng chơi trên 1M, khi thua hết 200k sang ngày hôm sau người chơi sẽ nhận lại hoàn 5% của 200k là 10k.",
+    "giaithuong": "- 5% B thua trong ngày",
+    "luuy": "- Hoàn B được nhận từ 0h00 hàng ngày, sau 23h59p cùng ngày nếu người chơi không nhận thưởng thì phần quà sẽ hết giá trị sử dụng\n- Trong quá trình chơi, người chơi có nhận được code và lộc từ Đại Lý hoặc người chơi khác thì số tiền đó cũng không được tính vào là thua.",
+    "doituong": "- Tất cả người chơi tham gia trên cổng BAIVIP ( không tính  chơi hải vương, long cung, thế chiến, bong88)."
   },
   {
     "idgame": 39,
@@ -48,7 +48,7 @@
     "title": "Khuyến mại nạp",
     "onoff": "IS_KM_NAP",
     "time": "Sự kiện diễn ra từ 0h00 đến 23h59 ngày 10/07",
-    "content": "- Sự kiện siêu đặc biệt dành cho người chơi tại cổng game Huto\n- Khi nạp qua Ngân hàng và nạp qua Ví điện tử, quý khách sẽ nhận được\n135% giá trị nạp",
+    "content": "- Sự kiện siêu đặc biệt dành cho người chơi tại cổng game BAIVIP\n- Khi nạp qua Ngân hàng và nạp qua Ví điện tử, quý khách sẽ nhận được\n135% giá trị nạp",
     "giaithuong": "",
     "luuy": "- Khách hàng khi đổi thưởng qua Đại lý phải có luồng chơi tối thiểu bằng\n10% giá trị nạp trong thời gian khuyến mãi",
     "doituong": "Tất cả người chơi tham gia trên cổng game"
@@ -60,7 +60,7 @@
     "onoff": "IS_TOP_TX",
     "time": "Tất cả các ngày trong tuần.Từ 00:00 đến 23:59 mỗi ngày.",
     "content": "- Đạt tổng cược từ 100.000.000 trở lên trước 23:59 mỗi ngày\n- Thỏa mãn điều kiện đạt tổng cược và nằm trong Top 20 người có Tổng thắng cao nhất trong ngày",
-    "giaithuong": "- Đúng 00:00 hệ thống sẽ tổng kết Top 20 người chơi đủ điều kiện để trao thưởng\n- Nếu người chơi đạt được tổng thắng mà tổng cược không đạt được sẽ bị mất quyền nhận thưởng\n- Thời gian công bố kết quả từ 00:00 đến 12:00 ngày hôm sau\n- Hũ thưởng sẽ được cộng trực tiếp vào tải khoản người chiến thắng\n+ Top 1: 10.000.000\n+ Top 2: 5.000.000\n+ Top 3: 3.000.000\n+ Top 4, 5: 2.000.000\n+ Top 6-10: 1.500.000\n+ Top 11-14: 1.000.000\n+ Top 15-16: 500.000\n+ Top 18-19: 200.000\n+ Top 20: 100.000",
+    "giaithuong": "- Đúng 00:00 hệ thống sẽ tổng kết Top 20 người chơi đủ điều kiện để trao thưởng\n- Nếu người chơi đạt được tổng thắng mà tổng cược không đạt được sẽ bị mất quyền nhận thưởng\n- Thời gian công bố kết quả từ 00:00 đến 12:00 ngày hôm sau\n- B thưởng sẽ được cộng trực tiếp vào tải khoản người chiến thắng\n+ Top 1: 10.000.000\n+ Top 2: 5.000.000\n+ Top 3: 3.000.000\n+ Top 4, 5: 2.000.000\n+ Top 6-10: 1.500.000\n+ Top 11-14: 1.000.000\n+ Top 15-16: 500.000\n+ Top 18-19: 200.000\n+ Top 20: 100.000",
     "luuy": "",
     "doituong": "Tất cả người chơi trên cổng game"
   },
@@ -70,7 +70,7 @@
     "title": "",
     "onoff": "IS_TK_MOI",
     "time": "5 Ngày Kể Từ Ngày Tạo Tài Khoản",
-    "content": "- Đối với những người chơi đăng ký bảo mật bằng telegram sẽ nhận được 5.000 HŨ mỗi ngày trong vòng 5 ngày mỗi khi đăng nhập vào game.",
+    "content": "- Đối với những người chơi đăng ký bảo mật bằng telegram sẽ nhận được 5.000 B mỗi ngày trong vòng 5 ngày mỗi khi đăng nhập vào game.",
     "giaithuong": "",
     "luuy": "- Phần thưởng trong Thưởng Nóng bảo mật chỉ có giá trị ngày\n- Nếu quá thời gian đó mà người chơi không nhận thưởng thì giá trị của Hộp quà sẽ bị huỷ",
     "doituong": "Tất cả các Tài Khoản Tạo Mới Từ ngày 01/09/2022"
@@ -93,7 +93,7 @@
     "onoff": "IS_TOP_TX_WC",
     "time": "Từ 00:00 ngày 16/11/2022 đến 23:59 ngày 30/11/2022.",
     "content": "- Những người chơi tham gia chơi game Tài Xỉu nằm trong Top5 \ntổng thắng trong thời gian diễn ra sự kiện sẽ có cơ hội trúng thưởng.",
-    "giaithuong": "- Hệ thống sẽ tổng kết Top 5 người chơi có tổng thắng cao \nnhất để trao thưởng\n- Thời gian công bố kết quả: 48h sau ngày kết thúc sự kiện\n- Hũ thưởng sẽ được cộng trực tiếp vào tải khoản người chiến thắng\n+ Top 1: Xe Mazda 3\n+ Top 2: Xe SH 150i\n+ Top 3:iPhone 14 Pro Max\n+ Top 4: 10.000.000\n+ Top 5: 5.000.000\n",
+    "giaithuong": "- Hệ thống sẽ tổng kết Top 5 người chơi có tổng thắng cao \nnhất để trao thưởng\n- Thời gian công bố kết quả: 48h sau ngày kết thúc sự kiện\n- B thưởng sẽ được cộng trực tiếp vào tải khoản người chiến thắng\n+ Top 1: Xe Mazda 3\n+ Top 2: Xe SH 150i\n+ Top 3:iPhone 14 Pro Max\n+ Top 4: 10.000.000\n+ Top 5: 5.000.000\n",
     "luuy": "",
     "doituong": "Dành cho tất cả người chơi tham gia cổng game"
   },
@@ -103,21 +103,21 @@
     "title": "Hứng CODE 50k",
     "onoff": "IS_CODE_50",
     "time": "7 Ngày",
-    "content": "- Để nhận được CODE 50k đến từ NPH, bạn chỉ cần hoàn thành trong ngày 2 tiêu chí sau:\n+ Tiêu chí 1: Nạp tối thiểu 50k. Nạp qua 1 trong 3 hình thức: Thẻ cào, Ví điện tử, Ngân hàng.( không tính hình thức nạp qua Đại lý )\n+ Tiêu chí 2: Hũ cược từ 5.000.000 Hu trở lên",
+    "content": "- Để nhận được CODE 50k đến từ NPH, bạn chỉ cần hoàn thành trong ngày 2 tiêu chí sau:\n+ Tiêu chí 1: Nạp tối thiểu 50k. Nạp qua 1 trong 3 hình thức: Thẻ cào, Ví điện tử, Ngân hàng.( không tính hình thức nạp qua Đại lý )\n+ Tiêu chí 2: B cược từ 5.000.000 B trở lên",
     "giaithuong": "- Khi đã thoả mãn được 2 điều kiện trên thì code 50k sẽ được gửi về hòm thư trong game của bạn.\n- Mỗi người chơi sẽ chỉ nhận được 1 và chỉ 1 code 50k khi đã đạt đủ yêu cầu kể trên.",
     "luuy": "- Phải đạt đủ cả 2 tiêu chí trong ngày và Đăng ký bảo mật tài khoản thì mới nhận được Code.\n- Nếu bạn chỉ đạt 1 trong 2 tiêu chí thì cũng sẽ không được tính\n- Mỗi tài khoản chỉ dùng được 1 lần code duy nhất",
-    "doituong": "Áp dụng cho tất cả thành viên của HUTO"
+    "doituong": "Áp dụng cho tất cả thành viên của BAIVIP"
   },
   {
     "idgame": 24,
-    "name": "Ứng HŨ",
-    "title": "Ứng HŨ",
+    "name": "Ứng B",
+    "title": "Ứng B",
     "onoff": "IS_UNG_LOC",
-    "time": "Khi người chơi đạt đủ điều kiện tín nhiệm, người chơi sẽ được có quyền \nứng HŨ từ Nhà Phát Hành.",
-    "content": "Số HŨ của người chơi trong tài khoản( tính cả HŨ trong KS hay trong game\nTC ) phải dưới 1000\nĐạt đủ điểm tín nhiệm mà NPH đề ra",
+    "time": "Khi người chơi đạt đủ điều kiện tín nhiệm, người chơi sẽ được có quyền \nứng B từ Nhà Phát Hành.",
+    "content": "Số B của người chơi trong tài khoản( tính cả B trong KS hay trong game\nTC ) phải dưới 1000\nĐạt đủ điểm tín nhiệm mà NPH đề ra",
     "giaithuong": "Điểm tín nhiệm 0: không được ứng\nĐiểm tín nhiệm 1: 10k\nĐiểm tín nhiệm 2: 20k\nĐiểm tín nhiệm 3: 50k\nĐiểm tín nhiệm 4:100k\nĐiểm tín nhiệm 5:200k\nĐiểm tín nhiệm 6: 500k",
-    "luuy": "Khi người chơi nạp HŨ hoặc số dư gấp 1.5 lần số HŨ đã được ứng, hệ \nthống tự động thu hồi số HŨ ứng trước đó",
-    "doituong": "Khi người chơi ứng HŨ từ hệ thống, chức năng chuyển khoản, mua thẻ \nsẽ bị khóa và không thể chơi game bài.\nChỉ được chơi minigame, slot, lô số\nKhi người chơi trả hết số HŨ ứng thì người chơi sẽ có quyền được ứng tiếp"
+    "luuy": "Khi người chơi nạp B hoặc số dư gấp 1.5 lần số B đã được ứng, hệ \nthống tự động thu hồi số B ứng trước đó",
+    "doituong": "Khi người chơi ứng B từ hệ thống, chức năng chuyển khoản, mua thẻ \nsẽ bị khóa và không thể chơi game bài.\nChỉ được chơi minigame, slot, lô số\nKhi người chơi trả hết số B ứng thì người chơi sẽ có quyền được ứng tiếp"
   },
   {
     "idgame": 25,
@@ -125,10 +125,10 @@
     "title": "Điềm danh mỗi ngày",
     "time": "Hàng ngày",
     "onoff": "IS_DIEM_DANH",
-    "content": "- Đăng nhập vào HUTO mỗi ngày và hệ thống sẽ tự động tích lũy số ngày \nđăng nhập cho bạn.\n\n- Chơi HŨ: Hệ thống sẽ tích lũy lại những phiên đặt cược thành công \ncủa bạn tối thiểu một phiên 10k\n\n- Chỉ áp dụng cho các tài khoản đãn đăng ký SĐT bảo mật\n\n- Nếu bạn hoàn thành đủ 3 điều kiện kể trên thì tới các ngày 7,15,30 hệ \nthống sẽ tự động cộng thưởng với số HŨ tương ứng vào tài khoản của bạn",
-    "giaithuong": "- Điểm danh 7 ngày liên tục: 5.000 HŨ\n- Điểm danh 15 ngày liên tục: 10.000 HŨ\n- Điểm danh 30 ngày liên tục: 15.000 HŨ",
+    "content": "- Đăng nhập vào BAIVIP mỗi ngày và hệ thống sẽ tự động tích lũy số ngày \nđăng nhập cho bạn.\n\n- Chơi B: Hệ thống sẽ tích lũy lại những phiên đặt cược thành công \ncủa bạn tối thiểu một phiên 10k\n\n- Chỉ áp dụng cho các tài khoản đãn đăng ký SĐT bảo mật\n\n- Nếu bạn hoàn thành đủ 3 điều kiện kể trên thì tới các ngày 7,15,30 hệ \nthống sẽ tự động cộng thưởng với số B tương ứng vào tài khoản của bạn",
+    "giaithuong": "- Điểm danh 7 ngày liên tục: 5.000 B\n- Điểm danh 15 ngày liên tục: 10.000 B\n- Điểm danh 30 ngày liên tục: 15.000 B",
     "luuy": "- Bạn phải hoàn thành nhiệm vụ điểm danh này liên tiếp lần lượt là 7 ngày, \n15 ngày và 30 ngày thì hệ thống mới trao tặng mức thưởng tương ứng cho \nbạn. Nếu thiếu 1 ngày trong chuỗi liên tiếp đó thì cũng sẽ không được tính.",
-    "doituong": "Áp dụng cho tất cả thành viên của HUTO"
+    "doituong": "Áp dụng cho tất cả thành viên của BAIVIP"
   },
   {
     "idgame": 26,
@@ -136,9 +136,9 @@
     "title": "X3 nạp",
     "time": "Hàng ngày",
     "onoff": "IS_EVENT_X2NAP",
-    "content": "- Nhận thưởng 200% Hũ nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 HŨ\n-Áp dụng cho tất cá các hình thức nạp: Nạp qua thẻ, Nạp qua Ngân hàng, Nạp qua ví điện tử trong lần đầu.",
-    "giaithuong": "- Nhận thưởng 200% Hũ nạp lần đầu",
-    "luuy": "- Hũ thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận thưởng\n\n- Tiến trình nhận thưởng được thực hiện khi chơi game tại HUTO không tính các game Long Cung, Hải Vương, Lô số, Bầu cua, Game bài\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng hay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt Hũ thưởng,nếu tiến trình nhận thưởng không hoàn thành 100% thì toàn bộ số Hũ thưởng sẽ bị hủy\n\n- Khi thực hiện 1 trong 3 hình thức nạp thì 2 hình thức còn lại sẽ không được thực hiện nữa\n\n- Các trường hợp cố ý dùng mọi cách để trục lợi quyền quyết định sẽ thuốc về NPH.",
+    "content": "- Nhận thưởng 200% B nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 B\n-Áp dụng cho tất cá các hình thức nạp: Nạp qua thẻ, Nạp qua Ngân hàng, Nạp qua ví điện tử trong lần đầu.",
+    "giaithuong": "- Nhận thưởng 200% B nạp lần đầu",
+    "luuy": "- B thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận thưởng\n\n- Tiến trình nhận thưởng được thực hiện khi chơi game tại BAIVIP không tính các game Long Cung, Hải Vương, Lô số, Bầu cua, Game bài\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng hay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt B thưởng,nếu tiến trình nhận thưởng không hoàn thành 100% thì toàn bộ số B thưởng sẽ bị hủy\n\n- Khi thực hiện 1 trong 3 hình thức nạp thì 2 hình thức còn lại sẽ không được thực hiện nữa\n\n- Các trường hợp cố ý dùng mọi cách để trục lợi quyền quyết định sẽ thuốc về NPH.",
     "doituong": "Khuyến mại cho tất cả các thành viên mới đăng kí"
   },
   {
@@ -148,9 +148,9 @@
     "onoff": "IS_VP_EVENT",
     "time": "Từ 00:00 ngày 7/6 đến 23:59 ngày 15/06",
     "content": "- Các thành viên tham gia sự kiện sẽ được tính điểm dự trên số Vippoint\n phát sinh trong thời gian diễn ra sự kiện\n- Điểm vippoint sẽ được cập nhật liên tục trên Game.\n- Điểm VipPoint sẽ tăng mỗi khi chơi game.\n Để đạt TOP 1 người chơi cần ít nhất 3.000 VIP Point trở lên.\n- Các trường hợp sử dụng nick clone hoặc nhiều nick để cân cửa tài xỉu\nnhằm gian lận điểm VIP Point, nếu bị phát hiện sẽ hủy kết quả Event và\nkhóa tài khoản vĩnh viễn",
-    "giaithuong": "- Top 1: Yamaha MT 09 – trị giá 300m\n- Top 2: SH 150 2021 – 130m\n- Top 3: MacBook Pro M1 - 40m\n- Top 4: Honda Vision - 30m\n- Top 5: Samsung S21 Ultra 5G – 20m\n- Top 6: 10m HŨ\n- Top 7: 5m HŨ\n- Top 8: 4m HŨ\n- Top 9: 3m HŨ\n- Top 10: 2m HŨ\n- Top 11-15: 1.5m HŨ\n- Top 16-20: 1m HŨ\n- Top 21-50: 500k HŨ",
-    "luuy": "- THỜI GIAN TRẢ THƯỞNG\n+ Giải thưởng vật lý sẽ trao trong vòng 7-10 ngày kể từ khi kết thúc sự kiện\n+ Giải thưởng HŨ sẽ được trao tặng trong vòng 48h kể từ khi kết thúc\nsự kiện",
-    "doituong": "Áp dụng cho tất cả thành viên của HUTO"
+    "giaithuong": "- Top 1: Yamaha MT 09 – trị giá 300m\n- Top 2: SH 150 2021 – 130m\n- Top 3: MacBook Pro M1 - 40m\n- Top 4: Honda Vision - 30m\n- Top 5: Samsung S21 Ultra 5G – 20m\n- Top 6: 10m B\n- Top 7: 5m B\n- Top 8: 4m B\n- Top 9: 3m B\n- Top 10: 2m B\n- Top 11-15: 1.5m B\n- Top 16-20: 1m B\n- Top 21-50: 500k B",
+    "luuy": "- THỜI GIAN TRẢ THƯỞNG\n+ Giải thưởng vật lý sẽ trao trong vòng 7-10 ngày kể từ khi kết thúc sự kiện\n+ Giải thưởng B sẽ được trao tặng trong vòng 48h kể từ khi kết thúc\nsự kiện",
+    "doituong": "Áp dụng cho tất cả thành viên của BAIVIP"
   },
   {
     "idgame": 23,
@@ -158,10 +158,10 @@
     "title": "THÁNH NHỌ",
     "onoff": "IS_THANH_NHO_EVENT",
     "time": "Theo dõi trên Fanpage",
-    "content": "- Nhằm tri ân những khách hàng đã đồng hành cùng HŨ thời gian qua \nnhưng không gặp nhiều may mắn. HŨ sẽ trao thưởng 5 phần quà giá \ntrị cho 5 khách hàng có số HŨ thua nhiều nhất của game TÀI XỈU\ntrong thời gian diễn ra sự kiện.",
-    "giaithuong": "- TOP 1: 20.000.000 HŨ\n- TOP 2: 7.000.000 HŨ\n- TOP 3: 3.000.000 HŨ\n- TOP 4: 2.000.000 HŨ\n- TOP 5: 1.000.000 HŨ",
-    "luuy": "- THỜI GIAN TRẢ THƯỞNG\n+ Giải thưởng vật lý sẽ trao trong vòng 7-10 ngày kể từ khi kết thúc sự kiện\n+ Giải thưởng HŨ sẽ được trao tặng trong vòng 48h kể từ khi kết thúc\nsự kiện",
-    "doituong": "Tất cả các khách hàng tham gia chơi TÀI XỈU trên cổng game HUTO"
+    "content": "- Nhằm tri ân những khách hàng đã đồng hành cùng B thời gian qua \nnhưng không gặp nhiều may mắn. B sẽ trao thưởng 5 phần quà giá \ntrị cho 5 khách hàng có số B thua nhiều nhất của game TÀI XỈU\ntrong thời gian diễn ra sự kiện.",
+    "giaithuong": "- TOP 1: 20.000.000 B\n- TOP 2: 7.000.000 B\n- TOP 3: 3.000.000 B\n- TOP 4: 2.000.000 B\n- TOP 5: 1.000.000 B",
+    "luuy": "- THỜI GIAN TRẢ THƯỞNG\n+ Giải thưởng vật lý sẽ trao trong vòng 7-10 ngày kể từ khi kết thúc sự kiện\n+ Giải thưởng B sẽ được trao tặng trong vòng 48h kể từ khi kết thúc\nsự kiện",
+    "doituong": "Tất cả các khách hàng tham gia chơi TÀI XỈU trên cổng game BAIVIP"
   },
   {
     "idgame": 29,
@@ -169,10 +169,10 @@
     "title": "RUNG CÂY ĐẠI LÝ",
     "onoff": "IS_RUNG_CAY",
     "time": "Từ 00:00 ngày 26/05/2021 đến 23:59 ngày 31/05/2021.",
-    "content": "- Trong thời gian hoạt động trong ngày, người chơi tích lũy nạp HŨ qua\nĐẠI LÝ sẽ nhận được số lần RUNG CÂY.\n- Sau khi RUNG CÂY khách hàng chắc chắn sẽ nhận được quà.",
-    "giaithuong": "- 3 lượt quay free Avengers\n- 3 lượt quay free Đêm Vũ Trường\n- 3 lượt quay free Thần Tài\n- 3 lượt quay free Thành Rome\n- 3 lượt quay free Thành Rome\n- Và các giải thưởng HŨ như: 50K,100K,250K,500K,1100K,2600K",
-    "luuy": "- Số lần RUNG CÂY sẽ bị reset lại khi qua mốc 00h:00 ngày hôm sau nếu\nkhông sử dụng hết. Số Hũ tích nạp sẽ chỉ được tính trong ngày để tính ra\n số lần RUNG CÂY. Qua 00h: 00 cũng sẽ reset trở lại về 0.\n- Số HŨ nạp của khách hàng trong 1 ngày sẽ được quy đổi ra số lần RUNG\nCÂY theo điều kiện sau:\n+ Tích nạp HŨ: 1.000K Số lần rung cây: 2\n+ Tích nạp HŨ: 2.000K Số lần rung cây: 2\n+ Tích nạp HŨ: 5.000K Số lần rung cây: 3\n+ Tích nạp HŨ: 10.000K Số lần rung cây: 4",
-    "doituong": "Tất cả các khách hàng tham gia chơi HŨ trên cổng game HUTO"
+    "content": "- Trong thời gian hoạt động trong ngày, người chơi tích lũy nạp B qua\nĐẠI LÝ sẽ nhận được số lần RUNG CÂY.\n- Sau khi RUNG CÂY khách hàng chắc chắn sẽ nhận được quà.",
+    "giaithuong": "- 3 lượt quay free Avengers\n- 3 lượt quay free Đêm Vũ Trường\n- 3 lượt quay free Thần Tài\n- 3 lượt quay free Thành Rome\n- 3 lượt quay free Thành Rome\n- Và các giải thưởng B như: 50K,100K,250K,500K,1100K,2600K",
+    "luuy": "- Số lần RUNG CÂY sẽ bị reset lại khi qua mốc 00h:00 ngày hôm sau nếu\nkhông sử dụng hết. Số B tích nạp sẽ chỉ được tính trong ngày để tính ra\n số lần RUNG CÂY. Qua 00h: 00 cũng sẽ reset trở lại về 0.\n- Số B nạp của khách hàng trong 1 ngày sẽ được quy đổi ra số lần RUNG\nCÂY theo điều kiện sau:\n+ Tích nạp B: 1.000K Số lần rung cây: 2\n+ Tích nạp B: 2.000K Số lần rung cây: 2\n+ Tích nạp B: 5.000K Số lần rung cây: 3\n+ Tích nạp B: 10.000K Số lần rung cây: 4",
+    "doituong": "Tất cả các khách hàng tham gia chơi B trên cổng game BAIVIP"
   },
   {
     "idgame": 21,
@@ -180,30 +180,30 @@
     "title": "Thánh tài xỉu",
     "onoff": "IS_VUA_TAI_XIU",
     "time": "Từ 00h00 ngày 27/06/2021 đến 23h59 ngày 03/07/2021",
-    "content": "- Để tăng phần hấp dẫn cho người chơi cũng như tri ân toàn thể khách hàng\nđã ủng hộ HUTO trong thời gian vừa qua, NPH HŨ chính thức ra mắt\nsự kiện đua top tài xỉu (VUA TÀI XỈU) hàng ngày cùng những giải thưởng vô\ncùng giá trị.",
-    "giaithuong": "- Top 1: 5.000.000 HŨ\n- Top 2: 3.000.000 HŨ\n- Top 3: 2.000.000 HŨ\n- Top 4: 1.000.000 HŨ\n- Top 5: 500.000 HŨ",
-    "luuy": "- Xuyên suốt thời gian diễn ra sự kiện, hàng ngày sẽ dựa vào bảng xếp hạng\nTop Tài Xỉu để trao giải\n- Reset lại tính từ 0h00 ngày mới.\n- Nếu có 2 hay nhiều người chơi bằng điểm, thì hệ thống sẽ căn cứ theo ai\nđạt số điểm đó trước.\n- Nghiêm cấm hành vi dồn Hũ từ nhiều tài khoản qua Tài Xỉu để gian lận\nthứ tự bảng xếp hạng.\n- Để đạt Top 1 cần Số Hũ thắng TX tối thiếu trong ngày đạt 150M\n- Giải thưởng HŨ sẽ được trao tặng hàng ngày\n- Quyết định của Ban Quản Trị là quyết định cuối cùng.\n",
-    "doituong": "- Tất cả các khách hàng trên cổng game HUTO"
+    "content": "- Để tăng phần hấp dẫn cho người chơi cũng như tri ân toàn thể khách hàng\nđã ủng hộ BAIVIP trong thời gian vừa qua, NPH B chính thức ra mắt\nsự kiện đua top tài xỉu (VUA TÀI XỈU) hàng ngày cùng những giải thưởng vô\ncùng giá trị.",
+    "giaithuong": "- Top 1: 5.000.000 B\n- Top 2: 3.000.000 B\n- Top 3: 2.000.000 B\n- Top 4: 1.000.000 B\n- Top 5: 500.000 B",
+    "luuy": "- Xuyên suốt thời gian diễn ra sự kiện, hàng ngày sẽ dựa vào bảng xếp hạng\nTop Tài Xỉu để trao giải\n- Reset lại tính từ 0h00 ngày mới.\n- Nếu có 2 hay nhiều người chơi bằng điểm, thì hệ thống sẽ căn cứ theo ai\nđạt số điểm đó trước.\n- Nghiêm cấm hành vi dồn B từ nhiều tài khoản qua Tài Xỉu để gian lận\nthứ tự bảng xếp hạng.\n- Để đạt Top 1 cần Số B thắng TX tối thiếu trong ngày đạt 150M\n- Giải thưởng B sẽ được trao tặng hàng ngày\n- Quyết định của Ban Quản Trị là quyết định cuối cùng.\n",
+    "doituong": "- Tất cả các khách hàng trên cổng game BAIVIP"
   },
   {
     "idgame": 14,
     "name": "Tài Xỉu",
     "title": "Thánh Dự Tài Xỉu",
     "time": "0:00:00 đến 23:59:59 hàng ngày",
-    "content": "Người chơi tham gia mini game Tài Xỉu bằng Hũ thắng và thua liên tiếp\nCó cơ hội nhận thưởng nhiều phần thưởng bằng HŨ.\n\nTiêu Chí Xếp Hạng:\n1. Số ván Đánh thắng hoặc thua liên tiếp dài nhất hệ thống ghi nhận.\n2. Tổng Hũ thắng(chuỗi thắng), thua(chuỗi thua).\n3. Thời gian đạt chuỗi thắng hoặc thua liên tiếp. ",
-    "giaithuong": "Top Thắng Liên Tiếp:\nTop1: 2.000.000 HŨ.\nTop2: 1.000.000 HŨ.\nTop3: 500.000 HŨ.\n\nTop Thua Liên Tiếp:\nTop1: 2.000.000 HŨ.\nTop2: 1.000.000 HŨ.\nTop3: 500.000 HŨ.",
-    "luuy": "- Các Ván đánh có lệnh khớp tối thiểu 2.000 HŨ.\n- Có ít nhất 1 ván lệnh khớp tối thiểu 10.000 HŨ. \n- Không ghi nhận những ván chơi hoàn trả Hũ.\n- Trong trường hợp tranh chấp, quyết định của BTC là quyết định cuối cùng.",
-    "doituong": "Người chơi mini game Tài Xỉu bằng HŨ."
+    "content": "Người chơi tham gia mini game Tài Xỉu bằng B thắng và thua liên tiếp\nCó cơ hội nhận thưởng nhiều phần thưởng bằng B.\n\nTiêu Chí Xếp Hạng:\n1. Số ván Đánh thắng hoặc thua liên tiếp dài nhất hệ thống ghi nhận.\n2. Tổng B thắng(chuỗi thắng), thua(chuỗi thua).\n3. Thời gian đạt chuỗi thắng hoặc thua liên tiếp. ",
+    "giaithuong": "Top Thắng Liên Tiếp:\nTop1: 2.000.000 B.\nTop2: 1.000.000 B.\nTop3: 500.000 B.\n\nTop Thua Liên Tiếp:\nTop1: 2.000.000 B.\nTop2: 1.000.000 B.\nTop3: 500.000 B.",
+    "luuy": "- Các Ván đánh có lệnh khớp tối thiểu 2.000 B.\n- Có ít nhất 1 ván lệnh khớp tối thiểu 10.000 B. \n- Không ghi nhận những ván chơi hoàn trả B.\n- Trong trường hợp tranh chấp, quyết định của BTC là quyết định cuối cùng.",
+    "doituong": "Người chơi mini game Tài Xỉu bằng B."
   },
   {
     "idgame": 15,
     "name": "Bầu Cua",
     "title": "Săn Tôm - Rôm Rả Quà",
     "time": "0:00:00 đến 23:59:59 hàng ngày",
-    "content": "Trong suốt thời gian diễn ra sự kiện, người chơi có:\n- Số ván ăn được Tôm liên tiếp nhiều nhất sẽ nhận được phần thưởng.\n\nTiêu Chí Xếp Hạng:\n- Tổng số tôm người chơi thắng được trong chuỗi thắng liên tiếp.\n- Độ dài của chuỗi thắng liên tiếp.\n- Tổng HŨ Thắng.\n- Tổng HŨ đặt\n- Thời gian.",
-    "giaithuong": " Top1: 1.000.000 HŨ.\n Top2: 500.000 HŨ.\n Top3: 200.000 HŨ.\n Top4-5: 100.000 HŨ ",
+    "content": "Trong suốt thời gian diễn ra sự kiện, người chơi có:\n- Số ván ăn được Tôm liên tiếp nhiều nhất sẽ nhận được phần thưởng.\n\nTiêu Chí Xếp Hạng:\n- Tổng số tôm người chơi thắng được trong chuỗi thắng liên tiếp.\n- Độ dài của chuỗi thắng liên tiếp.\n- Tổng B Thắng.\n- Tổng B đặt\n- Thời gian.",
+    "giaithuong": " Top1: 1.000.000 B.\n Top2: 500.000 B.\n Top3: 200.000 B.\n Top4-5: 100.000 B ",
     "luuy": "- Phần thưởng sẽ được trao vào 3:00:00 ngày kế tiếp.\n- Một tài khoản chỉ có thể nhận được 1 phần thưởng duy nhất trong ngày.\n- Trong trường hợp có tranh chấp, Quyết định của BTC là quyết định \ncuối cùng.",
-    "doituong": "Tất cả những người chơi minigame Bầu Cua bằng HŨ trên HUTO"
+    "doituong": "Tất cả những người chơi minigame Bầu Cua bằng B trên BAIVIP"
   },
   {
     "idgame": 16,
@@ -213,7 +213,7 @@
     "content": "Tri ân người chơi MiniPoker. BQT quyết định cứ vào 10:30' thứ 6 hàng tuần, \nMiniPoker sẽ được x4 giá trị hũ.",
     "giaithuong": " Mức Cược 100: 10 Hũ được X4.\n Mức Cược 1.000: 1 Hũ được x4.",
     "luuy": "- Phòng 100: Hũ được X4 tiếp theo sẽ cách 3 hũ bình thường đối với hũ X4 \ntrước đó (Ví dụ: 1, 5, 9, 13).\n- Phòng 1.000: Hũ thứ ba và thứ bảy sẽ được X4 tính từ thời điểm khung \ngiờ vàng.\n- Sự kiện được kết thúc khi trao thưởng đủ 10 x4 mức cược 100 và 1 hũ X4 \nmức cược 1.000.\n- Khi có tranh chấp, quyết định của BQT là quyết định cuối cùng.",
-    "doituong": "Tất cả người chơi minigame MiniPoker bằng HŨ trên HUTO"
+    "doituong": "Tất cả người chơi minigame MiniPoker bằng B trên BAIVIP"
   },
   {
     "idgame": 17,
@@ -221,9 +221,9 @@
     "title": "Át Chủ Bài",
     "time": "0:00:00 đến 23:59:59 hàng ngày và Hàng Tháng",
     "content": "Chơi game cao thấp sẽ có cơ hội bốc được bài đẹp, người chơi có bài đẹp \nsẽ có cơ hội nhận giải thưởng có giá trị:",
-    "giaithuong": "Giải Thưởng Ngày:\nTop1: 2.000.000 HŨ.\nTop2: 1.000.000 HŨ.\nTop3: 500.000 HŨ.\n\nGiải Thưởng tháng:\nTop 1: 16.000.000 HŨ.",
+    "giaithuong": "Giải Thưởng Ngày:\nTop1: 2.000.000 B.\nTop2: 1.000.000 B.\nTop3: 500.000 B.\n\nGiải Thưởng tháng:\nTop 1: 16.000.000 B.",
     "luuy": "Bài đẹp được xếp theo quy tắc của game Poker (Thùng phá sảnh to nhất \n->  Mậu Thầu thấp nhất).",
-    "doituong": "Người chơi Cao Thấp bằng HŨ."
+    "doituong": "Người chơi Cao Thấp bằng B."
   },
   {
     "idgame": 1,
@@ -232,8 +232,8 @@
     "time": "19:30:00 -> 23:30:00 Thứ 3, 5, 7",
     "content": "Trong thời gian diễn ra sự kiện, sẽ có Hũ Vàng xuất hiện\nNgười chơi sẽ có cơ hội nhận được % tương ứng của hũ nếu bốc được bộ \nbài Sảnh Rồng có 2.",
     "giaithuong": "Giải thưởng của hũ Vàng được chia ra tùy thuộc vào bàn đang chơi như sau:\n Bàn 100: 0,5%.\n Bàn 500: 1%.\n Bàn 1.000: 2%.\n Bàn 2.000: 3%.\n Bàn 5.000: 5%.\n Bàn 10.000: 10%.\n Bàn 20.000: 15%.\n Bàn 50.000: 20%.\n Bàn 100.000: 30%.\n Bàn 200.000: 40%.",
-    "luuy": "Hũ vàng sẽ được khởi điểm bắt đầu từ 3.000.000 HŨ.\nTiếp theo cứ 1 phút hũ vàng game bài sẽ được tăng thêm 10.000 HŨ.",
-    "doituong": "Người chơi game Tiến lên Miền Nam bằng HŨ tại HUTO"
+    "luuy": "Hũ vàng sẽ được khởi điểm bắt đầu từ 3.000.000 B.\nTiếp theo cứ 1 phút hũ vàng game bài sẽ được tăng thêm 10.000 B.",
+    "doituong": "Người chơi game Tiến lên Miền Nam bằng B tại BAIVIP"
   },
   {
     "idgame": 4,
@@ -242,8 +242,8 @@
     "time": "19:30:00 -> 23:30:00 Thứ 3, 5, 7",
     "content": "Trong thời gian diễn ra sự kiện, sẽ có Hũ Vàng xuất hiện\n Người chơi sẽ có cơ hội nhận được % tương ứng của hũ nếu bốc được bộ \nbài Sảnh Rồng có 2.",
     "giaithuong": "Giải thưởng của hũ Vàng được chia ra tùy thuộc vào bàn đang chơi như sau:\n Bàn 100: 0,5%.\n Bàn 500: 1%.\n Bàn 1.000: 2%.\n Bàn 2.000: 3%.\n Bàn 5.000: 5%.\n Bàn 10.000: 10%.\n Bàn 20.000: 15%.\n Bàn 50.000: 20%.\n Bàn 100.000: 30%.\n Bàn 200.000: 40%.",
-    "luuy": "Hũ vàng sẽ được khởi điểm bắt đầu từ 3.000.000 HŨ. Tiếp theo cứ 1 phút \nhũ vàng game bài sẽ được tăng thêm 10.000 HŨ.",
-    "doituong": "Người chơi game Tiến lên Miền Nam và Tiến Lên Miền Nam Solo bằng HŨ \ntại cổng HUTO."
+    "luuy": "Hũ vàng sẽ được khởi điểm bắt đầu từ 3.000.000 B. Tiếp theo cứ 1 phút \nhũ vàng game bài sẽ được tăng thêm 10.000 B.",
+    "doituong": "Người chơi game Tiến lên Miền Nam và Tiến Lên Miền Nam Solo bằng B \ntại cổng BAIVIP."
   },
   {
     "idgame": 5,
@@ -252,8 +252,8 @@
     "time": "19:30:00 -> 23:30:00 Thứ 2 và Thứ 6",
     "content": "Trong thời gian diễn ra sự kiện, sẽ có Hũ Vàng xuất hiện chơi game Sâm Lốc \nsẽ có cơ hội nhận được % hũ theo mệnh giá của bàn chơi nếu đạt được bộ \nbài Sảnh rồng chứa A - 10 lá liên tiếp có A.",
     "giaithuong": "Giải thưởng của hũ Vàng được chia ra tùy thuộc vào bàn đang chơi như sau:\n Bàn 100: 0,5%.\n Bàn 500: 1%.\n Bàn 1.000: 2%.\n Bàn 2.000: 3%.\n Bàn 5.000: 10%.\n Bàn 10.000: 15%.\n Bàn 20.000: 20%.\n Bàn 50.000: 30%.\n Bàn 100.000: 40%.\n Bàn 200.000: 50%.",
-    "luuy": "Hũ vàng sẽ được khởi điểm bắt đầu từ 2.000.000 HŨ. Cứ mỗi 1 phút hũ \nsẽ tăng lên 5.000 HŨ.",
-    "doituong": "Người chơi game Sâm Lốc bằng HŨ"
+    "luuy": "Hũ vàng sẽ được khởi điểm bắt đầu từ 2.000.000 B. Cứ mỗi 1 phút hũ \nsẽ tăng lên 5.000 B.",
+    "doituong": "Người chơi game Sâm Lốc bằng B"
   },
   {
     "idgame": 7,
@@ -262,8 +262,8 @@
     "time": "19:30:00 -> 23:30:00 Thứ Tư và Chủ Nhật",
     "content": "Trong thời gian diễn ra sự kiện, chơi game Mậu Binh sẽ có cơ\n hội nhận được % hũ nếu đạt được bộ bài Sảnh Rồng.",
     "giaithuong": "Giải thưởng của hũ Vàng được chia ra tùy thuộc vào bàn đang chơi như sau:\n Bàn 100: 0,5%.\n Bàn 500: 1%.\n Bàn 1.000: 2%.\n Bàn 2.000: 3%.\n Bàn 5.000: 10%.\n Bàn 10.000: 15%.\n Bàn 20.000: 20%.\n Bàn 50.000: 30%.\n Bàn 100.000: 40%.\n Bàn 200.000: 50%.",
-    "luuy": "Hũ vàng sẽ được khởi điểm bắt đầu từ 2.000.000 HŨ. Cứ mỗi 1 phút hũ \nsẽ tăng lên 5.000 HŨ.",
-    "doituong": "Người chơi game Mậu Binh bằng HŨ"
+    "luuy": "Hũ vàng sẽ được khởi điểm bắt đầu từ 2.000.000 B. Cứ mỗi 1 phút hũ \nsẽ tăng lên 5.000 B.",
+    "doituong": "Người chơi game Mậu Binh bằng B"
   },
   {
     "idgame": 8,
@@ -343,7 +343,7 @@
     "content": "Vào 00:00' Thứ Bảy hàng tuần, Tam Quốc sẽ X8 Hũ mức cược\n 100,x3 HŨ mức cược 1.000 và x2 Hũ mức cược 5.000 như sau:",
     "giaithuong": "- Phòng 100: 6 hũ x8, cách 5 hũ sẽ có 1 hũ x8.\n- Phòng 1.000: 3 hũ x3, Hũ thứ 3 và hũ thứ 9 sẽ x3\n- Phòng 5.000: 1 hũ x2, Hũ thứ 2 sẽ x2",
     "luuy": "Cách tính thưởng:\n- Nổ hũ X8 = Số tiền Hũ hiện tại + 7 x Số tiền hũ khởi tạo\n\n- Ví dụ phòng 100 user nổ hũ X8. Giá trị hũ đang là 800.000\nUser nổ hũ x8 và giải thưởng payline là 30.000\nTổng tiền user nhận được:\n800.000 + 500.000 x 7 + 30.000 = 4.330.000\n\n- Ví dụ phòng 1000 user nổ hũ X3. Giá trị hũ đang là 6.200.000\nUser nổ hũ x8 và giải thưởng payline là 200.000\nTổng tiền user nhận được:\n6.200.000 + 5.000.000 x 2 + 200.000 = 16.400.000\n\n- Ví dụ phòng 5000 user nổ hũ X2. Giá trị hũ đang là 28.800.000\nUser nổ hũ x8 và giải thưởng payline là 300.000\nTổng tiền user nhận được:\n28.800.000 + 25.000.000 + 300.000 = 54.100.000",
-    "doituong": "Người chơi Tam Quốc bằng HŨ"
+    "doituong": "Người chơi Tam Quốc bằng B"
   },
   {
     "idgame": 41,
