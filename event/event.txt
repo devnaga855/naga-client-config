@@ -93,10 +93,10 @@
     "name": "Nhiệm vụ",
     "title": "Nhiệm vụ",
     "onoff": "is_nhiem_vu",
-    "time": "Diễn ra vào các ngày trong tuần",
-    "content": "- Na thưởng sẽ được cộng vào số dư của bạn",
-    "giaithuong": "- Hoàn thành yêu cầu của từng nhiệm vụ đề ra.\n- Khi đã hoàn thành mỗi nhiệm vụ, bạn sẽ nhận được giải thưởng tương\nxứng cho mỗi nhiệm vụ đó.",
-    "luuy": "- Nhận thưởng theo từng nhiệm vụ hoàn thành, không tính trùng nhiệm vụ\nkhi thực hiện\n- Qua ngày mới sẽ reset lại từ đầu\n- Nhiệm vụ sẽ được cập nhật và thay đổi liên tục",
+    "time": "Diễn ra vào các ngày trong tuần, danh sách nhiệm vụ reset vào 5h00 hàng ngày",
+    "content": "- Trong ngày hệ thống sẽ đưa ra rất nhiều nhiệm vụ, người chơi hoàn thành danh sách nhiệm vụ để nhận phần thưởng tương ứng\n- Tích nạp nhận lãi lớn: Tất cả các ngày trong tuần\n- Người chơi hệ đỏ: Thứ 2, 5\n- Bậc thầy số học: Thứ 3, 6\n- Đánh nhanh rút gọn: Thứ 4, 7\n- Đặc biệt Chủ nhật mở toàn bộ các nhiệm vụ.\nNgười chơi cần hoàn thành 1 nhiệm vụ Tích nạp nhận lãi lớn bất kì để được mở khóa các nhiệm vụ khác.\nTiền cược được tính là tiền cược hợp lệ\nNgười chơi thắng khi tiền thưởng > tiền cược.",
+    "giaithuong": "- Hoàn thành yêu cầu của từng nhiệm vụ đề ra.\n- Khi đã hoàn thành mỗi nhiệm vụ, bạn sẽ nhận được giải thưởng tương xứng cho mỗi nhiệm vụ đó.",
+    "luuy": "- Điều Kiện Nhận Thưởng: Tài khoản phải kích hoạt sử dụng OTP TELEGRAM",
     "doituong": "Áp dụng cho tất cả người chơi trên cổng game"
   },
   {
