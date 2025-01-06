@@ -70,7 +70,7 @@
     "name": "Vòng quay Giàu Sang",
     "title": "Vòng quay Giàu Sang",
     "onoff": "is_tet_event",
-    "time": "Từ 0h00 ngày 03/01 đến 23h59 ngày 09/01",
+    "time": "Từ 0h00 ngày 07/01 đến 23h59 ngày 22/01",
     "content": "NPH Na Club xin được gửi đến siêu sự kiện Vòng Quay Giàu Sang nhằm tri ân các Quý khách hàng đã gắn bỏ với cổng game trong suốt thời gian qua.\n-Khi Quý khách tham gia các trò chơi trên cổng game (trừ Bóng88, Trùm cá, Thần Biển, xóc đĩa, game bài),bạn sẽ có cơ hội nhận ngay một chiếc Xèng may mắn.\n-Khi Quý khách nạp 10 triệu Na sẽ nhận ngay một chiếc Xèng may mắn.",
     "giaithuong": "Dùng xèng để tham gia quay Vòng quay Giàu Sang, bạn sẽ có cơ hội nhận được phần thưởng hoặc một trong những Mảnh ghép chữ cái sau:\n5.000 Na\n10.000 Na\n20.000 Na\n50.000 Na\nKhi sưu tập đủ cụm từ: NA99 CLUB, bạn sẽ có cơ hội nhận được giải thưởng lên đến 399.999.999 NA\nGiải thưởng 399.999.999 chỉ có 1 và dành cho người sưu tập đủ, nhanh nhất cụm từ NA99 CLUB. Và trong trường hợp xảy ra tranh chấp, quyết định của NPH là quyết định cuối cùng.Mỗi ngày quý khách được nhận tối đa 30 vòng quay may mắn.\nPhần thưởng BONUS: Sưu tập được 20 Mảnh ghép Chữ giống nhau sẽ được nhận thêm 100.000 NA",
     "luuy": "1 Xèng sẽ đổi được 1 lượt quay",
