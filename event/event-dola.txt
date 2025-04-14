@@ -201,7 +201,7 @@
     "name": "Rung cây",
     "title": "RUNG CÂY NẠP BANK",
     "onoff": "is_rung_cay",
-    "time": "Từ 00:00 ngày 03/04 đến 23:59 ngày 07/04",
+    "time": "Từ 00:00 ngày 15/04 đến 23:59 ngày 19/04",
     "content": "- Trong thời gian hoạt động trong ngày, người chơi tích lũy nạp Na qua BANK sẽ nhận được số lần RUNG CÂY.\n- Sau khi RUNG CÂY khách hàng chắc chắn sẽ nhận được quà.",
     "giaithuong": "- 3 lượt quay free Siêu Anh Hùng\n- 3 lượt quay free Đêm Vũ Trường\n- 3 lượt quay free Vương Quốc Na\n- 3 lượt quay free Đế Chế La Mã\n- Và các giải thưởng Na như: 50K,100K,250K,500K,1100K,2600K",
     "luuy": "- Số lần RUNG CÂY sẽ bị reset lại khi qua mốc 00h:00 ngày hôm sau nếu\nkhông sử dụng hết. Số Na tích nạp sẽ chỉ được tính trong ngày để tính ra\n số lần RUNG CÂY. Qua 00h: 00 cũng sẽ reset trở lại về 0.\n- Số Na nạp của khách hàng trong 1 ngày sẽ được quy đổi ra số lần RUNG\nCÂY theo điều kiện sau:\n+ Tích nạp Na: 1.000K Số lần rung cây: 2\n+ Tích nạp Na: 2.000K Số lần rung cây: 2\n+ Tích nạp Na: 5.000K Số lần rung cây: 3\n+ Tích nạp Na: 10.000K Số lần rung cây: 4",
