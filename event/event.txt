@@ -1,4 +1,15 @@
 [
+
+  {
+      "idgame": 50,
+      "name": "MỪNG ĐẠI LỄ - NHẬN TRI ÂN",
+      "title": "MỪNG ĐẠI LỄ - NHẬN TRI ÂN",
+      "time": "Đến khi có thông báo kết thúc",
+      "content": "Chào mừng ĐẠI LỄ\n\nNACLUB gửi đến quý khách hàng lời cám ơn đã đồng hành trong suốt 9 năm qua. \nNACLUB đã, đang và sẽ tiếp tục gửi nhiều tin nhắn TRI ÂN KHÁCH HÀNG qua hệ thống tin nhắn SMS.\n\nQuý khách nhận được tin nhắn vui lòng liên hệ CSKH để được nhận phần quà tri ân từ NACLUB.\nĐể biết mình có nằm trong danh sách TRI ÂN quý khách vui lòng liên hệ CSKH để được giải đáp thắc mắc.\n\nChúc quý khách ngày lễ lớn vui vẻ - thắng lớn cùng NACLUB!",
+      "giaithuong": "Liên hệ CSKH để được nhận thưởng",
+      "luuy": "Tài khoản nằm trong danh sách nhận thưởng mới được nhận thưởng",
+      "doituong": "Tất cả các tài khoản nằm trong danh sách nhận thưởng"
+    },
     {
         "idgame": 32,
         "name": "Nhiệm vụ",
